@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1486300234 source:d:\数据结构课设熊倩\html_domtree\main\html_tree\main.c
+	"HTML_tree.h"
+
+1485414567 d:\数据结构课设熊倩\html_domtree\main\html_tree\\html_tree.h
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
+1486273633 d:\数据结构课设熊倩\html_domtree\main\html_tree\html_tree.h
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
