@@ -31,7 +31,7 @@ status Creat_HTML_List(void)
 		printf("fail to open the file\n");
 		return FALSE;
 	}
-
+    char *p = NULL;
 	while ((fscanf(pfile, "%c", &ch)) > 0)      //直到读到文本最后有一个'\0'为止
 	{
 		if (ch == '<')
@@ -101,10 +101,30 @@ status Creat_HTML_List(void)
 		{
 			if (!IS_ignore)
 			{
+			    char *p;
 				while (ch != '<')
 				{
 					token[token_len++] = ch;
 					fscanf(pfile, "%c", &ch);
+					if ((p = strstr(token, "&nbsp")) != NULL){
+                        *p = ' ';
+                        token_len -= 4;
+					}else if ((p = strstr(token, "&gt")) != NULL){
+                        *p = '>';
+                        token_len -= 2;
+                    }else if ((p = strstr(token, "&lt")) != NULL){
+                        *p = '<';
+                        token_len -= 2;
+                    }else if ((p = strstr(token, "&amp")) != NULL){
+                        *p = '&';
+                        token_len -= 2;
+                    }else if ((p = strstr(token, "&quot")) != NULL){
+                        *p = '\"';
+                        token_len -= 4;
+                    }else if ((p = strstr(token, "&apos")) != NULL){
+                        *p = '\'';
+                        token_len -= 4;
+                    }
 				}
 				ungetc(ch, pfile);		//将获取的'<'回退回文档，以便下一次的获取
 				token[token_len] = '\0';
