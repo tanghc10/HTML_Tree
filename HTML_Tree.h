@@ -40,7 +40,7 @@ typedef struct elemtype
 	ATTRVALUE *sttributes;  //元素的属性
 }ELEMTYPE;
 
-char *HTML_filename = "sohu.txt";   //存放HTML程序的文档
+char *HTML_filename = "tenxun.txt";   //存放HTML程序的文档
 int flag_wbr = 0;					//用于标记wbr是否配对
 
 status Creat_HTML_List(void);
