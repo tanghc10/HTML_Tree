@@ -20,6 +20,7 @@ status Creat_HTML_List(void)
 	int IS_end = 0;				//用于标记是否结束符
 	int IS_attributes = 0;		//用于标记是否是属性
 	int token_len = 0;			//用于标记token的长度
+	int Level = 0;
 	TOKEN *p_token = NULL;
 
 	head_token = (TOKEN *)malloc(sizeof(TOKEN));
@@ -39,6 +40,7 @@ status Creat_HTML_List(void)
 			fscanf(pfile, "%c", &ch);
 			if (ch == '/')		//对于有直接以'/'结尾的token直接处理
 			{
+			    Level--;
 				IS_end = TRUE;
 				fscanf(pfile, "%c", &ch);
 				while (ch != ' ' && ch != '>' && ch != '/')
@@ -48,17 +50,39 @@ status Creat_HTML_List(void)
 				}
 				while (ch != '>')
                 {
+                    if (ch == '\'' || ch == '\"'){
+                        char ch2 = ch;
+                        fscanf(pfile, "%c", &ch);
+                        while (ch != ch2){
+                            fscanf(pfile, "%c", &ch);
+                        }
+                    }
                     fscanf(pfile, "%c", &ch);
                 }
 				token[token_len] = '\0';
-				//strcpy(token,"");
-				//token_len = 0;
 				token_handle = end_handle;
 				token_handle(token, &token_len, &IS_end);		//将token_len和IS_end恢复初始化
 				continue;
 			}
+			else if (ch == '!'){
+                fscanf(pfile, "%c", &ch);
+                if (ch == '-'){
+                    while (1){
+                        if (ch == '-'){
+                            fscanf(pfile, "%c", &ch);
+                            if (ch == '-'){
+                                fscanf(pfile, "%c", &ch);
+                                if (ch == '>')
+                                    break;
+                            }
+                        }
+                        fscanf(pfile, "%c", &ch);
+                    }
+                }
+			}
 			else
 			{
+			    Level++;
 				IS_end = FALSE;
 				while (ch != ' ' && ch != '>' && ch != '/' && ch != ':')
 				{
@@ -68,6 +92,12 @@ status Creat_HTML_List(void)
 				while (ch != '>')
                 {
                     fscanf(pfile, "%c", &ch);
+                    if (ch == '\'' || ch == '\"'){
+                        char ch2 = ch;
+                        while(ch != ch2){
+                            fscanf(pfile, "%c", &ch);
+                        }
+                    }
                 }
 				token[token_len] = '\0';
 				token_handle = start_handle;
@@ -76,7 +106,13 @@ status Creat_HTML_List(void)
                 {
                     while(1){
                         fscanf(pfile, "%c", &ch);
-                        if (ch == '<'){
+                        if (ch == '\"' || ch == '\''){
+                            char ch2 = ch;
+                            while (ch != ch2){
+                                fscanf(pfile, "%c", &ch);
+                            }
+                        }
+                        else if (ch == '<'){
                             fscanf(pfile, "%c", &ch);
                             if (ch == '/'){
                                 fscanf(pfile, "%c", &ch);
@@ -84,7 +120,7 @@ status Creat_HTML_List(void)
                                 while(ch == token[token_num++]){
                                     fscanf(pfile, "%c", &ch);
                                 }
-                                if (ch == '>' && token[token_num] == '\0');
+                                if (ch == '>');
                                     break;
                             }
                         }
@@ -95,17 +131,32 @@ status Creat_HTML_List(void)
 				continue;
 			}
 		}
-		else if(ch == '\n' || ch == ' ')
+		else if(ch == '\n' || ch == ' ' || ch == '\t')
             continue;
 		else
 		{
 			if (!IS_ignore)
 			{
 			    char *p;
+			    if (ch == '\''){
+                    fscanf(pfile, "%c", &ch);
+                    while (ch != '\'') fscanf(pfile, "%c", &ch);
+                    continue;
+			    }
 				while (ch != '<')
 				{
 					token[token_len++] = ch;
 					fscanf(pfile, "%c", &ch);
+					if (ch == '\n' || ch == '\t')
+                        ch == ' ';
+					/*else if (ch == '\'' || ch == '('){
+                        char ch2 = ch;
+                        if (ch == '(') ch == ')';
+                        fscanf(pfile, "%c", &ch);
+                        while (ch != ch2){
+                            fscanf(pfile, "%c", &ch);
+                        }
+					}*/
 					if ((p = strstr(token, "&nbsp")) != NULL){
                         *p = ' ';
                         token_len -= 4;
@@ -128,10 +179,6 @@ status Creat_HTML_List(void)
 				}
 				ungetc(ch, pfile);		//将获取的'<'回退回文档，以便下一次的获取
 				token[token_len] = '\0';
-				//printf("innertext:%s\n",token);
-				//strcpy(token,"");
-				//token_len = 0;
-				//IS_ignore = TRUE;
 				token_handle = innertext_handle;
 				token_handle(token, &token_len, &IS_ignore);	//将IS_ignore改成默认的可以忽略
 			}
@@ -270,7 +317,7 @@ void start_handle(char *token, int *token_len, int *sign)
 }
 void end_handle(char *token, int *token_len, int *sign)
 {
-	tail_token = (TOKEN *)malloc(sizeof(TOKEN));
+	/*tail_token = (TOKEN *)malloc(sizeof(TOKEN));
 	tail_token->elem = (char *)malloc(sizeof(char)*(*token_len + 1));
 	if(!tail_token || !tail_token->elem)
     {
@@ -281,7 +328,7 @@ void end_handle(char *token, int *token_len, int *sign)
 	tail_token->type = END;
 	tail_token->next = head_token->next;
 	head_token->next = tail_token;
-	head_token = tail_token;
+	head_token = tail_token;*/
 	strcpy(token,"");
 	*token_len = 0;
 	*sign = FALSE;
@@ -315,7 +362,8 @@ void test(void)
         printf("文件打开失败\n");
     while(tail_token != NULL)
     {
-        fprintf(pfile, "%s\n",tail_token->elem);
+        if (tail_token->type == INNERTEXT)
+            fprintf(pfile, "%s\n",tail_token->elem);
         tail_token=tail_token->next;
     }
     fclose(pfile);
