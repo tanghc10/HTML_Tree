@@ -1,0 +1,951 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="gb2312" />
+<script src="http://www.pconline.com.cn/3g/wap2013/intf/1305/intf2739.js" class=" defer"></script>
+<script type="text/javascript">
+deviceJump.init(
+{"main":"http://news.pconline.com.cn/880/8808200.html","wap":"http://g.pconline.com.cn/880/8808200.html","wap_3g":"http://g.pconline.com.cn/x/880/8808200.html"}
+);
+</script>
+<title>特朗普两次甩开妻子的手:不牵手,我是总统!_社会百态_太平洋电脑网资讯中心</title>
+<meta name="keywords" content="特朗普,妻子,第一夫人"/>
+<meta name="description" content="近日，据外媒报道，美国总统特朗普带着“第一夫人”梅兰妮亚到佛罗里达度周末，这是梅兰妮亚在特朗普就职周末以来，首度公开露面。特朗普座机抵达棕榈滩国际机场，停机坪上有不少前来迎接的民众。但这时候，特朗普突"/>
+<meta http-equiv="mobile-agent" content="format=html5; url=http://g.pconline.com.cn/x/880/8808200.html">
+<meta http-equiv="mobile-agent" content="format=xhtml; url=http://g.pconline.com.cn/880/8808200.html">
+<meta name="Author" content="xiexingjun_gz chenhaoyan_gz" />
+<link href="http://js.3conline.com/pconline/2016/news/css/style.css" rel="stylesheet" type="text/css" />
+<base target="_blank"></base>
+<!--[if IE 6]><script>document.execCommand("BackgroundImageCache", false, true)</script><![endif]-->
+<!--是否引用其他栏目广告-->
+</head>
+<body id="lazy">
+<div id="ivy_div" style="display: none;"></div>
+<script type="text/javascript">
+function fixImg(pic,w,h){
+var _img =new Image();
+_img.onload = function(){
+var oldwidth = _img.width;
+var oldheight = _img.height;
+var w_rate = oldwidth / w;
+var h_rate = oldheight / h;
+if(oldwidth / oldheight > w / h){
+var imgheight = pic.height = h;
+var imgwidth = pic.width = Math.ceil(oldwidth / h_rate);
+}else{
+var imgwidth = pic.width = w;
+var imgheight = pic.height = Math.ceil(oldheight / w_rate);
+}
+if(imgwidth == w){
+pic.style.top = (h-imgheight)/2+"px";
+}else if(imgheight == h){
+pic.style.left = (w-imgwidth)/2+"px";
+}
+}
+_img.src=pic.src;
+}
+</script>
+<!--栏目计数器/文章计数器-->
+<span class="spanclass">
+<script>
+window._common_counter_code_='channel=11219';
+window._common_counter_uuid_='__uuid=000094806:1.0:cms&';
+document.body.insertBefore(document.createElement("script"),document.body.firstChild).src="http://count5.pconline.com.cn/newcount/count.php?"+_common_counter_uuid_+_common_counter_code_+"&screen="+screen.width+"*"+screen.height+"&refer="+encodeURIComponent(document.referrer)+"&anticache="+new Date().getTime()+"&url="+encodeURIComponent(location.href)+"&from="+(window._common_counter_from_ ? window._common_counter_from_:'cms')+"&iframeCode="+(self === top ? 0 : (top === parent ? 1 : 2));
+</script>
+</span>
+<style type="text/css">
+.navibar a:hover img{opacity:1;}
+dl,dt,dd,ul,li{ margin:0; padding:0;}
+.clearfix{*zoom:1}.clearfix:after{content:"\20";clear:both;height:0;display:block;overflow:hidden;}
+.navibar a{ display:inline-block;}
+.nb-none{ display:none;}
+.navibar .nb-arrow,
+.nb-tit-user .nb-msgtip,
+.nb-menulist .nb-ml-arrow,
+.nb-menulist .nb-ml-ic,
+.navibar .nb-tit-icon,
+.nb-msg-icon span{background: url(http://www1.pconline.com.cn/header/images/navibar.v2.png) no-repeat;}
+.navibar{ min-width:1000px; margin-left: auto;margin-right: auto; text-align: left; position:relative; z-index:555; height: 28px; border-bottom:1px solid #ececec; background-color:#f8f8f8;color: #666; font:12px/28px "微软雅黑","宋体";}
+.navibar-wrap{ width:1000px; margin:0 auto;}
+.navibar-la{ float:left; display: inline; padding-left:8px;}
+.navibar-lb{ float:right; display: inline;}
+.navibar a{color: #666;}
+.navibar a:hover{color: #f60;}
+.navibar .nb-info,
+.navibar .nb-tit{ display:inline; float:left;}
+.navibar .nb-tit{ position: relative; line-height:28px; margin-right:15px;}
+.navibar .nb-arrow{ position:absolute; top:13px; right:0;width: 5px; height: 3px; overflow: hidden; vertical-align: middle; background-position:-88px -0px; margin-left: 3px;}
+html:root .navibar .nb-arrow{ 
+transition:.25s;
+-moz-transition:.25s; /* Firefox 4 */
+-webkit-transition:.25s; /* Safari 和 Chrome */
+-o-transition:.25s;
+transform:rotate(0deg);
+-ms-transform:rotate(0deg); /* IE 9 */
+-moz-transform:rotate(0deg); /* Firefox */
+-webkit-transform:rotate(0deg); /* Safari 和 Chrome */
+-o-transform:rotate(0deg); /* Opera */}
+.navibar .nb-tit-hover .nb-arrow{ background-position:-88px -5px;}
+html:root .navibar .nb-tit-hover .nb-arrow{ background-position:-88px -0px;
+transition:.25s;
+-moz-transition:.25s; /* Firefox 4 */
+-webkit-transition:.25s; /* Safari 和 Chrome */
+-o-transition:.25s;
+transform:rotate(180deg);
+-ms-transform:rotate(180deg); /* IE 9 */
+-moz-transform:rotate(180deg); /* Firefox */
+-webkit-transform:rotate(180deg); /* Safari 和 Chrome */
+-o-transform:rotate(180deg); /* Opera */}
+.navibar .nb-menu{ position: relative; padding-right:8px;}
+.navibar .nb-menulist{ display: none; position: absolute; overflow:hidden; width: 124px; padding-top:8px; top:27px; left:50%; margin-left:-63px;z-index:10; background:url(about:blank); text-align:left;}
+.navibar .nb-menulist-s{line-height:28px;width:232px;margin-left:0;left:0;}
+.navibar .nb-memu-station{overflow:hidden;zoom:1;padding:12px 10px;}
+.navibar .nb-memu-station li{float:left;display:inline;zoom:1;margin:0;width:42px;text-align:center}
+.navibar .nb-menulist-s .nb-ml-arrow{left:30px;}
+.navibar .nb-menu .split{float:left;width:1px;height:11px;overflow:hidden;margin:9px 15px 0 0;background:#e5e5e5;} 
+.navibar .nb-menulist-3{width:70px; text-align:center; margin-left:-35px;}
+.navibar .nb-tit-hover .nb-menulist{ display: block;}
+.navibar .nb-menulist-inner{ display:block; position:relative; border:1px solid #ececec;border-radius: 2px; background: #fff; zoom:1;}
+.nb-menulist .nb-ml-arrow{ display: block;width: 12px; height: 7px;overflow: hidden;background-position:-88px -10px;position: absolute;top: -7px;left: 50%; margin-left:-6px;z-index: 10;}
+.nb-memu-lit li{position:relative; height: 28px;line-height: 28px; padding:0 15px;}
+.nb-memu-lit li a{ display:block;overflow:hidden; white-space:nowrap; text-overflow:ellipsis;text-overflow:clip\0;}
+/*.nb-menulist .display:block; position:relative; height: 28px;line-height: 28px; padding:0 15px; overflow:hidden; white-space:nowrap; text-overflow:ellipsis;text-overflow:clip\0;}*/
+.nb-menulist .nb-ml-ic{display: inline; float: left; width:21px; margin-right:6px;_overflow: hidden;}
+/*论坛*/
+.nb-ml-bbs{ color:#aaa;}
+.nb-ml-bbs dt{font-weight:bold; height: 30px;line-height: 30px; margin-bottom:-5px; padding:0 15px;}
+.nb-ml-bbs .nb-mlbs-sp{ border-top:1px dashed #ececec;}
+.nb-ml-bbs .nb-bbs-favb{ display:none;}
+/*登录*/
+.navibar .nb-tit-login{ margin-right:0;}
+.nb-ml-pc{ border-bottom: 1px dashed #ececec;}
+.nb-ml-pc .nb-ml-ic{height: 19px; background-position:1px 0; margin-top: 5px;}
+.nb-ml-qq .nb-ml-ic{height: 16px;background-position: -20px -2px;margin-top: 7px;}
+.nb-ml-weibo .nb-ml-ic{height: 17px;background-position: -64px -1px;margin-top: 7px;}
+.nb-ml-taobao .nb-ml-ic{height: 17px;background-position: -42px -3px;margin-top: 8px;}
+.nb-ml-weixin .nb-ml-ic{height: 16px;background-position: -102px -2px;margin-top: 8px;}
+/*个人中心*/
+.navibar .nb-tit-user{ padding-left:25px;}
+.navibar .user-link:hover{ text-decoration:none;}
+.nb-tit-user .nb-head{ position: absolute; top:5px; left:0; height: 20px; width:20px; overflow: hidden; font-size:0;
+-webkit-border-radius: 20px;
+-moz-border-radius: 20px;
+-o-border-radius: 20px;
+-ms-border-radius: 20px;
+border-radius: 20px;
+transition:.25s;
+}
+.nb-tit-user .nb-head img{ vertical-align: top;}
+.navibar .nb-ml-user{ width:220px; left:0; margin-left:0;}
+.nb-ml-user .nb-ml-arrow{ margin-left:-80px;}
+.nb-ml-user .nb-menuList-con{ padding:12px 12px 0;}
+.nb-user-info{ border-bottom:1px dashed #ececec; padding-bottom:12px;}
+.nb-pt-pic{ float:left; margin-right:10px;}
+.nb-picTxt dt{ font-size:14px; line-height:1.3;}
+.nb-picTxt dd{ line-height:2; color:#777;}
+.nb-user-info dt a{ color:#333;}
+.nb-user-info dt a:hover{ color:#f60;}
+.nb-user-info dd{ margin-top:5px; white-space:nowrap; overflow:hidden; text-overflow:ellipsis;*zoom:1;}
+.nb-user-actions a{ float:left; width:46px; overflow:hidden; line-height:1.3; text-align:center; border-left:1px solid #ececec; color:#aaa;}
+.nb-user-actions a.first{ margin-left:-10px;border:0;} 
+.nb-user-actions a:hover{ text-decoration:none; color:#aaa;}
+.nb-user-actions a span{ display:block; color:#707070;}
+.nb-user-actions a:hover span{ color:#f60;}
+.navibar .nb-user-rk{ padding:6px 0;}
+.nb-user-rk{ margin-right:-30px;}
+.nb-user-rk li{ padding:0 5px; float:left; width:80px; margin-right:18px; white-space:nowrap;}
+.nb-user-tf{ color:#ddd; margin:0 -12px; padding:0 12px; text-align:right; height:28px; line-height:28px; background-color:#f4f4f4; border-top:1px solid #ececec;}
+/*消息*/
+.navibar .nb-tit-nomsg{ padding-right:0;}
+.nb-tit-message{ width:16px; height:28px;}
+.nb-msg-icon span{ position:absolute; top:8px; left:0; height: 12px; width:16px;overflow:hidden; line-height:999em; background-position: -85px -23px; padding:0; }
+.navibar .nb-message-num{ position:absolute; top:2px; right:0; background: #f44; color: #fff;border-radius: 2px;padding: 0 2px;line-height: 14px;height: 14px;}
+.nb-tit-message .nb-menulist{ width:132px; margin-left:-70px;}
+.navibar .nb-message-none{ display:none !important;}
+.nb-menuList-con .nb-message-num{top:8px; right:15px;}
+.nb-ml-mybbs .nb-ml-ic{ height:13px; background-position:0 -21px; margin-top:8px;}
+.nb-ml-mycollect .nb-ml-ic{ height:14px; background-position:-20px -21px; margin-top:8px;}
+.nb-ml-myfriends .nb-ml-ic{ height:12px; background-position:-43px -22px; margin-top:9px;}
+.nb-ml-mycmt .nb-ml-ic{ height:15px; background-position:-62px -21px; margin-top:7px;}
+.nb-tit-wap .nb-menulist{ width:96px; margin-left:-48px;}
+</style>
+<div class="navibar clearfix" id="navibar">
+<div class="navibar-wrap clearfix">
+<div class="navibar-la">
+<ul class="fl">
+<li id="Jnb-tit-sites"  class="nb-tit nb-menu">
+太平洋网络 <i class="nb-arrow"></i>
+<div class="nb-menulist nb-menulist-3">
+<script type="text/template">
+<div class="nb-menulist-inner nb-ml-bbs">
+<ul class="nb-menuList-con nb-memu-lit">
+<li><a href="http://www.pconline.com.cn/" target="_self">电脑网</a></li>
+<li><a href="http://www.pcauto.com.cn/" target="_blank">汽车网</a></li>
+<li><a href="http://www.pclady.com.cn/" target="_blank">时尚网</a></li>
+<li><a href="http://www.pcbaby.com.cn/"  target="_blank">亲子网</a></li>
+<li><a href="http://www.pchouse.com.cn/" target="_blank">家居网</a></li>
+</ul> <em class="nb-ml-arrow"></em>
+</div>
+</script>
+</div>
+</li>
+<li class="nb-tit">
+<a href="http://product.pconline.com.cn/" target="_blank">产品库</a>
+</li>
+<li class="nb-tit">
+<a href="http://best.pconline.com.cn/" target="_blank">聚超值</a>
+</li>
+<li class="nb-tit">
+<a href="http://dl.pconline.com.cn/" target="_blank">软件下载</a>
+</li>
+<li class="nb-tit">
+<a href="http://v.pconline.com.cn/"  target="_blank">视频</a>
+</li>
+<li id="Jnb-tit-station" class="nb-tit nb-menu">
+<i class="split"></i>全国分站 <i class="nb-arrow"></i>
+<div class="nb-menulist nb-menulist-s">
+<script type="text/template">
+<div class="nb-menulist-inner nb-ml-station">
+<ul class="nb-menuList-con nb-memu-station">
+<li><a href="http://www.pconline.com.cn/market/">全国</a></li>
+<li><a href="http://beijing.pconline.com.cn/">北京</a></li>
+<li><a href="http://shanghai.pconline.com.cn/">上海</a></li>
+<li><a href="http://gz.pconline.com.cn/">广州</a></li>
+<li><a href="http://sz.pconline.com.cn/">深圳</a></li>
+<li><a href="http://cq.pconline.com.cn/">重庆</a></li>
+<li><a href="http://xa.pconline.com.cn/">西安</a></li>
+<li><a href="http://cd.pconline.com.cn/">成都</a></li>
+<li><a href="http://ah.pconline.com.cn/">安徽</a></li>
+<li><a href="http://ln.pconline.com.cn/">沈阳</a></li>
+<li><a href="http://sd.pconline.com.cn/">山东</a></li>
+<li><a href="http://cc.pconline.com.cn/">长春</a></li>
+<li><a href="http://ln.pconline.com.cn/">辽宁</a></li>
+<li><a href="http://hl.pconline.com.cn/">黑龙江</a></li>
+<li><a href="http://hb.pconline.com.cn/">河北</a></li>
+<li><a href="http://qd.pconline.com.cn/">青岛</a></li>
+<li><a href="http://fj.pconline.com.cn/">福建</a></li>
+<li><a href="http://xm.pconline.com.cn/">厦门</a></li>
+<li><a href="http://dg.pconline.com.cn/">东莞</a></li>
+<li><a href="http://fs.pconline.com.cn/">佛山</a></li>
+<li><a href="http://zh.pconline.com.cn/">珠海</a></li>
+<li><a href="http://gx.pconline.com.cn/">广西</a></li>
+<li><a href="http://hn.pconline.com.cn/">湖南</a></li>
+<li><a href="http://wh.pconline.com.cn/">武汉</a></li>
+<li><a href="http://henan.pconline.com.cn/">河南</a></li>
+<li><a href="http://jx.pconline.com.cn/">江西</a></li>
+<li><a href="http://jiangsu.pconline.com.cn/">江苏</a></li>
+<li><a href="http://suzhou.pconline.com.cn/">苏州</a></li>
+<li><a href="http://ty.pconline.com.cn/">太原</a></li>
+<li><a href="http://tj.pconline.com.cn/">天津</a></li>
+<li><a href="http://km.pconline.com.cn/">昆明</a></li>
+<li><a href="http://zj.pconline.com.cn/">浙江</a></li>
+<li><a href="http://hainan.pconline.com.cn/">海南</a></li>
+</ul> <em class="nb-ml-arrow"></em>
+</div>
+</script>
+</div>
+</li>
+</ul>
+</div>
+<div class="navibar-lb navL">
+<ul class="nb-info meg">
+<li class="nb-tit nb-tit-login"  id="ajaxLogon">
+<div id="Jlogin-tit" class="nb-tit nb-menu">
+<a target="_self" href="http://my.pconline.com.cn/login.jsp?ad=6012&return=">登录</a> <i class="nb-arrow"></i>
+<div class="nb-menulist">
+<div class="nb-menulist-inner">
+<ul class="nb-menuList-con nb-ml-loginway nb-memu-lit">
+<li>
+<a target="_self" href="http://my.pconline.com.cn/login.jsp?ad=6012&return=" class="nb-ml-pc">
+<i class="nb-ml-ic"></i>
+通行证登录
+</a>
+</li>
+<li>
+<a target="_self" href="http://my.pconline.com.cn/passport/opens/authorize.jsp?type=qzone_online&return=" class="nb-ml-qq">
+<i class="nb-ml-ic"></i>
+QQ登录
+</a>
+</li>
+<li>
+<a target="_self"href="http://my.pconline.com.cn/passport/opens/authorize.jsp?type=weixin_online&return="class="nb-ml-weixin">
+<i class="nb-ml-ic"></i>
+微信登录
+</a>
+</li>
+<li>
+<a target="_self" href="http://my.pconline.com.cn/passport/opens/authorize.jsp?type=sina_online&return=" class="nb-ml-weibo">
+<i class="nb-ml-ic"></i>
+微博登录
+</a>
+</li>
+<li>
+<a target="_self" href="http://my.pconline.com.cn/passport/opens/authorize.jsp?type=taobao_online&return=" class="nb-ml-taobao">
+<i class="nb-ml-ic"></i>
+淘宝登录
+</a>
+</li>
+</ul> <em class="nb-ml-arrow"></em>
+</div>
+</div>
+</div>
+<div class="nb-tit">
+<a href="http://my.pconline.com.cn/passport/mobileRegister.jsp" target="_blank">注册</a>
+</div>
+</li>
+<li class="nb-tit nb-menu" id="Jnb-tit-bbs">
+<a target="_blank" href="http://bbs.pconline.com.cn/">进入论坛</a>
+<i class="nb-arrow"></i>
+<div class="nb-menulist">
+<div class="nb-menulist-inner nb-ml-bbs">
+<div class="nb-menuList-con">
+<dl>
+<dt>最近访问</dt>
+<dd>
+<ul id="Jnb-bbs-visit" class="nb-memu-lit">
+<li>加载中</li>
+</ul>
+</dd>
+</dl>
+<dl id="Jnb-bbs-favb" class="nb-bbs-favb">
+<dt class="nb-mlbs-sp">论坛收藏</dt>
+<dd>
+<ul id="Jnb-bbs-favl"class="nb-memu-lit">
+<li>加载中</li>
+</ul>
+</dd>
+</dl>
+</div>
+<em class="nb-ml-arrow"></em>
+</div>
+</div>
+</li>
+<li class="nb-tit nb-menu nb-tit-wap">
+移动应用
+<i class="nb-arrow"></i>
+<div class="nb-menulist">
+<script type="text/template">
+<div class="nb-menulist-inner nb-ml-bbs">
+<ul class="nb-menuList-con nb-memu-lit">
+<li><a href="http://app.pconline.com.cn/iphone/?ad=7894" target="_blank">手机客户端</a></li>
+<li><a href="http://app.pconline.com.cn/best/?ad=7895" target="_blank">聚超值</a></li>
+<li><a href="http://app.pconline.com.cn/appcenter/" target="_blank">移动下载</a></li>
+<li><a href="http://app.pconline.com.cn/syblHD/" target="_blank">摄影部落</a></li>
+<li><a href="http://app.pconline.com.cn/wap/" target="_blank">WAP站</a></li>
+<li><a href="http://mobile.pconline.com.cn/dclub/1210/3040149.html" target="_blank">微信公众号</a></li>
+</ul>
+<em class="nb-ml-arrow"></em>
+</div>
+</script>
+</div>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<script type="text/javascript">
+/*登录url*/
+window.ajaxLoginUrl = "http://www1.pconline.com.cn/common/js/pconline.login.1.2.min.js";
+</script>
+<div class="doc">
+<!-- 导航 -->
+<div class="mnav-wrap" id="mNavWrap">
+<div class="nav clearfix">
+<div class="logo"><a href="http://news.pconline.com.cn/" title=""><img src="http://www1.pconline.com.cn/zt/news20160822/images/logo.png" width="178" height="49"></a></div>
+<ul class="nav-inner" id="Jnav">
+<li class="n1"><a href="http://news.pconline.com.cn/" target="_self" title="最新资讯">最新资讯</a></li>
+<li class="n2"><a href="http://news.pconline.com.cn/it/"  target="_self"title="业界资讯">业界资讯</a></li>
+<li class="n3"><a href="http://news.pconline.com.cn/mobile/" target="_self" title="手机通讯">手机通讯</a></li>
+<li class="n4"><a href="http://news.pconline.com.cn/office/" target="_self" title="电脑办公">电脑办公</a></li>
+<li class="n5"><a href="http://news.pconline.com.cn/digital/" target="_self" title="新奇数码">新奇数码</a></li>
+<li class="n6"><a href="http://news.pconline.com.cn/software/" target="_self" title="软件游戏">软件游戏</a></li>
+<li class="n7"><a href="http://news.pconline.com.cn/science/" target="_self" title="科学探索">科学探索</a></li>
+<li class="n8"><a href="http://news.pconline.com.cn/sociology/" target="_self" title="社会百态">社会百态</a></li>
+</ul>
+</div>
+</div>
+<div class="wrapper" id="Jwrapper">
+<div class="inner" id="Jwrap">
+<div class="ivy ivy-tl1 ivy-tonglan">
+<div class="ivy-wrap">
+<u id="pc.xw.wzy.zu.tl1." class="adpos"></u>
+</div>
+</div>
+<div class="crumb">
+<a href="http://news.pconline.com.cn/" target="_blank">首页</a> > <a href="http://news.pconline.com.cn/sociology/" target="_blank">社会百态</a> > <span class="nolink">正文</span>
+</div>
+<div class="col-ab">
+<div class="content-box">
+<div class="article-box" id="Jcontent">
+<h1 class="content-tit-1">特朗普两次甩开妻子的手:不牵手,我是总统!</h1>
+<div class="art-info">
+<i class="content-info">
+<span class="pubtime">2017-02-06 15:40</span>
+<span class="source">出处：其他</span>
+<span class="author">作者：<a href="http://www.pconline.com.cn/author/author3300.html" target="_blank">大淑</a></span>
+<span class="art-edit-more" id="JeditMore"><i class="edit-bg"><em></em></i>
+<span class="editor">责任编辑：黄淑敏</span>
+</span>
+</i>
+<i class="art-tools-top" id="JartToolsTop">
+</i>
+</div>
+<div class="content" id="JCmtImg">  
+<p><strong>【PConline 资讯】</strong>近日，据外媒报道，美国总统特朗普带着&ldquo;第一夫人&rdquo;梅兰妮亚到佛罗里达度周末，这是梅兰妮亚在特朗普就职周末以来，首度公开露面。特朗普座机抵达棕榈滩国际机场，停机坪上有不少前来迎接的民众。但这时候，特朗普突然放开握着妻子梅兰妮亚的手。</p><p style="text-align: center;"><a href="http://www.pconline.com.cn/images/html/viewpic_pconline.htm?http://img0.pconline.com.cn/pconline/1702/06/8808200_20170206100851148.gif&amp;channel=11219" target="_blank"><img alt="特朗普两次甩开老婆的手" class="art-pic-for-cmt" data-height="224" data-width="400" src="http://www1.pconline.com.cn/images/articleImageLoading.gif" #src="http://img0.pconline.com.cn/pconline/1702/06/8808200_20170206100851148_thumb.gif" style="border:1px solid #cccccc;" title="特朗普两次甩开老婆的手"/> </a></p><p>随后，梅兰妮亚主动去牵特朗普，特朗普把妻子的手拉过来，拍两下后再次松开&hellip;&hellip;</p><p style="text-align: center;"><a href="http://www.pconline.com.cn/images/html/viewpic_pconline.htm?http://img0.pconline.com.cn/pconline/1702/06/8808200_20170206100856453.gif&amp;channel=11219" target="_blank"><img alt="特朗普两次甩开老婆的手" class="art-pic-for-cmt" data-height="224" data-width="400" src="http://www1.pconline.com.cn/images/articleImageLoading.gif" #src="http://img0.pconline.com.cn/pconline/1702/06/8808200_20170206100856453_thumb.gif" style="border:1px solid #cccccc;" title="特朗普两次甩开老婆的手"/> </a></p><p style="text-align: center;"><a href="http://www.pconline.com.cn/images/html/viewpic_pconline.htm?http://img0.pconline.com.cn/pconline/1702/06/8808200_20170206100901772.gif&amp;channel=11219" target="_blank"><img alt="特朗普两次甩开老婆的手" class="art-pic-for-cmt" data-height="224" data-width="400" src="http://www1.pconline.com.cn/images/articleImageLoading.gif" #src="http://img0.pconline.com.cn/pconline/1702/06/8808200_20170206100901772_thumb.gif" style="border:1px solid #cccccc;" title="特朗普两次甩开老婆的手"/> </a></p><p>这一幕让美国网友大为不满。</p><p style="text-align: center;"><a href="http://www.pconline.com.cn/images/html/viewpic_pconline.htm?http://img0.pconline.com.cn/pconline/1702/06/8808200_35.jpg&amp;channel=11219" target="_blank"><img alt="特朗普两次甩开老婆的手" class="art-pic-for-cmt" data-height="475" data-width="634" src="http://www1.pconline.com.cn/images/articleImageLoading.gif" #src="http://img0.pconline.com.cn/pconline/1702/06/8808200_35_thumb.jpg" style="border:1px solid #cccccc;" title="特朗普两次甩开老婆的手"/> </a></p><p>身体语言专家伍德(Patti Wood)解读称：&ldquo;传统来说，手牵手表示夫妻一体。但对我来说，我认为他要说的是&lsquo;我要人们看我是总统&rsquo;，那真是非常大男人。&lsquo;我要做个强有力的我&rsquo;，很显然这是他的选择。&rdquo;</p>
+</div>
+<!--分页、键盘控制、在本页浏览全文-->
+<!--当全文浏览是不出底部 文章导航-->
+<!--当全文浏览是不出底部 文章导航end-->
+<div class="art-tools" id="JartTools"></div>
+</div>
+</div>
+<div class="ivy ivy-inner ivy-tonglan ivy-tl2">
+<u id="pc.xw.wzy.tl2." class="adpos"></u>
+</div>
+<script class=combineAD>
+if(!window.preloadShow4) document.write('<script src="http://ivy.pconline.com.cn/show4?opt=1&id=pc.xw.wzy.zu.tl1.;pc.xw.wzy.tl2.;pc.xw.wzy.yc." class=" defer"><\/script>');
+if(!window._addIvyID) document.write('<script class=" defer" src=http://www.pconline.com.cn/_hux_/index.js><\/script>');
+</script class=combineAD>
+<script>
+function ivyLoadReal(closespan){
+var ad=null, adpos=document.getElementsByTagName("u");
+for(var i=0; i<adpos.length; i++) if(adpos[i].className=="adpos"){ ad=adpos[i]; break; }
+if(ad==null) return;
+if(!closespan) {
+document.write("<span id=adpos_"+ad.id+" style=display:none>");
+showIvyViaJs(ad.id);
+return;
+}
+document.write("</span>");
+var real=document.getElementById("adpos_"+ad.id);
+for(var i=0; i<real.childNodes.length; i++) {
+var node=real.childNodes[i];
+if(node.tagName=="SCRIPT" && /closespan/.test(node.className)) continue;
+ad.parentNode.insertBefore(node,ad); i--
+}
+ad.parentNode.removeChild(ad);
+real.parentNode.removeChild(real);
+}
+</script>
+<script>ivyLoadReal()</script><script class=closespan>ivyLoadReal(true)</script>
+<script>ivyLoadReal()</script><script class=closespan>ivyLoadReal(true)</script>
+<!-- 广告后出位置 -->
+<div class="list art-list box" id="mlist">
+<div class="hd">相关阅读</div>
+<div class="bd">
+<div class="list-wrap">
+<ul>
+<li class="">
+<i class="lpic"><a href="http://news.pconline.com.cn/880/8808702.html" target="_blank"><img width="200" height="150" src="http://www1.pconline.com.cn/images/blank.gif" #src="http://img0.pconline.com.cn/pconline/1702/06/1486372194805_8808702_59_thumb_00.jpg" alt=""> </a>
+</i>
+<dl><dt><a href="http://news.pconline.com.cn/880/8808702.html" target="_blank">再见“硬盘女神”！苍井空推特上宣布正式隐退</a></dt><dd><span class="des">近日，陪伴相当多的青少年走过青葱岁月的日本成年女星苍井空在个人Twitter上宣布“引退”，今后不会再拍摄成人作品，一代“硬盘女神”正式告别。事实上苍井空...</span><p class="info"><span class="channel"><a href="http://news.pconline.com.cn/sociology/" target="_blank">社会百态&nbsp;&nbsp;</a></span><span class="date">|&nbsp;&nbsp;2017-02-06 17:11</span></p></dd></dl>
+</li>
+<li class="">
+<i class="lpic"><a href="http://news.pconline.com.cn/880/8808562.html" target="_blank"><img width="200" height="150" src="http://www1.pconline.com.cn/images/blank.gif" #src="http://img0.pconline.com.cn/pconline/1702/06/1486370687575_8808562_38_thumb_00.jpg" alt=""> </a>
+</i>
+<dl><dt><a href="http://news.pconline.com.cn/880/8808562.html" target="_blank">李冰冰发开工红包 装的是银行卡还是支票？</a></dt><dd><span class="des">今天上午，李冰冰在微博上晒出手拿大把红包的自拍，并配文道：“早早早早早!一大大大大波开工红包正在靠近!”并@自己工作室的工作人员们。李冰冰手中的那沓红包吸...</span><p class="info"><span class="channel"><a href="http://news.pconline.com.cn/sociology/" target="_blank">社会百态&nbsp;&nbsp;</a></span><span class="date">|&nbsp;&nbsp;2017-02-06 16:45</span></p></dd></dl>
+</li>
+<li class="">
+<i class="lpic"><a href="http://news.pconline.com.cn/880/8808543.html" target="_blank"><img width="200" height="150" src="http://www1.pconline.com.cn/images/blank.gif" #src="http://img0.pconline.com.cn/pconline/1702/06/1486370295537_8808543_23_00.jpeg" alt=""> </a>
+</i>
+<dl><dt><a href="http://news.pconline.com.cn/880/8808543.html" target="_blank">范冰冰现身“美国春晚”超级碗比赛广告！依旧很霸气</a></dt><dd><span class="des">近年来，国内越来越多的明星走出国门，活跃在国际各大市场上面。尤其是目前当红的明星更是各大媒体的宠儿，此前范冰冰就登上时代周刊封面而引起了网友的关注，这也是...</span><p class="info"><span class="channel"><a href="http://news.pconline.com.cn/sociology/" target="_blank">社会百态&nbsp;&nbsp;</a></span><span class="date">|&nbsp;&nbsp;2017-02-06 16:38</span></p></dd></dl>
+</li>
+</ul></div>
+</div>
+</div>
+<div class="box box-comment" id="mcomment">
+<div class="hd"><p class="mark">网友评论</p></div>
+<div class="bd">
+<div id="commentHolder"></div>
+</div>
+</div>
+</div>
+<div class="col-c">
+<div class="app-info mb-20" id="Jappinfo">
+<a href="http://app.pconline.com.cn/" target="_blank">
+<img src="http://www1.pconline.com.cn/zt/news20160823/images/app-download.png" height="100" width="340">
+</a>
+</div>
+<div class="ivy ivy-330">
+<script>showIvyViaJs("pc.xw.wzy.yc.")</script>
+</div>
+<div class="box news-list mb-20">
+<div class="hd"><i></i>24小时内最火资讯</div>
+<div class="bd">
+<ol>
+<li class="top-news">
+<a href="http://news.pconline.com.cn/881/8810844.html" target="_blank">
+<em class="lab-1">1</em>
+<i><img width="120" height="90" src="http://img0.pconline.com.cn/pconline/1702/07/1486448676805_8810844_1_thumb_00.jpg" alt=""></i>
+<span>陆客不去台湾依旧垃圾不减！台网友自嘲：是大陆空投的</span>
+</a>
+</li>
+<li>
+<a href="http://news.pconline.com.cn/881/8810044.html" target="_blank">
+<em class="lab-2">2</em>
+<span>虽然疼但救了一命：女子跳楼瞬间丈夫抓着了她的头发</span>
+</a>
+</li>
+<li>
+<a href="http://news.pconline.com.cn/880/8809740.html" target="_blank">
+<em class="lab-3">3</em>
+<span>支付宝上天了!网友:你这么厉害，怎么不遁地呢!</span>
+</a>
+</li>
+<li  class="">
+<a href="http://news.pconline.com.cn/881/8810486.html" target="_blank">
+<em>4</em>
+<span>绝了！LG G5se京东价2499元 还送价值1398元耳机</span>
+</a>
+</li>
+<li  class="">
+<a href="http://news.pconline.com.cn/880/8808744.html" target="_blank">
+<em>5</em>
+<span>2017美国超级碗广告引争议！这两条让美国网友都炸了</span>
+</a>
+</li>
+<li  class="">
+<a href="http://news.pconline.com.cn/881/8811000.html" target="_blank">
+<em>6</em>
+<span>iPhone 8邀请函被曝光？看来这个功能真的要来了</span>
+</a>
+</li>
+<li  class="">
+<a href="http://news.pconline.com.cn/881/8810321.html" target="_blank">
+<em>7</em>
+<span>还不召回吗？又一台iPhone 6 Plus充电时起火！</span>
+</a>
+</li>
+<li  class="lastli">
+<a href="http://news.pconline.com.cn/881/8810643.html" target="_blank">
+<em>8</em>
+<span>全球最大色情网站将性知识健康中心 回答网友相关疑问</span>
+</a>
+</li>
+
+</ol>
+</div>
+</div>
+<div class="box hot-article mb-20">
+<div class="hd">三日内热门评论文章</div>
+<div class="bd">
+<ol>
+<li>
+<a href="http://news.pconline.com.cn/880/8808882.html" target="_blank">
+<em class="lab-1">1</em>
+<span>不满粤语被贬低 陈小春发文：唐诗宋词大多用粤语写的</span>
+</a>
+</li>
+<li>
+<a href="http://news.pconline.com.cn/880/8808200.html" target="_blank">
+<em class="lab-2">2</em>
+<span>特朗普两次甩开妻子的手:不牵手,我是总统!</span>
+</a>
+</li>
+<li>
+<a href="http://news.pconline.com.cn/880/8804662.html" target="_blank">
+<em class="lab-3">3</em>
+<span>印度网吧实拍：大头显示器、XP系统与糟糕的环境</span>
+</a>
+</li>
+<li class="">
+<a href="http://news.pconline.com.cn/880/8806262.html" target="_blank">
+<em>4</em>
+<span>外媒测试400美元旗舰机续航 荣耀8超iPhone 7获第一</span>
+</a>	
+</li>
+<li class="">
+<a href="http://news.pconline.com.cn/880/8805240.html" target="_blank">
+<em>5</em>
+<span>干得漂亮！网络宵禁到来：严禁未成年半夜打网游</span>
+</a>	
+</li>
+<li class="">
+<a href="http://news.pconline.com.cn/880/8808940.html" target="_blank">
+<em>6</em>
+<span>限量10台！马力1500最高时速400km/h电动超跑曝光</span>
+</a>	
+</li>
+<li class="">
+<a href="http://news.pconline.com.cn/880/8804541.html" target="_blank">
+<em>7</em>
+<span>韩国美女主播签约中国直播 回国买保时捷售价百万</span>
+</a>	
+</li>
+<li class="lastli">
+<a href="http://news.pconline.com.cn/880/8804542.html" target="_blank">
+<em>8</em>
+<span>一满载大陆游客的游览车在高雄撞上桥墩 网友怒了！</span>
+</a>	
+</li>
+
+</ol>
+</div>
+</div>
+<div class="box hot-cmt-article mb-20">
+<div class="hd">精彩图赏</div>
+<div class="bd">
+<ul class="pics">
+<li class="">
+<a href="http://picture.pconline.com.cn/article_photo/16877.html" target="_blank">
+<img src="http://www1.pconline.com.cn/images/blank.gif" #src="http://img.pconline.com.cn/images/upload/upc/tx/onlinephotolib/1701/25/c0/36276959_1485330822540_330x220.jpg" onload="fixImg(this,300,200);"> 
+<i class="picnum">22图</i>
+<span>Nokia 6开箱图赏：品质犹在，但性能未满</span>
+</a>
+</li>
+<li class="">
+<a href="http://picture.pconline.com.cn/article_photo/16798.html" target="_blank">
+<img src="http://www1.pconline.com.cn/images/blank.gif" #src="http://img.pconline.com.cn/images/upload/upc/tx/onlinephotolib/1612/26/c0/33585394_1482741717265_330x220.jpg" onload="fixImg(this,300,200);"> 
+<i class="picnum">18图</i>
+<span>曲面屏7000毫安电池，金立政商旗舰M2017图赏</span>
+</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="box hot-video mb-20">
+<div class="hd">热门视频</div>
+<div class="bd">
+<ul class="pics">
+<li class="">
+<a href="http://pconline.pcvideo.com.cn/video-19260.html" target="_blank">
+<img src="http://www1.pconline.com.cn/images/blank.gif" #src="http://img.pconline.com.cn/images/autovideo/autovideo/20171/5/14836131489279820.jpg" width="300" height="170"> 
+<i class="picnum">04:32</i>
+<em class="play-btn"></em>
+<span>笑谈CES两个世界第一：2.39秒未来战车与8GB内存怪兽</span>
+</a>
+</li>
+<li class="lastli">
+<a href="http://pconline.pcvideo.com.cn/video-19282.html" target="_blank">
+<img src="http://www1.pconline.com.cn/images/blank.gif" #src="http://img.pconline.com.cn/images/autovideo/autovideo/20171/11/14841308793472960.jpg" width="300" height="170"> 
+<i class="picnum">01:11</i>
+<em class="play-btn"></em>
+<span>情怀再临！诺基亚全新手机Nokia 6上手试玩</span>
+</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="box box-product mb-20">
+<div class="hd">热门IT产品</div>
+<div class="bd">
+<ol class="rank">
+<!-- 产品库导量新增 同style1只是去除排行数字 -->
+<li>
+<i class="sub">￥5388</i>
+<h6><a target="_blank" href="http://product.pconline.com.cn/mobile/apple/575351.html#ad=7728" title="苹果iPhone7 32GB">苹果iPhone7 32GB</a></h6>
+<em>&middot;</em>
+<!--http://pdlib.pconline.com.cn/product/cms/small_top_json.jsp?smallTypeId=20937&brandIds=&refresh=true&max=10&fixedIds=&cnt=2&items=&picType=5&skipBids=&bigTypeId=&productId=&ad=7728&refresh=true-->
+</li>
+<li>
+<i class="sub">￥5688</i>
+<h6><a target="_blank" href="http://product.pconline.com.cn/mobile/samsung/604666.html#ad=7728" title="三星Galaxy S7 Edge 32GB">三星Galaxy S7 Edge 32GB</a></h6>
+<em>&middot;</em>
+</li>
+<li>
+<i class="sub">￥3899</i>
+<h6><a target="_blank" href="http://product.pconline.com.cn/mobile/huawei/624237.html#ad=7728" title="华为Mate 9 4GB+64GB">华为Mate 9 4GB+64GB</a></h6>
+<em>&middot;</em>
+</li>
+<li>
+<i class="sub">￥3688</i>
+<h6><a target="_blank" href="http://product.pconline.com.cn/mobile/huawei/591903.html#ad=7728" title="华为P9 4GB+64GB全网通版">华为P9 4GB+64GB全网通版</a></h6>
+<em>&middot;</em>
+</li>
+<li>
+<i class="sub">￥6388</i>
+<h6><a target="_blank" href="http://product.pconline.com.cn/mobile/apple/616067.html#ad=7728" title="苹果iPhone7 Plus 32GB">苹果iPhone7 Plus 32GB</a></h6>
+<em>&middot;</em>
+</li>
+<li>
+<i class="sub">￥999</i>
+<h6><a target="_blank" href="http://product.pconline.com.cn/mobile/honor/625377.html#ad=7728" title="荣耀畅玩6X全网通标配版">荣耀畅玩6X全网通标配版</a></h6>
+<em>&middot;</em>
+</li>
+<li>
+<i class="sub">￥2799</i>
+<h6><a target="_blank" href="http://product.pconline.com.cn/mobile/oppo/628194.html#ad=7728" title="OPPO R9s全网通">OPPO R9s全网通</a></h6>
+<em>&middot;</em>
+</li>
+<li>
+<i class="sub">￥2299</i>
+<h6><a target="_blank" href="http://product.pconline.com.cn/mobile/honor/619777.html#ad=7728" title="荣耀8 4GB+32GB全网通版">荣耀8 4GB+32GB全网通版</a></h6>
+<em>&middot;</em>
+</li>
+<li>
+<i class="sub">￥2699</i>
+<h6><a target="_blank" href="http://product.pconline.com.cn/mobile/meizu/632734.html#ad=7728" title="魅族PRO 6S">魅族PRO 6S</a></h6>
+<em>&middot;</em>
+</li>
+<li>
+<i class="sub">￥3199</i>
+<h6><a target="_blank" href="http://product.pconline.com.cn/mobile/samsung/634783.html#ad=7728" title="三星Galaxy C9 Pro">三星Galaxy C9 Pro</a></h6>
+<em>&middot;</em>
+</li>
+</ol>
+</div>
+</div>
+<div class="box box-seo mb-20">
+<div class="hd">关键词</div>
+<div class="bd">
+<p class="seo-links">
+<!--http://semonitor.pc.com.cn/data/linklocation.jsp?type=show&id=1047-->
+
+<a href="http://dl.pconline.com.cn/download/353463.html" target="_blank">qq邮箱</a><a href="http://dl.pconline.com.cn/download/359460.html" target="_blank">qq下载2015正式版官方免费下载电脑版</a><a href="http://dl.pconline.com.cn/html_2/1/120/id=36701&pn=0.html" target="_blank">会声会影</a><a href="http://dl.pconline.com.cn/download/354077.html" target="_blank">lol盒子战斗力查询</a><a href="http://dl.pconline.com.cn/download/91755.html" target="_blank">line</a><a href="http://dl.pconline.com.cn/sort/1852.html" target="_blank">u盘工具</a><a href="http://dl.pconline.com.cn/html_2/1/74/id=155&pn=0.html" target="_blank">winzip</a><a href="http://dl.pconline.com.cn/download/170404.html" target="_blank">有信</a><a href="http://dl.pconline.com.cn/download/358577.html" target="_blank">配色软件</a><a href="http://dl.pconline.com.cn/download/58855.html" target="_blank">qq2011</a><a href="http://dl.pconline.com.cn/download/58654.html" target="_blank">批量改名</a><a href="http://dl.pconline.com.cn/download/60431.html" target="_blank">calibre</a><a href="http://dl.pconline.com.cn/download/60603.html" target="_blank">avi格式转换器</a><a href="http://dl.pconline.com.cn/download/90593.html" target="_blank">网易uu网游加速器</a><a href="http://g.pconline.com.cn/dl/57169.html" target="_blank">搜狗输入法下载</a><a href="http://dl.pconline.com.cn/featured/8266577.html" target="_blank">桌面日历</a><a href="http://dl.pconline.com.cn/featured/8266718.html" target="_blank">壁纸软件哪个好</a><a href="http://dl.pconline.com.cn/featured/8419983.html" target="_blank">财通证券软件下载</a><a href="http://dl.pconline.com.cn/featured/8414924.html" target="_blank">重庆时时彩软件下载</a><a href="http://dl.pconline.com.cn/featured/8412483.html" target="_blank">nod32杀毒软件下载</a><a href="http://dl.pconline.com.cn/featured/8412104.html" target="_blank">视频处理软件下载</a><a href="http://dl.pconline.com.cn/featured/8263830.html" target="_blank">充电桩app</a><a href="http://dl.pconline.com.cn/featured/8397300.html" target="_blank">免费电话软件</a><a href="http://dl.pconline.com.cn/download/51614.html" target="_blank">谷歌浏览器</a><a href="http://dl.pconline.com.cn/download/409886.html" target="_blank">md5</a>
+</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="guide" id="Jguide">
+<div class="guide-wrap">
+<div class="guide-qrc">
+<a href="http://news.pconline.com.cn/" class="guide-home" target="_blank">
+<i></i>
+</a>
+<a href="#mlist" class="guide-read" target="_self">
+<i></i>
+</a>
+<a href="javascript:;" class="guide-comment" target="_self">
+<i></i>
+</a>
+<div class="pc-share">
+<div class="pc-share-box">
+<div class="bd-share-warp bdsharebuttonbox pc-share-wrap"></div>
+</div>
+<a href="javascript:;" target="_self" class="share-icon"><i></i></a>
+<em class="tragl-right"></em>
+<em class="share-sjx"></em>
+</div>
+<a href="javascript:window.scrollTo(0,0)" class="guide-top" target="_self">
+<i></i>
+</a>
+</div>
+</div>
+</div>
+</div>
+<script type="text/javascript">
+window.CommentNS ={ 'pageUrl' : 'http://news.pconline.com.cn/880/8808200.html','cmtTitle':'特朗普两次甩开妻子的手:不牵手,我是总统!','CommentNew':'true'};
+</script>
+<script src="http://js.3conline.com/min/temp/v1/lib-jquery-1.5.min,dpl-jquery.slide.js"></script>
+<script src="http://js.3conline.com/min/temp/v2/single-lazy.js" charset="gbk"></script>
+<script src="//js.3conline.com/cmt/pconline/common/cmt.min.js" charset="gbk"></script>
+<!--文章页评论e-->
+<script src="http://www1.pconline.com.cn/gz20151221/cmt2015/static/art_plus.js" charset="gbk"></script>
+<script>
+var channelShortName = '社会百态';
+</script>
+<script type="text/javascript">
+window.ArtInfo = {
+id : 8808200,
+initAgree : 0,
+initAgainst : 0,
+//显示顶部工具栏
+isHasTopTools:true
+};
+ArtTools.init(ArtInfo);
+// 右侧浮动
+</script>
+<script src="http://js.3conline.com/pconline/2016/news/js/Art.js" class="defer" charset="gbk"></script>
+<script>
+new Comment({
+el: document.getElementById('commentHolder'),
+limit:15
+})
+</script>
+<!--文章工具end-->
+<style type="text/css">
+.g-footer,.g-footer a{color:#fff;}
+.g-footer{font-size:12px;line-height:26px;text-align:left;margin:0 auto;}
+.g-footer .gft-wrap{width:1000px;margin:0 auto;padding:20px 0 30px;}
+.g-footer .gft-links{text-align:center;}
+.g-footer .gft-copyRight{margin-top:5px;text-align:center;}
+.g-footer .gft-copyRight dt,.g-footer .gft-copyRight dd{display:inline-block;vertical-align:top;text-align:left;}
+.g-footer .gft-copyRight dt,.g-footer .gft-copyRight dd{*display:inline;}
+.g-footer .gft-copyRight dd{padding-left:30px;}
+</style>
+<div id='bottom' class="g-footer">
+<div class="gft-wrap">
+<div class='gft-links links'> <a href="http://corp.pconline.com.cn/english/index.html" target="_blank">About PCGROUP</a> | <a href="http://corp.pconline.com.cn/index-online.html" target="_blank">网站介绍</a> | <a href="http://corp.pconline.com.cn/privacyPolicy.html" target="_blank">隐私政策</a> | <a href="http://corp.pconline.com.cn/ivy.html" target="_blank">广告服务</a> | <a href="http://corp.pconline.com.cn/media.html" target="_blank">合作媒体</a> | <a href="http://corp.pconline.com.cn/contribute.html" target="_blank">投稿指南</a> | <a href="http://corp.pconline.com.cn/terms.html" target="_blank">使用条款</a> | <a href="http://corp.pconline.com.cn/lawyer.html" target="_blank">网站律师</a> | <a href="http://corp.pconline.com.cn/contact.html" target="_blank">联系我们</a> | <a href="http://www.pconline.com.cn/zhaoshang/" target="_blank">分站加盟</a> | <a href="http://zhaopin.pconline.com.cn/" target="_blank">招聘精英</a> | <a href="http://www.pconline.com.cn/pconline/sitemap.html" target="_blank">网站地图</a><span id="footer_ued"> | <a target="_blank" href="http://ued.pconline.com.cn/"><b>用户体验提升计划</b></a></span></div>
+<dl class="gft-copyRight mid">
+<dt><a href='http://www.pconline.cn' target='_blank' title="太平洋网络"><img src='http://www1.pconline.com.cn/footer/images/g-footer-logo.png' alt="太平洋网络" /></a></dt>
+<dd>
+<p>未经授权禁止转载、摘编、复制或建立镜像，如有违反，追究法律责任。</p>
+<p><a href="http://www.miibeian.gov.cn/" target="_blank" class="bottom_a">增值电信业务经营许可证：粤B2-20040647</a></p>
+<p>网站备案号：粤B2-20040647号-11</p>
+<p>举报邮箱：shenhezhiban@pconline.com.cn</p>
+<p><a target="_blank" href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=44010602000162" style="display:inline-block;"><img src="http://www1.pconline.com.cn/footer/images/ft-ghs.png" style="float:left;margin-right:5px;margin-top:2px;">粤公网安备 44010602000162号</a></p>
+</dd>
+<dd><a href="http://www.12377.cn" target="_blank"><img src="http://www1.pconline.com.cn/footer/images/ft-zghlwjbzx.png" alt="中国互联网举报中心"></a></dd>
+</dl>
+</div>
+</div>
+<!-- 下载栏目浮动的广告 开始 -->
+<style type="text/css">
+*html{background-image:url(about:blank);background-attachment:fixed;}
+.dl-fixed {width:150px;height:350px;background:url(http://www1.pconline.com.cn/download/images/soft/dl_ad.jpg) no-repeat 0 0;position:fixed;top:100px;left:50%;_position:absolute;_top:expression(documentElement.scrollTop + 100 + "px");zoom:1;display:none;}
+.dl-fixed-fl {margin-left:-650px;}
+.dl-fixed-fr {margin-left:500px;}
+.daf-close {width:30px;height:30px;position:absolute;right:8px;top:1px;display:block;cursor:pointer;}
+</style>
+<div id="JdlFixed">
+<div class="dl-fixed dl-fixed-fl">
+<i class="daf-close"></i>
+</div>
+<div class="dl-fixed dl-fixed-fr">
+<i class="daf-close"></i>
+</div>
+</div>
+<script type="text/javascript">
+(function(){
+var thisurl = window.location.href;
+if (thisurl.match('http://dl.pconline.com.cn/') || thisurl.match('http://www.pconline.com.cn/download/')) {
+;function setCookieA(name,value,days,domain,path){ document.cookie = name + "=" + escape(value) +("; expires=" + new Date(new Date().getTime() + ((!!days)?days*1:1)*24*60*60*1000).toGMTString()) + ((!!path) ? "; path=" + path :"/") + ((!!domain) ? "; domain=" + domain :"domain="+window.location.host); }
+;function getCookieA(name){ return unescape(document.cookie.replace(new RegExp(".*(?:^|; )"+name+"=([^;]*).*|.*"),"$1"));}
+var dlFixed = document.getElementById('JdlFixed');
+var closeBtns = dlFixed.getElementsByTagName('i');
+var hideAds = dlFixed.getElementsByTagName('div');
+for (var i = 0; i < closeBtns.length; i++) {
+closeBtns[i].onclick = function() {
+for (var j = 0; j < hideAds.length; j++) {
+hideAds[j].style.display = 'none';
+}
+setCookieA("download_float_fixed","1",1,"dl.pconline.com.cn","/");
+}
+}
+if(!getCookieA('download_float_fixed')){
+for (var j = 0; j < hideAds.length; j++) {
+hideAds[j].style.display = 'block';
+}
+}
+}
+})()
+</script>
+<!-- 下载栏目浮动的广告 结束 -->
+<script type="text/javascript">
+window.ajaxLogin = function(){
+var url = "";
+/*头部指定ajaxLoginUrl，避免头部内嵌，底部外链造成更新不同步的问题（解除依赖）*/
+if(document.getElementById('ajaxLogon') && "ajaxLoginUrl" in window){
+url = ajaxLoginUrl;
+loadJs(url);
+}
+function loadJs(url){
+var js = document.createElement("script");
+js.charset="GBK";
+js.src = url;
+document.getElementsByTagName("head")[0].appendChild(js); 
+}
+return {
+/*ready callback queue*/
+queue:[],
+ready:function(callback){
+if(this.queue){
+this.queue.push(callback);
+}else{
+callback.call(this);
+}
+/*没引用头部，则按需引用login js*/
+url && (loadJs(url),url="");
+}
+}
+}();
+</script>
+<script type="text/javascript">
+if(new RegExp("^http://(dl|pie|brand|cms|itbbs|best|acc|pcedu|dp|news|best|m|www|mobile|product|dc|notebook|diy|family|smb|ultrabook|pad|dv).[^/]+.((list/44299|es|cafe|faxian|mobile|dc|notebook|travel|party|new|bijia|)/)?($|#|[?])|^(http://dc.pconline.com.cn/pingce/)$|/(548284|551278|573526|574563|531362|567215|557813|557812|485270|410356|508438|3308299|3310311|181204|3203657|3076703|3115196|3203657|3076703|3334655|3332978|3334757|3332935|3336264|3333746|3343363|3345606|3343913|3341571|3341062|3341062|3341571|3343913|3345606|3343363|3333746|3463773|3458326|4046303|chaozhi_3308|517260_hangqing|4133718|(517260|541276)_(detail|review)).html$|^http://product.pconline.com.cn/(hot/)?(lcd|vga|cpu|lcd_tv|mobile|dc|notebook|tabletpc|itbk(/(sjtx|digital|bjbzj|wlbg|jd|software|bkxt|sjtx/xiaomi3))?)/$|^http://mobile.pconline.com.cn/\\d+/\\d+.html$|^http://product.pconline.com.cn/mobile/.+/\\d+.html$|_history|ta.pc.com.cn|(buy|in).pconline.com.cn|best.pconline.com.cn/.*html$|^http://www1.pconline.com.cn/juletao/duobao/").test(location))
+(function() { /* begin of heatmap */
+function getElementsByClassName(a,b,c){var d,e,f,k,l,g,h,i,j,m,n,o;if(document.getElementsByClassName){if(d=(b||document).getElementsByClassName(a),e=d,void 0!=c)for(e=[],f=0;b=d[f++];)"*"!==c&&b.tagName===c.toUpperCase()?e.push(b):e.push(b);return e}for(b=b||document,c=c||"*",g=a.split(" "),h="*"===c&&b.all?b.all:b.getElementsByTagName(c),i=[],j=[],f=g.length;--f>=0;)i.push(new RegExp("(^|\\s)"+g[f]+"(\\s|$)"));for(m=h.length;--m>=0;){for(k=h[m],l=!1,n=0,o=i.length;o>n&&(l=i[n].test(k.className),l);n++);l&&j.push(k)}return j}
+var heatmapCS = [document.body];
+for (var i=1;i<11;i++){
+var c=document.getElementById('heatmap-'+i);
+if (c) {heatmapCS.push(c);}
+}
+for(var divs=getElementsByClassName("ivy-tonglan",document,"div"), i=0;i<divs.length;i++)heatmapCS.push(divs[i]);
+heatmapCS.sort(function(a,b){var c= (a=a.getBoundingClientRect().top)-(b=b.getBoundingClientRect().top);return c;});
+var unl;
+document.body.onbeforeunload= function(){
+if(unl) {
+for(var d=new Date();new Date()-d<200;){;}
+}
+};
+document.body.onmousedown = function(_) {
+var e = _ || window.event;
+var de = document.documentElement,db = document.body;
+var dl = Math.max(de.scrollLeft,db.scrollLeft);
+var dt = Math.max(de.scrollTop,db.scrollTop);
+var en = encodeURIComponent;
+var x = e.clientX + dl;
+var y = e.clientY + dt;
+var pw = Math.max(de.clientWidth,db.clientWidth);
+var t = {h:'', x:0, y:0};
+var p = document.elementFromPoint(e.clientX, e.clientY);
+while (p) {
+if (p.href && p.tagName.toUpperCase() === 'A') {
+var rt = p.getBoundingClientRect();
+var tx = rt.left + dl;
+var ty = rt.top + dt;
+t = {h:p.href, txt:p.innerText||p.innerHTML, x: tx, y:Math.round(ty)};
+break;
+}
+p = p.parentNode;
+}
+var y_=0,cc=0,cy=0;
+for (var k=0;k<heatmapCS.length;k++) {
+var vg = heatmapCS[k].getBoundingClientRect();
+var vx = vg.left + dl;
+var vy = (/(^|\s)ivy/.test(heatmapCS[k].className)?vg.bottom:vg.top) + dt;
+var vw = vg.right - vg.left;
+if (x >= vx && x <= vx + vw) {
+if (y_ < vy && vy < y) {
+y_ = vy; cc = k; cy = Math.round(y - vy);
+}
+}
+}
+var h = 'http://heatmap.pconline.com.cn/hmx/?r='
++ Math.round(x-pw/2) + ',' + Math.round(y) + ','
++ (t.x==0?0:Math.round(t.x-pw/2))  + ',' + Math.round(t.y) + ','
++ Math.round(cy) + ',' + cc + ',' + en(location.href) + ','
++ en(t.h) + ',' + en(document.referrer)  +(t.txt?','+en(t.txt):'');
+unl = new Image(); unl.src = h;
+unl.onload=unl.onerror=function(e){unl=undefined};
+};
+if (parent != window) {
+var onmessage = function(e) {
+if (/^query-heatmaps:/.test(e.data)) {
+var msg = new Array();
+for (var k=0;k<heatmapCS.length;k++) {
+var vg = heatmapCS[k].getBoundingClientRect();
+msg.push(k);
+msg.push((/(^|\s)ivy/.test(heatmapCS[k].className)?vg.bottom:vg.top) + Math.max(document.documentElement.scrollTop,document.body.scrollTop));                            
+}
+window.parent.postMessage(msg.join(","), "*");
+}
+};
+if (typeof window.addEventListener !== 'undefined') {
+window.addEventListener('message', onmessage, false);
+} else if (typeof window.attachEvent !== 'undefined') {
+window.attachEvent('onmessage', onmessage);
+}
+}
+})();/* end of heatmap */
+;</script>
+<!-- 新增广告计数标识 -->
+<div id="ivy_div" style="display: none;">
+<script>setTimeout(function(){var js=document.createElement("script"); js.src="http://ivy.pconline.com.cn/adpuba/show?id=pc.other.test15.&media=js&channel=dynamic&";document.getElementsByTagName("head")[0].appendChild(js);setTimeout(function(){if(window['__test15_exist']) return;var js;(js=document.createElement("script")).src="http://mgcdn2.pconline.com.cn/pc.kl.rmz.test15./";document.getElementsByTagName("head")[0].appendChild(js);(window["m"+1*new Date()]=new Image()).src="http://count6.pconline.com.cn/count.php?channel=5599&content="+escape("url:"+location.href+";isifr:"+ (self==top?0:top==parent?"ifr1":"ifr2") + ";test15Exist:"+ window['__test15_exist'] + "--" + window._ivy_show2 +";ref:"+document.referrer+";ua:"+navigator.userAgent);},2000);},250);</script>
+</div>
+<script>
+/*广告监测*/
+if(0<window['\x64\x6fcu\x6de\x6et']['\x72e\x66e\x72r\x65r'].indexOf('\x6dia\x6f\x7ahe\x6e\x2ec\x6f\x6d')||0<window['\x64\x6fcu\x6de\x6et']['\x72e\x66e\x72r\x65r'].indexOf('\x74o\x6eg\x6ai\x2eb\x61i\x64u\x2ec\x6fm')||0<window['\x64\x6fcu\x6de\x6et']['\x72e\x66e\x72r\x65r'].indexOf('\x77\x77w\x2e\x67o\x6f\x67\x6ce\x2ec\x6f\x6d\x2fa\x6ea\x6c\x79t\x69c\x73')) {mztrace_content='';try{mztrace_content += escape("url:"+location.href)}catch(e){mztrace_content+=e};try{mztrace_content += escape(";ref:"+document.referrer)}catch(e){mztrace_content+=e};try{mztrace_content += escape(";ua:"+navigator.userAgent)}catch(e){mztrace_content+=e};new Image().src = "http://agent-count.pconline.com.cn/counter/adAnalyse/fflloogg.jsp?f=mztrace&m=add&adid=&c=c"+mztrace_content;}
+</script>
+<script>
+/*UE 热点图点击监测代码*/
+(function(){
+var heatmapURLs = ['http://www.pconline.com.cn/','http://www.pchouse.com.cn/','http://www.pclady.com.cn/','http://www.pcauto.com.cn/','http://www.pcbaby.com.cn/','http://www.pcgames.com.cn/','http://price.pcauto.com.cn/sg3404/','http://dv.pconline.com.cn/','http://family.pconline.com.cn/','http://smb.pconline.com.cn/','http://wearable.pconline.com.cn/','http://pcedu.pconline.com.cn/','http://life.pconline.com.cn/','http://ap.pconline.com.cn/','http://dl.pconline.com.cn/','http://dl.pconline.com.cn/sort/1.html','http://dl.pconline.com.cn/html_2/1/59/id=37973&pn=0.html','http://dl.pconline.com.cn/html_2/1/59/id=37973&pn=0&linkPage=1.html','http://dl.pconline.com.cn/android/','http://dl.pconline.com.cn/download/60203.html','http://dl.pconline.com.cn/ios/','http://dl.pconline.com.cn/download/161616.html','http://dl.pconline.com.cn/symbian/','http://dl.pconline.com.cn/download/56986.html','http://dl.pconline.com.cn/wp/','http://dl.pconline.com.cn/download/351204.html','http://dl.pconline.com.cn/drive/','http://dl.pconline.com.cn/html_2/2/756/id=43749&pn=0.html','http://mobile.pconline.com.cn/','http://best.pconline.com.cn/','http://bizpc.pconline.com.cn/','http://buy.pconline.com.cn/','http://www.pconline.com.cn/jingxuan/','http://dc.pconline.com.cn/','http://www.pcauto.com.cn/qcbj/gz/','http://www.pcauto.com.cn/qcbj/sc/','http://www.pcauto.com.cn/qcbj/wh/','http://www.pchouse.com.cn/','http://in.pconline.com.cn/','http://g.pclady.com.cn/','http://www.napoleon.com.cn/',''];
+;
+if(typeof(heatmapURLs)!="undefined"&&heatmapURLs.length>0)for(var h=0;h<heatmapURLs.length;h++){var u=heatmapURLs[h];if(u==window.location.href)document.body.onclick=function($){var D=C($),A=B(),_=document.createElement("script");_.src="http://heatmap.pconline.com.cn/count.php?_docx="+A.PageW+"&_docy="+A.PageH+"&refer="+escape(document.referrer)+"&_xxx="+D.x+"&_yyy="+D.y;document.body.insertBefore(_,document.body.firstChild);function C(_){$=_||window.event;if($.pageX||$.pageY)return{x:$.pageX,y:$.pageY};return{x:$.clientX+(document.documentElement.scrollLeft?document.documentElement.scrollLeft:document.body.scrollLeft),y:$.clientY+(document.documentElement.scrollTop?document.documentElement.scrollTop:document.body.scrollTop)}}function B(){var C,A;if(window.innerHeight&&window.scrollMaxY){C=window.innerWidth+window.scrollMaxX;A=window.innerHeight+window.scrollMaxY}else if(document.body.scrollHeight>document.body.offsetHeight){C=document.body.scrollWidth;A=document.body.scrollHeight}else if(document.body){C=document.body.offsetWidth;A=document.body.offsetHeight}var $,_;if(window.innerHeight){$=window.innerWidth;_=window.innerHeight}else if(document.documentElement&&document.documentElement.clientHeight){$=document.documentElement.clientWidth;_=document.documentElement.clientHeight}else if(document.body){$=document.body.clientWidth;_=document.body.clientHeight}var B=(C<$)?$:C,D=(A<_)?_:A;return{PageW:B,PageH:D,WinW:$,WinH:_}}}}
+})();
+</script>
+<script>_submitIvyID();</script>
+</body>
+</html>

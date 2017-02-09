@@ -2,7 +2,6 @@
 #include"HTML_tree.h"
 
 TOKEN *head_token = NULL, *tail_token = NULL;
-ELEMTYPE *head_elemtype = NULL;
 
 int main(void)
 {
@@ -21,7 +20,7 @@ status Creat_HTML_List(void)
 	int IS_attributes = 0;		//用于标记是否是属性
 	int token_len = 0;			//用于标记token的长度
 	int Level = 0;
-	TOKEN *p_token = NULL;
+    TOKEN *p_token = NULL;
 
 	head_token = (TOKEN *)malloc(sizeof(TOKEN));
 	head_token->next = NULL;
@@ -33,7 +32,7 @@ status Creat_HTML_List(void)
 		return FALSE;
 	}
     char *p = NULL;
-	while ((fscanf(pfile, "%c", &ch)) > 0)      //直到读到文本最后有一个'\0'为止
+	while ((fscanf(pfile, "%c", &ch)) > 0)      //若不加>0这个判断条件 最后一个字符会输出两次
 	{
 		if (ch == '<')
 		{
@@ -47,7 +46,9 @@ status Creat_HTML_List(void)
 				{
 					token[token_len++] = ch;
 					fscanf(pfile, "%c", &ch);
-				}
+                }
+				token[token_len] = '\0';    //读取结束标签名称
+
 				while (ch != '>')
                 {
                     if (ch == '\'' || ch == '\"'){
@@ -58,16 +59,13 @@ status Creat_HTML_List(void)
                         }
                     }
                     fscanf(pfile, "%c", &ch);
-                }
-				token[token_len] = '\0';
-				token_handle = end_handle;
-				token_handle(token, &token_len, &IS_end);		//将token_len和IS_end恢复初始化
+                }   //跳至结束标签尾部
 				continue;
 			}
-			else if (ch == '!'){
+			else if (ch == '!'){    //对于注释的处理
                 fscanf(pfile, "%c", &ch);
                 if (ch == '-'){
-                    while (1){
+                    while (1){      //以 --> 结束
                         if (ch == '-'){
                             fscanf(pfile, "%c", &ch);
                             if (ch == '-'){
@@ -76,6 +74,10 @@ status Creat_HTML_List(void)
                                     break;
                             }
                         }
+                        fscanf(pfile, "%c", &ch);
+                    }
+                }else{      //网页开始的那个声明部分
+                    while (ch != '>'){
                         fscanf(pfile, "%c", &ch);
                     }
                 }
@@ -101,7 +103,7 @@ status Creat_HTML_List(void)
                 }
 				token[token_len] = '\0';
 				token_handle = start_handle;
-				token_handle(token, &token_len, &IS_ignore);	//将token_len恢复初始化，并判断是否需要进行忽略后面的文本
+				token_handle(token, &token_len, &IS_ignore, Level);	//将token_len恢复初始化，并判断是否需要进行忽略后面的文本
 				if(strcmp(token, "style") ==0 || strcmp(token, "script") == 0 || strcmp(token, "noscript") == 0 || strcmp(token, "textarea") == 0)
                 {
                     while(1){
@@ -125,6 +127,7 @@ status Creat_HTML_List(void)
                             }
                         }
                     }
+                    Level--;
                 }
                 strcpy(token,"");
 				token_len = 0;
@@ -180,7 +183,7 @@ status Creat_HTML_List(void)
 				ungetc(ch, pfile);		//将获取的'<'回退回文档，以便下一次的获取
 				token[token_len] = '\0';
 				token_handle = innertext_handle;
-				token_handle(token, &token_len, &IS_ignore);	//将IS_ignore改成默认的可以忽略
+				token_handle(token, &token_len, &IS_ignore, Level);	//将IS_ignore改成默认的可以忽略
 			}
 			else
 				continue;
@@ -190,7 +193,7 @@ status Creat_HTML_List(void)
 	fclose(pfile);
 	return TRUE;
 }
-void start_handle(char *token, int *token_len, int *sign)
+void start_handle(char *token, int *token_len, int *sign, int Level)
 {
     char *pcPos = NULL;
     char buffer[200];		//用于暂存标签名或者属性
@@ -207,13 +210,14 @@ void start_handle(char *token, int *token_len, int *sign)
 		{
 			tail_token = (TOKEN *)malloc(sizeof(TOKEN));
 			tail_token->elem = (char *)malloc(sizeof(char)*(*token_len + 1));
+			tail_token->level = Level;
 			strcpy(tail_token->elem, token);
 			if (strcmp(token, "br") == 0)
 			{
 				tail_token->type = NOEND;
 				*sign = FALSE;
 			}
-			else if (strcmp(token, "wbr") == 0)
+			else if (strcmp(token, "wbr") == 0 || strcmp(token, "time") == 0 || strcmp(token, "output") == 0 || strcmp(token, "mark") == 0 || strcmp(token, "ins") == 0 || strcmp(token, "del") == 0 || strcmp(token, "acronym") == 0 || strcmp(token, "abbr") == 0)
 			{
 				if (flag_wbr)
 				{
@@ -315,26 +319,8 @@ void start_handle(char *token, int *token_len, int *sign)
 		}
 	}
 }
-void end_handle(char *token, int *token_len, int *sign)
-{
-	/*tail_token = (TOKEN *)malloc(sizeof(TOKEN));
-	tail_token->elem = (char *)malloc(sizeof(char)*(*token_len + 1));
-	if(!tail_token || !tail_token->elem)
-    {
-        printf("内存分配失败\n");
-        exit(FALSE);
-    }
-	strcpy(tail_token->elem, token);
-	tail_token->type = END;
-	tail_token->next = head_token->next;
-	head_token->next = tail_token;
-	head_token = tail_token;*/
-	strcpy(token,"");
-	*token_len = 0;
-	*sign = FALSE;
-	return ;
-}
-void innertext_handle(char *token, int *token_len, int *sign)
+
+void innertext_handle(char *token, int *token_len, int *sign, int Level)
 {
 	tail_token = (TOKEN *)malloc(sizeof(TOKEN));
 	tail_token->elem = (char *)malloc(sizeof(char)*(*token_len + 1));
