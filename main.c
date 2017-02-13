@@ -1,356 +1,312 @@
-
 #include"HTML_tree.h"
 
 TOKEN *head_token = NULL, *tail_token = NULL;
+Label_node *Root;
 
 int main(void)
 {
-	Creat_HTML_List();
-	test();
+    Root = (Label_node*)malloc(sizeof(Label_node));
+	int command;
+	char buffer[MAX_LEN];
+	printf("---------------------菜单------------------\n");
+	printf("            1:创建HTML_DOM文档树\n");
+	printf("            2:按照关键词查找文本信息\n");
+	printf("            3:查找文章标题\n");
+	printf("            0:退出系统\n");
+	printf("----------------欢迎使用本系统-------------\n");
+	while (scanf("%d", &command) == 1)
+	{
+		getchar();
+		switch (command)
+		{
+		case 1:
+			if (Creat_HTML_List() == TRUE && Creat_HTML_Tree(&Root) == TRUE)
+                printf("HTML_DOM文档树已创建成功\n");
+			break;
+		case 2:
+			printf("请输入需要查找的关键字\n");
+			scanf("%s", buffer);
+			getchar();
+			search_KeyWord(Root, buffer);
+			break;
+		case 3:
+			printf("所有文章的标题如下\n");
+			search_Title(Root);
+			break;
+		case 0:
+			printf("退出系统\n");
+			return;
+		default:
+			break;
+		}
+		getchar();
+		system("cls");
+		printf("---------------------菜单------------------\n");
+            printf("            1:创建HTML_DOM文档树\n");
+            printf("            2:按照关键词查找文本信息\n");
+            printf("            3:查找文章标题\n");
+            printf("            0:退出系统\n");
+        printf("----------------欢迎使用本系统-------------\n");
+	}
 	return 0;
 }
 
 status Creat_HTML_List(void)
 {
 	FILE *pfile = NULL;
+	FILE *pfile1 = NULL;
 	char ch;					//用于暂时存放获取的字符
 	char token[MAX_LEN] = "";   //用于暂时存放读取出来的token
-	int IS_ignore = TRUE;		//用于标记注释是否忽略，默认为可忽略
-	int IS_end = 0;				//用于标记是否结束符
-	int IS_attributes = 0;		//用于标记是否是属性
+	char buffer[MAX_LEN] = "";  //用于暂时存放读取出来的标签
+	int IS_ignore = FALSE;		//用于标记注释是否忽略，默认为不可忽略
 	int token_len = 0;			//用于标记token的长度
-	int Level = 0;
-    TOKEN *p_token = NULL;
+	int sign = 0;
+	int start = 0;
+	int end = 0;
+	TOKEN *p_token = NULL;
 
-	head_token = (TOKEN *)malloc(sizeof(TOKEN));
+	head_token = (TOKEN *)malloc(sizeof(TOKEN));	//分配头节点
 	head_token->next = NULL;
-	p_token = head_token;
+	p_token = head_token;		//用于暂时存放头节点的指针
 
+    char HTML_filename[100];   //存放HTML程序的文档
+    printf("请输入要打开的文档:\n");
+    scanf("%s", HTML_filename);
+    getchar();
 	if ((pfile = fopen(HTML_filename, "r")) == NULL)
 	{
 		printf("fail to open the file\n");
 		return FALSE;
 	}
-    char *p = NULL;
-	while ((fscanf(pfile, "%c", &ch)) > 0)      //若不加>0这个判断条件 最后一个字符会输出两次
+	if ((pfile1 = fopen("output.txt", "w")) == NULL)
 	{
-		if (ch == '<')
+		printf("fail to open the file\n");
+		return FALSE;
+	}
+
+	while ((fscanf(pfile, "%c", &ch)) > 0)      //直到读到文本最后有一个'\0'为止
+	{
+		if(ch == '<')
 		{
 			fscanf(pfile, "%c", &ch);
-			if (ch == '/')		//对于有直接以'/'结尾的token直接处理
+			if(ch == '/')		//对于有直接以'/'结尾的token直接处理
 			{
-			    Level--;
-				IS_end = TRUE;
 				fscanf(pfile, "%c", &ch);
-				while (ch != ' ' && ch != '>' && ch != '/')
-				{
-					token[token_len++] = ch;
-					fscanf(pfile, "%c", &ch);
-                }
-				token[token_len] = '\0';    //读取结束标签名称
-
 				while (ch != '>')
-                {
-                    if (ch == '\'' || ch == '\"'){
-                        char ch2 = ch;
-                        fscanf(pfile, "%c", &ch);
-                        while (ch != ch2){
-                            fscanf(pfile, "%c", &ch);
-                        }
-                    }
-                    fscanf(pfile, "%c", &ch);
-                }   //跳至结束标签尾部
-				continue;
-			}
-			else if (ch == '!'){    //对于注释的处理
-                fscanf(pfile, "%c", &ch);
-                if (ch == '-'){
-                    while (1){      //以 --> 结束
-                        if (ch == '-'){
-                            fscanf(pfile, "%c", &ch);
-                            if (ch == '-'){
-                                fscanf(pfile, "%c", &ch);
-                                if (ch == '>')
-                                    break;
-                            }
-                        }
-                        fscanf(pfile, "%c", &ch);
-                    }
-                }else{      //网页开始的那个声明部分
-                    while (ch != '>'){
-                        fscanf(pfile, "%c", &ch);
-                    }
-                }
-			}
-			else
-			{
-			    Level++;
-				IS_end = FALSE;
-				while (ch != ' ' && ch != '>' && ch != '/' && ch != ':')
 				{
 					token[token_len++] = ch;
 					fscanf(pfile, "%c", &ch);
 				}
-				while (ch != '>')
-                {
-                    fscanf(pfile, "%c", &ch);
-                    if (ch == '\'' || ch == '\"'){
-                        char ch2 = ch;
-                        while(ch != ch2){
-                            fscanf(pfile, "%c", &ch);
-                        }
-                    }
-                }
 				token[token_len] = '\0';
-				token_handle = start_handle;
-				token_handle(token, &token_len, &IS_ignore, Level);	//将token_len恢复初始化，并判断是否需要进行忽略后面的文本
-				if(strcmp(token, "style") ==0 || strcmp(token, "script") == 0 || strcmp(token, "noscript") == 0 || strcmp(token, "textarea") == 0)
+				if(!IS_ignore)
                 {
-                    while(1){
-                        fscanf(pfile, "%c", &ch);
-                        if (ch == '\"' || ch == '\''){
-                            char ch2 = ch;
-                            while (ch != ch2){
-                                fscanf(pfile, "%c", &ch);
-                            }
-                        }
-                        else if (ch == '<'){
-                            fscanf(pfile, "%c", &ch);
-                            if (ch == '/'){
-                                fscanf(pfile, "%c", &ch);
-                                int token_num = 0;
-                                while(ch == token[token_num++]){
-                                    fscanf(pfile, "%c", &ch);
-                                }
-                                if (ch == '>');
-                                    break;
-                            }
-                        }
-                    }
-                    Level--;
+                    fprintf(pfile1, "end  : %s\n", token);
+                    sign = END;
+                    token_handle(token, token_len, sign);
                 }
-                strcpy(token,"");
+				if(strstr(token, "style") != NULL || strstr(token, "script") != NULL || strstr(token, "noscript") != NULL || strstr(token, "textarea") != NULL)
+					IS_ignore = FALSE;
+				if(!IS_ignore)
+                    end++;
+				strcpy(token,"");
 				token_len = 0;
-				continue;
 			}
-		}
-		else if(ch == '\n' || ch == ' ' || ch == '\t')
-            continue;
-		else
-		{
-			if (!IS_ignore)
-			{
-			    char *p;
-			    if (ch == '\''){
+			else if(ch == '!')
+            {
+                fscanf(pfile, "%c", &ch);
+                if(ch == '-')
+                {
+                    fscanf(pfile, "%c", &ch);   //取出注释!的--
                     fscanf(pfile, "%c", &ch);
-                    while (ch != '\'') fscanf(pfile, "%c", &ch);
-                    continue;
-			    }
-				while (ch != '<')
+                    while(TRUE)
+                    {
+                        while(ch != '-')
+                            fscanf(pfile, "%c", &ch);
+                        fscanf(pfile, "%c", &ch);
+                        if(ch == '-')
+                            break;
+                        fscanf(pfile, "%c", &ch);   //如果不是注释结束，再进行循环
+                    }
+                    fscanf(pfile, "%c", &ch);
+                }
+                else
+                {
+                    while(ch != '>')        //对于<!**>标签的处理
+                        fscanf(pfile, "%c", &ch);
+                }
+            }
+            else
+			{
+				while (ch != '>')
 				{
 					token[token_len++] = ch;
 					fscanf(pfile, "%c", &ch);
-					if (ch == '\n' || ch == '\t')
-                        ch == ' ';
-					/*else if (ch == '\'' || ch == '('){
-                        char ch2 = ch;
-                        if (ch == '(') ch == ')';
-                        fscanf(pfile, "%c", &ch);
-                        while (ch != ch2){
-                            fscanf(pfile, "%c", &ch);
-                        }
-					}*/
-					if ((p = strstr(token, "&nbsp")) != NULL){
-                        *p = ' ';
-                        token_len -= 4;
-					}else if ((p = strstr(token, "&gt")) != NULL){
-                        *p = '>';
-                        token_len -= 2;
-                    }else if ((p = strstr(token, "&lt")) != NULL){
-                        *p = '<';
-                        token_len -= 2;
-                    }else if ((p = strstr(token, "&amp")) != NULL){
-                        *p = '&';
-                        token_len -= 2;
-                    }else if ((p = strstr(token, "&quot")) != NULL){
-                        *p = '\"';
-                        token_len -= 4;
-                    }else if ((p = strstr(token, "&apos")) != NULL){
-                        *p = '\'';
-                        token_len -= 4;
+				}
+				token[token_len] = '\0';
+                sscanf(token, "%[^ ]", buffer);
+                if(!IS_ignore)
+                    start++;
+				if(strstr(buffer, "style") != NULL || strstr(buffer, "script") != NULL || strstr(token, "noscript") != NULL || strstr(buffer, "textarea") != NULL)
+                    IS_ignore = TRUE;
+                if(!IS_ignore)
+                {
+                    fprintf(pfile1, "start: %s\n", buffer);
+                    //token_handle(buffer, strlen(buffer), START);
+                    sign = START;
+                }
+                if(strcmp(buffer, "area") == 0 || strcmp(buffer, "base") == 0 || strcmp(buffer, "col") == 0 ||strcmp(buffer,"embed") == 0 ||
+                   strcmp(buffer, "frame") == 0 || strcmp(buffer, "hr") == 0 ||strcmp(buffer, "img") == 0 || strcmp(buffer, "input") == 0 ||
+                   strcmp(buffer, "keygen") == 0 || strcmp(buffer, "link") == 0 || strcmp(buffer, "param") == 0||
+                   strcmp(buffer, "br") == 0 || strcmp(buffer, "meta") == 0 || strcmp(buffer, "basefont") == 0 || strcmp(buffer, "source") == 0)
+                {
+                    sign = NOEND;
+                    start--;
+                }
+                else if(strcmp(buffer, "wbr") == 0)
+                {
+                    if(flag_wbr)
+                    {
+                        sign = END;
+                        start--;
+                        end++;
+                        flag_wbr--;
                     }
+                    else
+                        flag_wbr++;
+                }
+                if(!IS_ignore)
+                    token_handle(buffer, strlen(buffer), sign);
+                strcpy(buffer, "");
+				strcpy(token, "");
+				token_len = 0;
+			}
+		}
+		else
+		{
+			if(IS_ignore)
+				continue;
+			else if(ch == '\n' || ch == ' ' || ch == '\t')
+				continue;
+			else
+			{
+				while (ch != '<')
+				{
+				    if(ch == '(')
+                    {
+                        fscanf(pfile, "%c", &ch);
+                        while(ch != ')')
+                            fscanf(pfile, "%c", &ch);
+                        fscanf(pfile, "%c", &ch);
+                        continue;
+                    }
+					token[token_len++] = ch;
+					fscanf(pfile, "%c", &ch);
 				}
 				ungetc(ch, pfile);		//将获取的'<'回退回文档，以便下一次的获取
 				token[token_len] = '\0';
-				token_handle = innertext_handle;
-				token_handle(token, &token_len, &IS_ignore, Level);	//将IS_ignore改成默认的可以忽略
+				fprintf(pfile1, "inner: %s\n", token);
+				sign = INNERTEXT;
+				token_handle(token, token_len, sign);
+				strcpy(token,"");
+				token_len = 0;
 			}
-			else
-				continue;
 		}
 	}
 	head_token = p_token;
 	fclose(pfile);
+	fclose(pfile1);
 	return TRUE;
 }
-void start_handle(char *token, int *token_len, int *sign, int Level)
+void token_handle(char *token, int token_len, int sign)
 {
-    char *pcPos = NULL;
-    char buffer[200];		//用于暂存标签名或者属性
-    int len = 0;
-    int flag_lable = 1;
-	if (*token == '!')	//如果是注释<!--****-->
-	{
-		*token = 0;
-		return ;
-	}
-	else
-	{
-		if ((pcPos = strchr(token, ' ')) == NULL && (pcPos = strchr(token, '/') == NULL))	//如果不带属性，且不是以'/'结尾的token
-		{
-			tail_token = (TOKEN *)malloc(sizeof(TOKEN));
-			tail_token->elem = (char *)malloc(sizeof(char)*(*token_len + 1));
-			tail_token->level = Level;
-			strcpy(tail_token->elem, token);
-			if (strcmp(token, "br") == 0)
-			{
-				tail_token->type = NOEND;
-				*sign = FALSE;
-			}
-			else if (strcmp(token, "wbr") == 0 || strcmp(token, "time") == 0 || strcmp(token, "output") == 0 || strcmp(token, "mark") == 0 || strcmp(token, "ins") == 0 || strcmp(token, "del") == 0 || strcmp(token, "acronym") == 0 || strcmp(token, "abbr") == 0)
-			{
-				if (flag_wbr)
-				{
-					tail_token->type = END;
-					flag_wbr--;
-				}
-				else
-				{
-					tail_token->type = START;
-					flag_wbr++;
-				}
-				*sign = FALSE;
-			}
-			else if (strstr(token, "style") != NULL || strstr(token, "script") != NULL || strstr(token, "noscript") != NULL || strstr(token, "textarea") != NULL)
-			{
-				tail_token->type = START;
-				*sign = TRUE;
-			}
-			else
-            {
-                tail_token->type = START;
-                *sign = FALSE;
+    tail_token = (TOKEN *)malloc(sizeof(TOKEN));
+    tail_token->elem = (char *)malloc(sizeof(char)*(token_len+1));
+    strcpy(tail_token->elem, token);
+    tail_token->type = sign;
+    tail_token->next = head_token->next;
+    head_token->next = tail_token;
+    head_token = tail_token;
+
+    return;
+}
+status Creat_HTML_Tree(Label_node **Root)
+{
+    TOKEN *token_temp = head_token->next;
+    Label_node *Label_new;
+    Label_node *stack[100];
+    int top = -1;
+    while(token_temp != NULL){
+        if (token_temp->type == START || token_temp->type == NOEND){
+            Label_new = (Label_node *)malloc(sizeof(Label_node));
+            Label_new->classify = START;
+            Label_new->info = NULL;
+            Label_new->Label_value = NULL;
+            Label_new->Para_label = NULL;
+            Label_new->Parent_label = NULL;
+            Label_new->Sub_label = NULL;
+            strcpy(Label_new->label_name, token_temp->elem);
+            if (top >= 0){
+                if (stack[top]->Sub_label == NULL){
+                    stack[top]->Sub_label = Label_new;
+                    Label_new->Parent_label = stack[top];
+                }else {
+                    Label_node *p = stack[top]->Sub_label;
+                    while(p->Para_label != NULL){
+                        p = p->Para_label;
+                    }
+                    p->Para_label = Label_new;
+                    Label_new->Parent_label = stack[top];
+                }
+            }else{
+                *Root =Label_new;
             }
-            tail_token->next = head_token->next;
-            head_token->next = tail_token;
-            head_token = tail_token;
-		}
-		else
-		{
-			if (*(token + *token_len -1) == '/')	//如果为<   />的单个标签
-			{
-				pcPos = token;
-				while (*pcPos != '/')
-				{
-					strcpy(buffer, "");
-					len = 0;
-					while (*pcPos != ' ' || !pcPos)
-					{
-						buffer[len++] = *pcPos;
-						pcPos++;
-					}
-					if(!len)
-                        break;
-					buffer[len] = '\0';
-					tail_token = (TOKEN *)malloc(sizeof(TOKEN));
-                    tail_token->elem = (char *)malloc(sizeof(char)*(len + 1));
-                    strcpy(tail_token->elem, buffer);
-                    tail_token->next = head_token->next;
-                    head_token->next = tail_token;
-                    head_token = tail_token;
-					if (flag_lable)	//当为标签的时候
-					{
-						tail_token->type = NOEND;
-						flag_lable = 0;
-					}
-					else
-					{
-						tail_token->type = ATTRIBUTES;
-					}
-					pcPos++;
-				}
-			}
-			else
-			{
-			    pcPos = token;
-				while (*pcPos != '\0')
-				{
-					strcpy(buffer, "");
-					len = 0;
-					while (*pcPos != ' ' && *pcPos != '\0')
-					{
-						buffer[len++] = *pcPos;
-						pcPos++;
-					}
-					if(!len)
-                        break;
-					buffer[len] = '\0';
-					tail_token = (TOKEN *)malloc(sizeof(TOKEN));
-                    tail_token->elem = (char *)malloc(sizeof(char)*(len + 1));
-                    strcpy(tail_token->elem, buffer);
-                    tail_token->next = head_token->next;
-                    head_token->next = tail_token;
-                    head_token = tail_token;
-					if (flag_lable)	//当为标签的时候
-					{
-					    if(strcmp(buffer,"meta") == 0 || strcmp(buffer, "track") == 0 || strcmp(buffer, "source") == 0)
-                            tail_token->type = NOEND;
-                        else
-                            tail_token->type = START;
-						flag_lable = 0;
-					}
-					else
-					{
-						tail_token->type = ATTRIBUTES;
-					}
-					pcPos++;
-				}
-			}
-		}
-	}
+            if (token_temp->type == START)
+                stack[++top] = Label_new;
+        }else if (token_temp->type == END){
+            top--;
+        }else if (token_temp->type == INNERTEXT){
+            stack[top]->info = token_temp->elem;
+        }
+        token_temp = token_temp->next;
+    }
+    //PreOrderTraverse(*Root);
+    return 1;
 }
 
-void innertext_handle(char *token, int *token_len, int *sign, int Level)
-{
-	tail_token = (TOKEN *)malloc(sizeof(TOKEN));
-	tail_token->elem = (char *)malloc(sizeof(char)*(*token_len + 1));
-	if(!tail_token || !tail_token->elem)
-    {
-        printf("内存分配失败\n");
-        exit(FALSE);
+void PreOrderTraverse(Label_node *T){
+    if (T == NULL)
+        return;
+    if (T->info != NULL){
+        printf("%s\n", T->info);
     }
-	strcpy(tail_token->elem, token);
-	tail_token->type = INNERTEXT;
-	tail_token->next = head_token->next;
-	head_token->next = tail_token;
-	head_token = tail_token;
-	strcpy(token,"");
-	*token_len = 0;
-	*sign = TRUE;
-	return ;
+    PreOrderTraverse(T->Sub_label);
+    PreOrderTraverse(T->Para_label);
 }
-void test(void)
-{
-    FILE *pfile;
-    tail_token = head_token->next;
 
-    if((pfile = fopen("output.txt", "w")) == NULL)
-        printf("文件打开失败\n");
-    while(tail_token != NULL)
-    {
-        if (tail_token->type == INNERTEXT)
-            fprintf(pfile, "%s\n",tail_token->elem);
-        tail_token=tail_token->next;
+int search_KeyWord(Label_node *T, char *Key){
+    if (T == NULL)
+        return 0;
+    if (T->info != NULL){
+        if (strstr(T->info, Key) != NULL){
+            printf("  %s : %s\n", T->label_name, T->info);
+            return 1;
+        }
     }
-    fclose(pfile);
+    search_KeyWord(T->Para_label, Key);
+    search_KeyWord(T->Sub_label, Key);
+}
+
+void search_Title(Label_node *T){
+    if (T == NULL)
+        return;
+    if (strcmp(T->label_name, "h1") == 0 || strcmp(T->label_name, "h2") == 0 || strcmp(T->label_name, "h3") == 0 ||
+        strcmp(T->label_name, "h4") == 0 || strcmp(T->label_name, "h5") == 0 || strcmp(T->label_name, "h6") == 0 ||
+        strcmp(T->label_name, "title") == 0){
+            if (T->info != NULL){
+                printf("  %s : %s\n", T->label_name, T->info);
+            }
+            search_KeyWord(T->Sub_label, "");
+        }
+    search_Title(T->Para_label);
+    search_Title(T->Sub_label);
 }

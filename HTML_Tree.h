@@ -1,3 +1,6 @@
+#ifndef HTML_TREE_H_INCLUDED
+#define HTML_TREE_H_INCLUDED
+
 #include<stdio.h>
 #include<string.h>
 #include<stdlib.h>
@@ -5,14 +8,14 @@
 #define TRUE 1
 #define FALSE 0
 #define MAX_LEN 10000
-#define MAX_LabelName_Length 20
+#define MAX_LabelName_Length 50
 typedef int status;
-enum {START, END, NOEND, INNERTEXT, ATTRIBUTES};   //token的类型
+
+enum { START, END, NOEND, INNERTEXT, ATTRIBUTES };   //token的类型
 
 //预处理的HTML链的结构
 typedef struct token
 {
-    int level;
 	char *elem;
 	int type;
 	struct token *next;
@@ -28,7 +31,6 @@ typedef struct token
 **/
 typedef struct label_node{
 	int classify;
-	int level;
 	char label_name[MAX_LabelName_Length];
 	char *info;
 	struct label_node *Para_label;
@@ -37,11 +39,11 @@ typedef struct label_node{
 	struct label_node *Label_value;
 }Label_node;
 
-char *HTML_filename = "xinwen.txt";   //存放HTML程序的文档
 int flag_wbr = 0;					//用于标记wbr是否配对
 
 status Creat_HTML_List(void);
+status Creat_HTML_Tree(Label_node **Root);
 void test(void);
-void (*token_handle)(char *token, int *token_len, int *sign, int Level);
-void start_handle(char *token, int *token_len, int *sign, int Level);
-void innertext_handle(char *token, int *token_len, int *sign, int Level);
+void token_handle(char *token, int token_len, int sign);
+
+#endif // HTML_TREE_H_INCLUDED
