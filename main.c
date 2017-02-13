@@ -42,10 +42,10 @@ int main(void)
 		getchar();
 		system("cls");
 		printf("---------------------菜单------------------\n");
-            printf("            1:创建HTML_DOM文档树\n");
-            printf("            2:按照关键词查找文本信息\n");
-            printf("            3:查找文章标题\n");
-            printf("            0:退出系统\n");
+        printf("            1:创建HTML_DOM文档树\n");
+        printf("            2:按照关键词查找文本信息\n");
+        printf("            3:查找文章标题\n");
+        printf("            0:退出系统\n");
         printf("----------------欢迎使用本系统-------------\n");
 	}
 	return 0;
@@ -55,19 +55,19 @@ status Creat_HTML_List(void)
 {
 	FILE *pfile = NULL;
 	FILE *pfile1 = NULL;
-	char ch;					//用于暂时存放获取的字符
+	char ch;					//用于逐个读取文件中的字符
 	char token[MAX_LEN] = "";   //用于暂时存放读取出来的token
-	char buffer[MAX_LEN] = "";  //用于暂时存放读取出来的标签
+	char buffer[MAX_LEN] = "";  //用于暂时存放读取出来的标签名称
 	int IS_ignore = FALSE;		//用于标记注释是否忽略，默认为不可忽略
 	int token_len = 0;			//用于标记token的长度
+    int flag_wbr = 0;			//用于标记文字中的标签是否配对
 	int sign = 0;
 	int start = 0;
 	int end = 0;
-	TOKEN *p_token = NULL;
 
-	head_token = (TOKEN *)malloc(sizeof(TOKEN));	//分配头节点
+	head_token = (TOKEN *)malloc(sizeof(TOKEN));	//分配预处理链头节点
 	head_token->next = NULL;
-	p_token = head_token;		//用于暂时存放头节点的指针
+	TOKEN *p_token = head_token;		//用于存放预处理链头节点的指针
 
     char HTML_filename[100];   //存放HTML程序的文档
     printf("请输入要打开的文档:\n");
@@ -84,7 +84,7 @@ status Creat_HTML_List(void)
 		return FALSE;
 	}
 
-	while ((fscanf(pfile, "%c", &ch)) > 0)      //直到读到文本最后有一个'\0'为止
+	while ((fscanf(pfile, "%c", &ch)) > 0)      //直到读到文本最后的'\0'为止
 	{
 		if(ch == '<')
 		{
@@ -111,7 +111,7 @@ status Creat_HTML_List(void)
 				strcpy(token,"");
 				token_len = 0;
 			}
-			else if(ch == '!')
+			else if(ch == '!')  //对注释的处理
             {
                 fscanf(pfile, "%c", &ch);
                 if(ch == '-')
@@ -123,19 +123,21 @@ status Creat_HTML_List(void)
                         while(ch != '-')
                             fscanf(pfile, "%c", &ch);
                         fscanf(pfile, "%c", &ch);
-                        if(ch == '-')
-                            break;
-                        fscanf(pfile, "%c", &ch);   //如果不是注释结束，再进行循环
+                        if(ch == '-'){
+                            fscanf(pfile, "%c", &ch);
+                            if (ch == '>')
+                                break;
+                        }
+
                     }
-                    fscanf(pfile, "%c", &ch);
                 }
                 else
                 {
-                    while(ch != '>')        //对于<!**>标签的处理
+                    while(ch != '>')
                         fscanf(pfile, "%c", &ch);
                 }
             }
-            else
+            else                //对开始标签的处理
 			{
 				while (ch != '>')
 				{
@@ -226,9 +228,9 @@ void token_handle(char *token, int token_len, int sign)
     tail_token->next = head_token->next;
     head_token->next = tail_token;
     head_token = tail_token;
-
     return;
 }
+
 status Creat_HTML_Tree(Label_node **Root)
 {
     TOKEN *token_temp = head_token->next;
@@ -272,7 +274,7 @@ status Creat_HTML_Tree(Label_node **Root)
     //PreOrderTraverse(*Root);
     return 1;
 }
-
+/*
 void PreOrderTraverse(Label_node *T){
     if (T == NULL)
         return;
@@ -282,7 +284,7 @@ void PreOrderTraverse(Label_node *T){
     PreOrderTraverse(T->Sub_label);
     PreOrderTraverse(T->Para_label);
 }
-
+*/
 int search_KeyWord(Label_node *T, char *Key){
     if (T == NULL)
         return 0;

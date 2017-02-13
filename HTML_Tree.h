@@ -11,9 +11,14 @@
 #define MAX_LabelName_Length 50
 typedef int status;
 
-enum { START, END, NOEND, INNERTEXT, ATTRIBUTES };   //token的类型
+enum {START, END, NOEND, INNERTEXT};   //token的类型
 
-//预处理的HTML链的结构
+/**
+ *预处理链表结点
+ *elem存储信息
+ *type存储结点类型
+ *next指向下一个结点
+**/
 typedef struct token
 {
 	char *elem;
@@ -23,10 +28,12 @@ typedef struct token
 
 /**
  *标签结点
+ *classify存储标签分类
  *label_name存储标签名称
+ *info存储与该节点直接相邻的网页信息
  *Para_label指向下一条同级标签
  *Sub_label指向下一条下级标签
- *Label_info指向Label中存储的信息
+ *Parent_label指向上一级标签
  *Label_value指向Label的第一条属性信息
 **/
 typedef struct label_node{
@@ -38,8 +45,6 @@ typedef struct label_node{
 	struct label_node *Parent_label;
 	struct label_node *Label_value;
 }Label_node;
-
-int flag_wbr = 0;					//用于标记wbr是否配对
 
 status Creat_HTML_List(void);
 status Creat_HTML_Tree(Label_node **Root);

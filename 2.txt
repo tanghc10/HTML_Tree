@@ -1,0 +1,1297 @@
+<!DOCTYPE html><html lang="zh-CN"><head>
+<meta content="text/html; charset=gb2312" http-equiv="Content-Type">
+<meta charset="gb2312">
+<title>雷霆球迷与格林对喷：我让他别踢人 他说就踢我_体育_腾讯网</title>
+<meta name="keywords" content="雷霆球迷与格林对喷：我让他别踢人 他说就踢我,NBA,雷霆,格林">
+<meta name="Description" content="雷霆球迷与格林对喷：我让他别踢人 他说就踢我">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<link rel="shortcut icon" href="http://mat1.gtimg.com/www/icon/favicon2.ico">
+<link rel="alternate" type="application/vnd.wap.xhtml+xml" media="handheld" href="http://xw.qq.com/c/sports/20170213022103">
+<script type="text/javascript">
+		ARTICLE_INFO = window.ARTICLE_INFO || {
+			site:'sports',
+			site_cname:'体育',
+			site_url:'http://sports.qq.com',
+			title:'雷霆球迷与格林对喷：我让他别踢人 他说就踢我',
+			id:'20170213022103',
+			pubtime:'2017-02-13 11:58',
+			type:'2',
+			article_url:'http://sports.qq.com/a/20170213/022103.htm',		
+			sosokeys:{key1:'NBA',key2:'雷霆',key3:'格林'},
+			tags:['NBA','雷霆','格林'],
+			catalog:'basket',
+			catalog_full:'sports-basket-nba',		
+			sub_nav:'nba',		
+			topic:{name:'',cname:'',ztcatalog:''},
+			subName:{name:'basket',url:'http://sports.qq.com/nba/', cname:'篮球'},
+			isShowLastAD:'',
+			tpl:{dev:'nba',ver:'1.0.0.0',time:'20150512',type:'1',stype:''}
+			}
+		</script><link href="http://mat1.gtimg.com/pingjs/ext2020/dc/dist/css/sports_nba.css" rel="stylesheet" charset='utf-8' />
+<!--包含门神，适配跳转，测速文件-->
+<!-- 2016.7.13 jackiejiang add house.com use-->
+<script src="http://mat1.gtimg.com/house/js/h5rewrite.js"></script>
+
+<!--2014.3.20 byAustinjin-->
+<!--20140225 menshen-->
+<script type="text/javascript" src="http://js.aq.qq.com/js/aq_common.js"></script><!--[if !IE]>|xGv00|3d36f9f3e0f060add30b9b285e75c8be<![endif]-->
+<script>
+!function(){var i=function(i){if(i&&i.indexOf("/a/")>0){var t=i.split("/")[2].split("qq.com")[0].split("."),e=i.split("/a/")[1].split(".htm")[0].replace(/[^0-9]/g,""),n="",o="",s="";if(o=3===t.length?t[0]+"_"+t[1]:t[0],s=o.indexOf("_")>0&&o.split("_")[0].length<3?(o.split("_")[0]+o.split("_")[1]).substring(0,3).toUpperCase():o.substring(0,3).toUpperCase(),o.indexOf("house")>0&&(s="HOU"),o.indexOf("auto")>0&&(s="AUT"),/cd|fj|cq|hb|gd|zj|ln|js/.test(o)&&(s=o.toUpperCase()+"C"),/henan/.test(o)&&(s="HNC"),/xian/.test(o)&&(s="XAC"),/hn/.test(o)&&(s="HNN"),/2016/.test(o)&&(s="BCP"),"undefined"!=typeof o&&"undefined"!=typeof e){if(o.split(".").length>2)for(var a=o.split(".").length,l=0;a>l;l++)n+=o.split(".")[l],a-2>l&&(n+="_");else n=o.split(".")[0];return"http://xw.qq.com/"+o+"/"+e+"/"+s+e+"00"}}},t={news:"news",photo:"photo",video:"video",view:"huati",finance:"finance",ent:"ent",sports:"sports",digi:"digi",mil:"mil",lady:"lady",auto:"auto",games:"games",house:"house",astro:"astro",cul:"cul",fashion:"fashion",2014:"shijiebei",2016:"2016",edu:"edu",nba:"nba"};if(/Android|webOS|iPhone|Windows Phone|iPod|BlackBerry|SymbianOS/i.test(navigator.userAgent)){var e=window.location.href;window.location.pathname;if(e.indexOf("/a/")>0&&"www.nanjing2014.org"!=window.location.hostname){if(e.indexOf("?pc")<0)try{window.location.href=i(e)}catch(n){}}else if(e.indexOf("?mobile")<0){var o=window.location.hostname.split(".")[0],s=window.location.pathname.split(".")[0].replace(/\//g,"").substring(0,3);if(/news|pp|video|view|finance|ent|sports|digi|mil|fashion|auto|games|house|astro|cul|2014|2016|edu/i.test(o))try{"nba"==s?window.location.href="http://xw.qq.com/m/"+t[s]+"/index.htm":window.location.href="http://xw.qq.com/m/"+t[o]+"/index.htm"}catch(n){}}try{}catch(n){}}}();
+</script>
+<!--设计:leono,大白兔 | 前端:tomie,Artis | 后端:旭雷 | 团队博客: http://qqfe.org-->
+<!--[if !IE]>|xGv00|b25250848c3111bf80269b4261c908fc<![endif]-->
+<script type="text/javascript" src="http://mat1.qq.com/js/speed_v1.9-min.js"></script>
+<script>
+(function(){
+    var bp = document.createElement('script');
+    bp.src = '//push.zhanzhang.baidu.com/push.js';
+    var s = document.getElementsByTagName("script")[0];
+    s.parentNode.insertBefore(bp, s);
+})();
+</script><!--[if !IE]>|xGv00|9d55b3987908c0de3cdcd8e4686965fc<![endif]-->
+<script src="http://mat1.gtimg.com/libs/jquery/1.12.0/jquery.min.js"></script>
+<script src="http://imgcache.gtimg.cn/tencentvideo_v1/tvp/js/tvp.player_v2_jq.js" charset="utf-8"></script><!--[if !IE]>|xGv00|17e0cca8ffb7f3457fc4216bd918a6b9<![endif]-->
+
+<script>
+typeof ARTICLE_INFO=='object' && ARTICLE_INFO && (ARTICLE_INFO.isUnique=1);
+function ResumeError() {return true;}window.onerror = ResumeError;
+</script>
+<!--[if !IE]>|xGv00|2e10c1c1910ef715fc8f226102fa1b1a<![endif]-->
+</head>
+<body id="Wrap">
+<a href="http://www.qq.com/demo/accessibility.htm" title="按alt+3阅读正文，您也可以现在按回车查看详细的无障碍说明，或者使用上下键进行线性阅读" accesskey="0" target="_blank" style="width:0;height:0;overflow:hidden;display:block;font:0/0 Arial">无障碍说明</a><!-- 管家合作  -->
+<!--include virtual="/dc_article2016/module/qqgj.htm"-->
+
+<div id="qq_header" style="margin-bottom:15px;position:relative">
+
+
+
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+
+
+
+
+<!-- NBA公共头部 开始 -->
+<style>
+/* NBA 头部 样式*/
+.nba-header .nba-sm-shequ .hotposts .posts ul li a,.qqcom-login a.avatar .bubble .inner .nickname .name{overflow:hidden;text-overflow:ellipsis;white-space:nowrap}.nba-header{min-width:1000px;font-family:Arial,"Hiragino Sans GB","Microsoft YaHei","WenQuanYi Micro Hei",sans-serif}.nba-header a,.nba-header div,.nba-header h1,.nba-header h2,.nba-header h3,.nba-header h4,.nba-header h5,.nba-header li,.nba-header ol,.nba-header p,.nba-header ul{margin:0;padding:0}.nba-header ol,.nba-header ul{list-style:none}.nba-header img{border:0}.nba-header .cf:after,.nba-header .cf:before{content:" ";display:table}.nba-header .cf:after{clear:both}.nba-header .cf{*zoom:1}.nba-header .nba-header-layout{margin:0 auto;position:relative;z-index:10}.nba-header .nba-header-top{height:120px;background-color:#005CA1;background-position:top center;background-repeat:no-repeat}.nba-header .nba-header-top .nba-header-layout{z-index:11}.nba-header .nba-header-top .nba-header-logo{float:left}.nba-header .nba-header-top .nba-header-logo .nba-header-logo-tlink{color:#4bacfe;padding-top:12px;font-size:12px}.nba-header .nba-header-top .nba-header-logo .nba-header-logo-tlink a{text-decoration:none;color:#4bacfe}.nba-header .nba-header-top .nba-header-logo .nba-header-logo-tlink a:hover{text-decoration:underline}.nba-header .nba-header-top .nba-header-logo .nba-header-logo-rtext{float:right;color:#FFF;font-size:28px;margin-top:20px;margin-right:30px;height:40px;line-height:40px}.nba-header .nba-header-top .nba-header-logo a.nba-header-logo-img{display:block;width:210px;height:60px;background-image:url(http://mat1.gtimg.com/sports/nba2015_statics/public/logo.png);background-image:-webkit-image-set(url(http://mat1.gtimg.com/sports/nba2015_statics/public/logo.png) 1x,url(http://mat1.gtimg.com/sports/nba2015_statics/public/logo_2x.png) 2x);background-repeat:no-repeat;background-position:0 0;margin-top:12px;overflow:hidden}.nba-header .nba-header-top .nba-header-login{float:right;width:260px;height:100%;position:relative;z-index:20}.nba-header .nba-header-top .nba-header-login .qqcom-login{margin-top:40px}.nba-header .nba-header-top .nba-header-middle{width:490px;height:120px;margin-left:250px;font-size:0;vertical-align:bottom}.nba-header .nba-header-top .nba-header-middle .nba-header-middle-img-thin,.nba-header .nba-header-top .nba-header-middle .nba-header-middle-img-wide{display:block;height:100%;background-position:0 0;background-repeat:no-repeat}.nba-header .nba-header-top .nba-header-middle .nba-header-middle-img-wide{width:780px}.nba-header .nba-header-top .nba-header-middle .nba-header-middle-img-thin{width:570px}.nba-header .nba-header-nav{height:60px;line-height:60px;background-position:top center;background-repeat:no-repeat}.nba-header .nba-header-nav a{text-decoration:none;color:#fff}.nba-header .nba-header-nav a:hover{color:#4bacfe;text-decoration:none}.nba-header .nba-header-nav .nav-sprite{background-image:url(http://mat1.gtimg.com/sports/nba2015_statics/public/header_nav_sprite.png);background-image:-webkit-image-set(url(http://mat1.gtimg.com/sports/nba2015_statics/public/header_nav_sprite.png) 1x,url(http://mat1.gtimg.com/sports/nba2015_statics/public/header_nav_sprite_2x.png) 2x);background-repeat:no-repeat}.nba-header .nba-header-nav .nav-icon-live,.nba-header .nba-header-nav .nav-icon-pic,.nba-header .nba-header-nav .nav-icon-video{display:-moz-inline-stack;display:inline-block;zoom:1;*display:inline;vertical-align:top;width:20px;height:15px;margin-right:8px;margin-top:17px}.nba-header .nba-header-nav .nav-icon-video{background-position:-21px 0}.nba-header .nba-header-nav .nav-icon-live{background-position:-21px -16px}.nba-header .nba-header-nav .nav-icon-pic{background-position:-21px -32px}.nba-header .nba-header-nav .nav-icon-submenu{display:-moz-inline-stack;display:inline-block;zoom:1;*display:inline;vertical-align:top;width:6px;height:4px;margin-left:6px;margin-top:23px;background-position:-7px -56px}.nba-header .nba-header-nav .nav-split{float:left;background-color:#004372;width:1px;height:16px;margin:18px 20px 16px}.nba-header .nba-header-nav ul.nav-list{display:block;float:left}.nba-header .nba-header-nav ul.nav-list li{float:left;font-size:16px;background-position:bottom center;background-repeat:no-repeat}.nba-header .nba-header-nav ul.nav-list li a.nav-a-tl{display:block;padding:0 10px}.nba-header .nba-header-nav ul.nav-list li a.nav-a-tl:hover .nav-icon-video{background-position:0 0}.nba-header .nba-header-nav ul.nav-list li a.nav-a-tl:hover .nav-icon-live{background-position:0 -16px}.nba-header .nba-header-nav ul.nav-list li a.nav-a-tl:hover .nav-icon-pic{background-position:0 -32px}.nba-header .nba-header-nav ul.nav-list li.nav-link-shouye{margin-right:10px}.nba-header .nba-header-nav ul.nav-list li.has-submenu a:hover .nav-icon-submenu{background-position:0 -56px}.nba-header .nba-header-nav ul.nav-list li.has-submenu div.submenu{display:none;visibility:hidden;position:absolute;top:60px;left:50%;z-index:99;min-height:200px;background-color:#014576;border-bottom:2px solid #d33556}.nba-header .nba-header-nav ul.nav-list li.has-submenu div.submenu .layout{margin:0 auto;position:relative}.nba-header .nba-header-nav ul.nav-list li.has-submenu div.submenu-list{width:70px;margin-left:-35px;min-height:0;border:none}.nba-header .nba-header-nav ul.nav-list li.has-submenu div.submenu-list a{display:block;text-align:center;height:36px;line-height:36px;border-bottom:1px solid #003d69;border-top:1px solid #01538d}.nba-header .nba-header-nav ul.nav-list li.has-submenu div.submenu-list a:first-child{border-top:none}.nba-header .nba-header-nav ul.nav-list li.has-submenu div.submenu-list a:last-child{border-bottom:none}.nba-header .nba-header-nav ul.nav-list .has-submenu-type-list{position:relative}.nba-header .nba-header-nav-submenu-enable ul li.has-submenu:hover,.nba-header .nba-header-nav-submenu-enable ul li.show-submenu{background:url(http://mat1.gtimg.com/sports/nba2015_statics/public/header_nav_hassub_hover.png) bottom center no-repeat}.nba-header .nba-header-nav-submenu-enable ul li.has-submenu:hover a.nav-a-tl,.nba-header .nba-header-nav-submenu-enable ul li.show-submenu a.nav-a-tl{color:#FFF}.nba-header .nba-header-nav-submenu-enable ul li.has-submenu:hover a.nav-a-tl .nav-icon-submenu,.nba-header .nba-header-nav-submenu-enable ul li.show-submenu a.nav-a-tl .nav-icon-submenu{background-position:-7px -56px}.nba-header .nba-header-nav-submenu-enable ul li.has-submenu:hover div.submenu,.nba-header .nba-header-nav-submenu-enable ul li.show-submenu div.submenu{display:block;visibility:visible}.nba-header-magnet{padding-bottom:50px}.nba-header-magnet .nba-header-nav{position:fixed;top:0;z-index:199;width:100%}.nba-header-wide .nba-header-layout{width:1240px}.nba-header-wide .nba-header-top{background-image:url(http://mat1.gtimg.com/sports/nba2015_statics/public/header-bg.png)}.nba-header-wide .nba-header-top .nba-header-middle .nba-header-middle-img-thin{display:none}.nba-header-wide .nba-header-top .nba-header-middle .nba-header-middle-img-wide,.nba-header-wide .nba-sm-jiemu .ad-rt,.nba-header-wide .nba-sm-pinglun .main .experts,.nba-header-wide .nba-sm-shipin .ad-rt{display:block}.nba-header-wide .nba-header-nav{background-image:url(http://mat1.gtimg.com/sports/nba2015_statics/public/header_nav_bg.png)}.nba-header-wide .nba-header-nav ul li.has-submenu div.submenu{width:1240px;margin-left:-620px}.nba-header-wide .nba-header-nav ul.nav-list-right li a.nav-a-tl{padding:0 20px}.nba-header-wide .nba-sm-pinglun .main .articles{padding:0}.nba-header-wide .nba-sm-shequ .hotposts{width:690px}.nba-header-wide .nba-sm-shequ .hotposts .posts ul{width:315px}@media only screen and (max-width:1260px){.nba-header-wide .nba-header-layout{width:1000px}.nba-header-wide .nba-header-top{background-image:url(http://mat1.gtimg.com/sports/nba2015_statics/public/header-bg_1k.png)}.nba-header-wide .nba-header-top .nba-header-middle .nba-header-middle-img-thin{display:block}.nba-header-wide .nba-header-top .nba-header-middle .nba-header-middle-img-wide,.nba-header-wide .nba-sm-jiemu .ad-rt,.nba-header-wide .nba-sm-pinglun .main .experts,.nba-header-wide .nba-sm-shipin .ad-rt{display:none}.nba-header-wide .nba-header-nav{background-image:url(http://mat1.gtimg.com/sports/nba2015_statics/public/header_nav_bg_1k.png)}.nba-header-wide .nba-header-nav ul li.has-submenu div.submenu{width:1000px;margin-left:-500px}.nba-header-wide .nba-header-nav ul.nav-list-right li a.nav-a-tl{padding:0 9px}.nba-header-wide .nba-sm-pinglun .main .articles{padding-left:180px}.nba-header-wide .nba-sm-shequ .hotposts{width:660px}.nba-header-wide .nba-sm-shequ .hotposts .posts ul{width:300px}}.nba-header-thin .nba-header-layout{width:1000px}.nba-header-thin .nba-header-top{background-image:url(http://mat1.gtimg.com/sports/nba2015_statics/public/header-bg_1k.png)}.nba-header-thin .nba-header-top .nba-header-middle .nba-header-middle-img-thin{display:block}.nba-header-thin .nba-header-top .nba-header-middle .nba-header-middle-img-wide,.nba-header-thin .nba-sm-jiemu .ad-rt,.nba-header-thin .nba-sm-pinglun .main .experts,.nba-header-thin .nba-sm-shipin .ad-rt{display:none}.nba-header-thin .nba-header-nav{background-image:url(http://mat1.gtimg.com/sports/nba2015_statics/public/header_nav_bg_1k.png)}.nba-header-thin .nba-header-nav ul li.has-submenu div.submenu{width:1000px;margin-left:-500px}.nba-header-thin .nba-header-nav ul.nav-list-right li a.nav-a-tl{padding:0 9px}.nba-header-thin .nba-sm-pinglun .main .articles{padding-left:180px}.nba-header-thin .nba-sm-shequ .hotposts{width:660px}.nba-header-thin .nba-sm-shequ .hotposts .posts ul{width:300px}@media only screen and (min-width:1260px){.nba-header-thin .nba-header-layout{width:1240px}.nba-header-thin .nba-header-top{background-image:url(http://mat1.gtimg.com/sports/nba2015_statics/public/header-bg.png)}.nba-header-thin .nba-header-top .nba-header-middle .nba-header-middle-img-thin{display:none}.nba-header-thin .nba-header-top .nba-header-middle .nba-header-middle-img-wide,.nba-header-thin .nba-sm-jiemu .ad-rt,.nba-header-thin .nba-sm-pinglun .main .experts,.nba-header-thin .nba-sm-shipin .ad-rt{display:block}.nba-header-thin .nba-header-nav{background-image:url(http://mat1.gtimg.com/sports/nba2015_statics/public/header_nav_bg.png)}.nba-header-thin .nba-header-nav ul li.has-submenu div.submenu{width:1240px;margin-left:-620px}.nba-header-thin .nba-header-nav ul.nav-list-right li a.nav-a-tl{padding:0 20px}.nba-header-thin .nba-sm-pinglun .main .articles{padding:0}.nba-header-thin .nba-sm-shequ .hotposts{width:690px}.nba-header-thin .nba-sm-shequ .hotposts .posts ul{width:315px}}.nba-header-short .nba-header-top{height:80px}.nba-header-short .nba-header-top .nba-header-middle{height:80px;margin-left:435px}.nba-header-short .nba-header-top .nba-header-middle .nba-header-middle-img-thin{width:350px;display:none}.nba-header-short .nba-header-top .nba-header-middle .nba-header-middle-img-wide{width:600px}.nba-header-short .nba-header-top .nba-header-logo{width:435px}.nba-header-short .nba-header-top .nba-header-logo .nba-header-logo-tlink{float:right;margin-top:40px}.nba-header-short .nba-header-top .nba-header-login .qqcom-login{margin-top:20px}.nba-header-short .nba-header-nav{height:50px;line-height:50px}.nba-header-short .nba-header-nav ul.nav-list li.has-submenu div.submenu{top:50px}.nba-header-short.nba-header-wide .nba-header-top{background-image:url(http://img1.gtimg.com/sports/pics/hv1/16/70/1932/125646166.png)}@media only screen and (max-width:1260px){.nba-header-short.nba-header-wide .nba-header-top{background-image:url(http://img1.gtimg.com/sports/pics/hv1/130/21/1899/123487960.png)}}.nba-header-short.nba-header-thin .nba-header-top{background-image:url(http://img1.gtimg.com/sports/pics/hv1/130/21/1899/123487960.png)}@media only screen and (min-width:1260px){.nba-header-short.nba-header-thin .nba-header-top{background-image:url(http://img1.gtimg.com/sports/pics/hv1/16/70/1932/125646166.png)}}.nba-header .submenu li.pic-item{display:block;float:left;position:relative;width:240px;height:135px;margin-right:40px}.nba-header .submenu li.pic-item a{display:block;width:100%;height:100%;background-color:#6870A9;position:relative;overflow:hidden}.nba-header .submenu li.pic-item a img{display:block;width:100%;height:100%;border:0;-webkit-transition:transform .3s ease-out;-moz-transition:transform .3s ease-out;-ms-transition:transform .3s ease-out;-o-transition:transform .3s ease-out;transition:transform .3s ease-out}.nba-header .submenu li.pic-item a p{position:absolute;left:0;bottom:0;width:100%;height:30px;line-height:30px;font-size:14px;background-color:#000;background-color:rgba(0,0,0,.6);color:#FFF;text-indent:1em}.nba-header .submenu li.pic-item a div.tag{position:absolute;top:0;left:0;font-size:12px;text-align:center;min-width:56px;height:25px;line-height:25px;padding:0 12px;color:#FFF;background-color:#D33556}.nba-header .submenu li.pic-item a div.tag:after{content:'';position:absolute;top:0;right:-16px;width:0;height:0;font-size:0;border-style:solid;border-width:25px 16px 0 0;border-color:#d33557 transparent transparent}.nba-header .submenu li.pic-item a i{text-indent:-999px;position:absolute;display:block;width:30px;height:30px;left:16px;bottom:40px;background-image:url(http://img1.gtimg.com/sports/pics/hv1/200/171/1889/122876030.png)}.nba-header .submenu li.pic-item a:hover img{-webkit-transform:scale(1.05);-moz-transform:scale(1.05);-ms-transform:scale(1.05);-o-transform:scale(1.05);transform:scale(1.05)}.nba-header .nba-sm-jiemu .tabs,.nba-header .nba-sm-shipin .tabs{font-size:0;padding:20px 0 0 30px;line-height:1}.nba-header .nba-sm-jiemu .tabs a,.nba-header .nba-sm-jiemu .tabs span,.nba-header .nba-sm-shipin .tabs a,.nba-header .nba-sm-shipin .tabs span{font-size:14px;display:inline}.nba-header .nba-sm-jiemu .tabs a,.nba-header .nba-sm-shipin .tabs a{color:#FFF}.nba-header .nba-sm-jiemu .tabs span,.nba-header .nba-sm-shipin .tabs span{font-family:"\5B8B\4F53",sans-serif;color:#008cef;padding:0 15px}.nba-header .nba-sm-jiemu .tabs a.current,.nba-header .nba-sm-jiemu .tabs a:hover,.nba-header .nba-sm-shipin .tabs a.current,.nba-header .nba-sm-shipin .tabs a:hover{color:#008cef}.nba-header .nba-sm-jiemu .videos,.nba-header .nba-sm-shipin .videos{margin-top:40px;margin-bottom:30px;padding-left:30px;height:135px;position:relative;overflow:hidden}.nba-header .nba-sm-jiemu .videos .video-list,.nba-header .nba-sm-shipin .videos .video-list{overflow:hidden}.nba-header .nba-sm-jiemu .videos .video-list .pic-item,.nba-header .nba-sm-shipin .videos .video-list .pic-item{margin-right:20px}.nba-header .nba-sm-jiemu .videos .ad-l,.nba-header .nba-sm-shipin .videos .ad-l{display:block;width:135px;height:135px;float:left;margin-right:20px;font-size:12px;text-align:center;color:#FFF}.nba-header .nba-sm-jiemu .videos .ad-l img,.nba-header .nba-sm-shipin .videos .ad-l img{vertical-align:top;border:0}.nba-header .nba-sm-jiemu .vsearch,.nba-header .nba-sm-shipin .vsearch{display:block;position:absolute;right:35px;top:5px}.nba-header .nba-sm-jiemu .vsearch form,.nba-header .nba-sm-shipin .vsearch form{font-size:0}.nba-header .nba-sm-jiemu .vsearch form input.kw,.nba-header .nba-sm-shipin .vsearch form input.kw{width:150px;height:28px;line-height:28px;padding:0;border:1px solid #005896;border-right:0;vertical-align:middle;font-size:14px;text-indent:10px;color:#4bacfe;background-color:#003a64;border-radius:2px 0 0 2px;outline:0;transition:all .2s ease-out}.nba-header .nba-sm-jiemu .vsearch form input.kw:focus,.nba-header .nba-sm-shipin .vsearch form input.kw:focus{background-color:#005896}.nba-header .nba-sm-jiemu .vsearch form input.submit,.nba-header .nba-sm-shipin .vsearch form input.submit{width:40px;height:30px;border:0;border-radius:0 2px 2px 0;vertical-align:middle;background:url(http://mat1.gtimg.com/sports/nba2015_statics/public/search-icon.png) 10px 7px no-repeat #005896}.nba-header .nba-sm-qiudui .layout,.nba-header .nba-sm-qiuyuan .players-list{border-left:1px solid #004576;border-right:1px solid #004576}.nba-header .nba-sm-jiemu .ad-rt img,.nba-header .nba-sm-pinglun .ad-rt img,.nba-header .nba-sm-shipin .ad-rt img{vertical-align:top}.nba-header .nba-sm-jiemu .ad-rt,.nba-header .nba-sm-shipin .ad-rt{position:absolute;top:0;right:0;width:405px;height:52px}.nba-header .nba-sm-qiuyuan{background-color:#fff}.nba-header .nba-sm-qiuyuan .banner{height:35px;line-height:35px;color:#FFF;position:relative;background:url(http://img1.gtimg.com/sports/pics/hv1/254/252/1914/124522364.png) left top no-repeat #004576}.nba-header .nba-sm-qiuyuan .banner h3{margin-left:42px;font-size:14px;font-weight:400;cursor:default}.nba-header .nba-sm-qiuyuan .banner .ad-zanzhu{position:absolute;height:35px;top:0;right:0}.nba-header .nba-sm-qiuyuan .players-list ul{padding:20px 14px}.nba-header .nba-sm-qiuyuan .players-list ul li{display:block;float:left;margin:15px 0;width:10%}.nba-header .nba-sm-qiuyuan .players-list ul li a{display:block;width:70px;margin:0 auto;text-align:center;line-height:1;padding-top:60px;background-position:top center;background-repeat:no-repeat}.nba-header .nba-sm-qiuyuan .players-list ul li a strong{color:#081626;display:block;padding-top:6px;font-weight:400;font-size:14px}.nba-header .nba-sm-qiuyuan .players-list ul li a:hover strong{color:#f23d63}.nba-header .nba-sm-qiudui{background-color:#fff}.nba-header .nba-sm-qiudui .teams-block{width:50%;float:left}.nba-header .nba-sm-qiudui .teams-block .banner{height:35px;line-height:35px;color:#FFF;background:url(http://img1.gtimg.com/sports/pics/hv1/254/252/1914/124522364.png) left top no-repeat #f3f3f3}.nba-header .nba-sm-qiudui .teams-block .banner h3{margin-left:42px;font-size:14px;font-weight:400;cursor:default}.nba-header .nba-sm-qiudui .teams-block .banner-blue{background-color:#004576}.nba-header .nba-sm-qiudui .teams-block .teams-list{background-color:#fff;padding:0 9px 0 10px}.nba-header .nba-sm-qiudui .teams-block .teams-list ul li{display:block;float:left;width:20%;padding:22px 0}.nba-header .nba-sm-qiudui .teams-block .teams-list ul li a.team-logo-40{display:block;line-height:1;background-image:url(http://mat1.gtimg.com/sports/nba2015_statics/public/team_logos_s40-c42c28.png);background-position:left center;background-repeat:no-repeat;padding-left:50px}.nba-header .nba-sm-qiudui .teams-block .teams-list ul li a.team-logo-40 strong{line-height:40px;vertical-align:top;color:#081626;font-weight:400;font-size:14px}.nba-header .nba-sm-qiudui .teams-block .teams-list ul li a.team-logo-40 strong.line2{line-height:20px}.nba-header .nba-sm-qiudui .teams-block .teams-list ul li a.team-logo-40:hover strong{color:#f23d63}.nba-header .nba-sm-qiudui .teams-block .teams-list ul li a.sixers{background-position:0 0}.nba-header .nba-sm-qiudui .teams-block .teams-list ul li a.celtics{background-position:0 -52px}.nba-header .nba-sm-qiudui .teams-block .teams-list ul li a.knicks{background-position:0 -105px}.nba-header .nba-sm-qiudui .teams-block .teams-list ul li a.nets{background-position:0 -159px}.nba-header .nba-sm-qiudui .teams-block .teams-list ul li a.raptors{background-position:0 -212px}.nba-header .nba-sm-qiudui .teams-block .teams-list ul li a.hornets{background-position:0 -265px}.nba-header .nba-sm-qiudui .teams-block .teams-list ul li a.hawks{background-position:0 -319px}.nba-header .nba-sm-qiudui .teams-block .teams-list ul li a.heat{background-position:0 -373px}.nba-header .nba-sm-qiudui .teams-block .teams-list ul li a.magic{background-position:0 -424px}.nba-header .nba-sm-qiudui .teams-block .teams-list ul li a.wizards{background-position:0 -479px}.nba-header .nba-sm-qiudui .teams-block .teams-list ul li a.bucks{background-position:0 -533px}.nba-header .nba-sm-qiudui .teams-block .teams-list ul li a.bulls{background-position:0 -586px}.nba-header .nba-sm-qiudui .teams-block .teams-list ul li a.cavaliers{background-position:0 -639px}.nba-header .nba-sm-qiudui .teams-block .teams-list ul li a.pacers{background-position:0 -693px}.nba-header .nba-sm-qiudui .teams-block .teams-list ul li a.pistons{background-position:0 -746px}.nba-header .nba-sm-qiudui .teams-block .teams-list ul li a.clippers{background-position:0 -800px}.nba-header .nba-sm-qiudui .teams-block .teams-list ul li a.lakers{background-position:0 -852px}.nba-header .nba-sm-qiudui .teams-block .teams-list ul li a.kings{background-position:0 -906px}.nba-header .nba-sm-qiudui .teams-block .teams-list ul li a.warriors{background-position:0 -959px}.nba-header .nba-sm-qiudui .teams-block .teams-list ul li a.suns{background-position:0 -1012px}.nba-header .nba-sm-qiudui .teams-block .teams-list ul li a.grizzlies{background-position:0 -1066px}.nba-header .nba-sm-qiudui .teams-block .teams-list ul li a.pelicans{background-position:0 -1119px}.nba-header .nba-sm-qiudui .teams-block .teams-list ul li a.mavericks{background-position:0 -1172px}.nba-header .nba-sm-qiudui .teams-block .teams-list ul li a.rockets{background-position:0 -1223px}.nba-header .nba-sm-qiudui .teams-block .teams-list ul li a.spurs{background-position:0 -1276px}.nba-header .nba-sm-qiudui .teams-block .teams-list ul li a.jazz{background-position:0 -1333px}.nba-header .nba-sm-qiudui .teams-block .teams-list ul li a.nuggets{background-position:0 -1386px}.nba-header .nba-sm-qiudui .teams-block .teams-list ul li a.thunder{background-position:0 -1438px}.nba-header .nba-sm-qiudui .teams-block .teams-list ul li a.timberwolves{background-position:0 -1492px}.nba-header .nba-sm-qiudui .teams-block .teams-list ul li a.blazers{background-position:0 -1546px}.nba-header .nba-sm-pinglun .tabs{font-size:0;padding:20px 0 0 30px;line-height:1}.nba-header .nba-sm-pinglun .tabs a,.nba-header .nba-sm-pinglun .tabs span{font-size:14px;display:inline}.nba-header .nba-sm-pinglun .tabs a{color:#FFF}.nba-header .nba-sm-pinglun .tabs span{font-family:"\5B8B\4F53",sans-serif;color:#008cef;padding:0 15px}.nba-header .nba-sm-pinglun .tabs a.current,.nba-header .nba-sm-pinglun .tabs a:hover{color:#008cef}.nba-header .nba-sm-pinglun .main{margin:30px 0}.nba-header .nba-sm-pinglun .main .experts{float:left;padding:0 40px;margin-right:30px;border-right:1px solid #003c67}.nba-header .nba-sm-pinglun .main .experts ul li{display:block;float:left;width:110px}.nba-header .nba-sm-pinglun .main .experts ul li a{display:block;text-align:center;line-height:1;color:#FFF}.nba-header .nba-sm-pinglun .main .experts ul li a span,.nba-header .nba-sm-pinglun .main .experts ul li a strong{display:block;font-weight:400}.nba-header .nba-sm-pinglun .main .experts ul li a strong{margin:5px 0;font-size:14px}.nba-header .nba-sm-pinglun .main .experts ul li a span{color:#0082de;font-size:12px}.nba-header .nba-sm-pinglun .main .experts ul li a:hover{color:#008cef}.nba-header .nba-sm-pinglun .main .articles{display:block;float:left;width:680px;margin:0 auto}.nba-header .nba-sm-pinglun .main .articles ul li{display:block;float:left;width:340px;text-align:left;line-height:28px}.nba-header .nba-sm-pinglun .main .articles ul li a{font-size:14px;color:#FFF}.nba-header .nba-sm-pinglun .main .articles ul li a:hover{color:#008cef}.nba-header .nba-sm-pinglun .ad-rt{position:absolute;top:0;right:0;width:405px;height:52px}.nba-header .nba-sm-shequ{margin-top:30px;margin-bottom:40px}.nba-header .nba-sm-shequ .hotposts{float:right;font-size:12px}.nba-header .nba-sm-shequ .hotposts h3 a{display:block;position:relative;left:0;top:-2px;height:20px;width:40px;line-height:20px;font-weight:400;text-align:center;background-color:#fff;color:#014576}.nba-header .nba-sm-shequ .hotposts h3 a:after{content:'';position:absolute;top:0;right:-10px;width:0;height:0;font-size:0;border-style:solid;border-width:20px 10px 0 0;border-color:#fff transparent transparent}.nba-header .nba-sm-shequ .hotposts h3 a:hover{left:-1px}.nba-header .nba-sm-shequ .hotposts .posts ul{display:block;float:left}.nba-header .nba-sm-shequ .hotposts .posts ul+ul{margin-left:25px}.nba-header .nba-sm-shequ .hotposts .posts ul li{float:left;display:block;width:100%;line-height:28px}.nba-header .nba-sm-shequ .hotposts .posts ul li span{float:right;background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAABmJLR0QAAAAAAAD5Q7t/AAAACXBIWXMAAAsSAAALEgHS3X78AAABb0lEQVQ4y5XSP2yPYRAH8M/708SfUWKgmogYGmLohnAxGTpYKqZSFhIixCAms1iqNJFa2sFEQ9hM5Gmb6NZENAYRCbo06SqGYvjdm7zVV3HJk+fyve997+55roJSyiZcxUXsxQc8wLiuXcYl7MNHTGAsIlarUkqFxzhlvT3Ke7glNo3THYxk8goGsQW7svpwnnHsxLbkrGTO2aqUMoOjOB8RU80SpZQXEBEnf8PPYRJzPRhI/FlLm7e02/O8B3psYBGx8IfQj9rpYDH9I/7dau5ip9H6mf8QqLlPq1LKdnzCVhyMiPeNx6pylJ8NrB9v8Q17qgSvYRSzOB4Rq21lc+Fe4RiuR8RoJ2P3UX/n2Aat383kOdyDqqHeizfYjTu4Wbeeo9zGDXzBoYj4ukYgifvxGjt0V/VChh7qbt5yjlj/3FqBFDmAl+jF54T7sIQTEfGuyV8n0BjnCQ4nNI+huu2/CqTI5nxcuBIR39t4vwC4424EMIgcmgAAAABJRU5ErkJggg==) left center no-repeat;padding-left:18px;font-size:12px;color:#b4b4b4}.nba-header .nba-sm-shequ .hotposts .posts ul li a{display:block;-ms-text-overflow:ellipsis;text-decoration:none;font-size:14px}.nba-header .nba-sm-shequ .recommend{display:block;position:relative;overflow:hidden;margin-left:30px}.nba-header .nba-sm-shequ .recommend ul{width:1234px}.nba-header .nba-sm-shequ .recommend ul li{display:block;float:left;margin-right:20px}.nba-header .nba-sm-shequ .recommend ul li a{display:block;width:84px;text-decoration:none;text-align:center;cursor:pointer}.nba-header .nba-sm-shequ .recommend ul li a .teamlogo{width:80px;height:80px;text-align:center;background-color:#fff;border:2px solid #fff;border-radius:50%;overflow:hidden}.qqcom-login a.avatar,.qqcom-login a.avatar img{border-radius:25px;width:50px;height:50px}.nba-header .nba-sm-shequ .recommend ul li a .teamlogo img{width:60px;height:60px;margin-top:10px}.nba-header .nba-sm-shequ .recommend ul li a p,.nba-header .nba-sm-shequ .recommend ul li a span{line-height:1;display:block}.nba-header .nba-sm-shequ .recommend ul li a p{font-size:16px;color:#fff;padding:12px 0 4px}.nba-header .nba-sm-shequ .recommend ul li a span{margin-top:8px;font-size:12px;color:#fff}.nba-header .nba-sm-shequ .recommend ul li a:hover .teamlogo{border-color:#4bacfe}.nba-header .nba-sm-shequ .recommend ul li a:hover p{color:#4bacfe}.qqcom-login a.avatar,.qqcom-login a.avatar i.vipmark-ty{display:block;color:#FFF;text-align:center;font-size:12px}.qqcom-login{height:50px;position:relative}.qqcom-login a.avatar{float:right;position:relative;line-height:50px;cursor:pointer;text-decoration:none;background-color:#015ea1}.qqcom-login a.avatar:hover{background-color:#00528c;text-decoration:none}.qqcom-login a.avatar i.vipmark{display:block;width:14px;height:16px;background:url(http://mat1.gtimg.com/news/dc/images/Member.png) no-repeat;position:absolute;right:1px;bottom:1px}.qqcom-login a.avatar i.vipmark-ty{width:28px;height:14px;background-color:#fe9f2b;font-family:Verdana,sans-serif;font-weight:100;font-style:normal;-webkit-font-smoothing:antialiased;line-height:14px;position:absolute;right:0;bottom:0}.qqcom-login a.avatar .bubble{display:none;position:absolute;right:0;top:49px;padding-top:6px;white-space:nowrap;cursor:default}.qqcom-login a.avatar .bubble i.arrow{position:absolute;top:1px;right:18px;width:0;height:0;border-style:solid;border-width:0 5px 6px;border-color:transparent transparent #fff}.qqcom-login a.avatar .bubble .inner{color:#3c3c3c;font-size:14px;width:180px;padding-top:12px;border:1px solid #e2e2e2;background-color:#fff;text-align:left;line-height:1}.qqcom-login a.avatar .bubble .inner .plaintext{padding:0 12px}.qqcom-login a.avatar .bubble .inner .nickname{display:block;position:relative;padding:0 12px;height:34px;line-height:34px}.qqcom-login a.avatar .bubble .inner .nickname .kb{display:block;float:right;color:#ff9e2c;height:100%;font-family:Arial,sans-serif;background-image:url(http://mat1.gtimg.com/sports/kbsweb/statics/coin_f477bf.png);background-position:left center;background-repeat:no-repeat;padding-left:20px}.qqcom-login a.avatar .bubble .inner a.getvip{display:block;margin:0 12px 12px;height:30px;line-height:30px;text-align:center;color:#FFF;background-color:#ff8f17}.qqcom-login a.avatar .bubble .inner a.getvip:hover{color:#FFF;background-color:#ff9b31}.qqcom-login a.avatar .bubble .inner .links a{display:block;height:30px;line-height:30px;text-align:center;background-color:#fff}.qqcom-login a.avatar .bubble .inner .links a:hover{color:#fff;background-color:#f23d63}.qqcom-login a.avatar .bubble .inner hr{margin:0;padding:0;border:none;height:1px;color:#e2e2e2;background-color:#e2e2e2}.qqcom-login a.avatar .bubble .inner a{color:#3c3c3c;cursor:pointer;text-decoration:none}.qqcom-login a.avatar .bubble .inner a:hover{color:#000}.qqcom-login a.avatar:hover .bubble{display:block}.qqcom-login .sports-vip-status{display:block;float:right;height:30px;line-height:30px;padding-left:40px;font-size:12px;color:#fff;cursor:pointer;text-decoration:none;margin-top:10px;margin-right:30px;background:url(http://mat1.gtimg.com/sports/nba2015_statics/public/sports_vip_shield.png) left center no-repeat}.qqcom-login .sports-vip-status:hover{color:#fbe512}.qqcom-login-mask{position:absolute;top:0;left:0;width:100%;height:3000px;z-index:8888;background:url(http://mat1.gtimg.com/www/images/qq2012/alphabg.png)}.qqcom-login-mask iframe{position:fixed;width:622px;height:419px;padding:0;top:50%;left:50%;background-color:#fff;margin:-184px 0 0 -311px;z-index:8889}
+
+/* 高亮链接 */
+/**/
+</style>
+
+
+
+
+
+<div class="nba-header nba-header-thin  nba-header-short">
+    <div class="nba-header-top">
+        <div class="nba-header-layout">
+            <div class="nba-header-logo" bosszone="SY_Toplink">
+                <div class="nba-header-logo-tlink">
+                    <a href="http://www.qq.com" target="_blank">腾讯网</a>&ensp;&ensp;<a href="http://sports.qq.com" target="_blank">腾讯体育</a>&ensp;&ensp;|&ensp;&ensp;
+                    <a href="http://china.nba.com" target="_blank">NBA中文官网</a>
+                </div>
+                <a class="nba-header-logo-img" href="http://sports.qq.com/nba/" target="_blank"></a>
+            </div>
+            
+            <div class="nba-header-middle">
+            
+                <a style="background-image:url(http://img1.gtimg.com/sports/pics/hv1/70/113/2172/141263185.png);" class="nba-header-middle-img-wide" href="http://nba.stats.qq.com/schedule/" target="_blank" bosszone="SY_TGpfsd16"></a><!--[if !IE]>|xGv00|9c08b91437176df9b0aae7eeb54e7c27<![endif]-->
+                <div style="background-image:url(http://img1.gtimg.com/sports/pics/hv1/76/71/1932/125646481.png);" class="nba-header-middle-img-thin"></div><!--[if !IE]>|xGv00|e0cd0c44172da9d4763e78e3c2c99460<![endif]-->
+            
+            </div>
+        </div>
+    </div>
+    <div class="nba-header-nav" bosszone="SY_Topnav">
+        <div class="nba-header-layout">
+            <ul class="nav-list nav-list-main">
+                <li class="nav-link-shouye"><a class="nav-a-tl" href="http://sports.qq.com/nba/" bosszone="SY_TopnavSy">首页</a></li>
+                <li class="nav-link-shipin has-submenu">
+                    <a class="nav-a-tl" href="http://sports.qq.com/nba/video" bosszone="SY_TopnavSp" data-bosshover="SY_TopnavBSp"><i class="nav-sprite nav-icon-video"></i>视频<i class="nav-sprite nav-icon-submenu"></i></a>
+                    <div class="submenu">
+                        <!-- 子菜单: 视频 开始 -->
+                        <div class="nba-sm-shipin">
+    <div class="layout cf">
+        <div class="tabs" bosszone="SY_TopnavSpzt">
+            <a href="http://sports.qq.com/nbavideo/topsk/" target="_blank">十佳球</a><span>|</span>
+            <a href="http://sports.qq.com/nbavideo/match.htm" target="_blank">赛事库</a><span>|</span>
+            <a href="http://sports.qq.com/nbavideo/query/" target="_blank">视频库</a><span>|</span>
+            <a href="http://sports.qq.com/nbavideo/cxmatch/" target="_blank">赛事回放</a><span>|</span>
+            <a href="http://sports.qq.com/nbavideo/jdjx/" target="_blank">绝对巨星</a><span>|</span>
+            <a href="http://sports.qq.com/nbavideo/kqtg/" target="_blank">看球听歌</a><span>|</span>
+            <a href="http://sports.qq.com/nbavideo/jjnba/" target="_blank">囧囧NBA</a><span>|</span>
+            <a href="http://sports.qq.com/nbavideo/nbajdjd/" target="_blank">绝对经典</a><span>|</span>
+            <a href="http://sports.qq.com/nbavideo/nbasdsj/" target="_blank">上帝视角</a><span>|</span>
+            <a href="http://sports.qq.com/nbavideo/nbachristmas/" target="_blank">圣诞大战</a><span>|</span>
+            <a href="http://redbullbasketball2016.act.qq.com" target="_blank">红牛篮球</a></div>
+        <div class="videos">
+            <div class="ad-l">
+                <img src="http://img1.gtimg.com/sports/pics/hv1/97/144/1915/124559692.png" alt="视频打底">
+            </div>
+            <ul class="video-list" bosszone="SY_TopnavSpnr">
+                <li class="pic-item">
+                    <a href="http://v.qq.com/x/cover/w187hqcuugvjc9j.html" target="_blank">
+                        <img src="http://img1.gtimg.com/sports/pics/hv1/56/76/1916/124607336.jpg" alt="《全景NBA" border="0">
+                        <p>《全景NBA》NBA精彩一网打尽</p>
+                        <i>视频</i>
+                    </a>
+                </li>
+                <li class="pic-item">
+                    <a href="http://sports.qq.com/nbavideo/nbajdjd/" target="_blank">
+                        <img src="http://img1.gtimg.com/sports/pics/hv1/55/76/1916/124607335.jpg" alt="《经典回顾》" border="0">
+                        <p>《经典回顾》历史经典精彩回顾 </p>
+                        <i>视频</i>
+                    </a>
+                </li>
+                <li class="pic-item">
+                    <a href="http://sports.qq.com/nbavideo/nbasdsj/" target="_blank">
+                        <img src="http://img1.gtimg.com/sports/pics/hv1/164/51/2046/133054319.jpg" alt="《上帝视角》" border="0">
+                        <p>《上帝视角》多角度体验NBA精彩瞬间</p>
+                        <i>视频</i>
+                    </a>
+                </li>
+                <li class="pic-item">
+                    <a href="http://sports.qq.com/nbavideo/kqtg/" target="_blank">
+                        <img src="http://img1.gtimg.com/sports/pics/hv1/224/77/1916/124607759.jpg" alt="《看球听歌》" border="0">
+                        <p>《看球听歌》NBA音乐高端享受</p>
+                        <i>视频</i>
+                    </a>
+                </li>
+            </ul>
+        </div>
+        <div class="vsearch">
+            <form action="http://v.qq.com/x/search/" method="get" accept-charset="utf-8" target="_blank" onsubmit="try{ExposureBoss(null,'SY_TopnavSpss');}catch(e){}">
+                <label for="search-kw"></label>
+                <input type="text" class="kw" name="q" id="search-kw" value="" onclick="this.select();">
+                <input type="hidden" name="from" value="nba">
+                <input type="submit" class="submit" value="">
+            </form>
+        </div>
+    </div>
+</div>
+<!--[if !IE]>|xGv00|a047985e0b2704f7a88efabb0379eae3<![endif]-->
+                        <!-- 子菜单: 视频 结束 -->
+                    </div>
+                </li>
+                <li class="nav-link-zhibo"><a class="nav-a-tl" href="http://kbs.sports.qq.com/#nba" bosszone="SY_TopnavZb"><i class="nav-sprite nav-icon-live"></i>直播</a></li>
+                <li class="nav-link-tupian"><a class="nav-a-tl" href="http://sports.qq.com/nba/photo/" bosszone="SY_TopnavTp"><i class="nav-sprite nav-icon-pic"></i>图片</a></li>
+            </ul>
+            <div class="nav-split"></div>
+            <ul class="nav-list nav-list-right">
+                <li class="nav-link-xinwen"><a class="nav-a-tl" href="http://sports.qq.com/dc_unique_article/nba_general/tagsList.htm?tags=NBA" bosszone="SY_TopnavXw">新闻</a></li>
+                <li class="nav-link-qiuyuan has-submenu">
+                    <a  class="nav-a-tl" href="//nba.stats.qq.com/player/list.htm" data-bosshover="SY_TopnavBQy">球员<i class="nav-sprite nav-icon-submenu"></i></a>
+                    <div class="submenu">
+                        <!-- 子菜单：球员  开始-->
+                        
+
+<div class="nba-sm-qiuyuan">
+    <div class="layout">
+
+        <div class="banner">
+            <h3>现役巨星</h3>
+            <!--<div class="ad-zanzhu"><a href="#"><img src="http://img1.gtimg.com/sports/pics/hv1/51/117/1892/123057186.png" alt="现役巨星赞助"></a></div>-->
+        </div>
+        <div class="players-list">
+            <ul class="cf" bosszone="SY_TopnavQym">
+       
+                <li><a href="http://nba.stats.qq.com/player/?id=3704" target="_blank" style="background-image:url(http://img1.gtimg.com/sports/pics/hv1/102/147/1902/123715137.jpg)"><strong>詹姆斯</strong></a></li>
+                <li><a href="http://nba.stats.qq.com/player/?id=4612" target="_blank" style="background-image:url(http://img1.gtimg.com/sports/pics/hv1/80/151/1902/123716135.jpg)"><strong>库里</strong></a></li>
+
+
+                <li><a href="http://nba.stats.qq.com/player/?id=4563" target="_blank" style="background-image:url(http://img1.gtimg.com/sports/pics/hv1/128/153/1902/123716693.jpg)"><strong>哈登</strong></a></li>
+                <li><a href="http://nba.stats.qq.com/player/?id=4244" target="_blank" style="background-image:url(http://img1.gtimg.com/sports/pics/hv1/108/12/2149/139741893.jpg)"><strong>杜兰特</strong></a></li>
+
+         <li><a href="http://nba.stats.qq.com/team/?type=player&id=4896" target="_blank" style="background-image:url(http://img1.gtimg.com/sports/pics/hv1/5/12/2149/139741790.jpg)"><strong>莱昂纳德</strong></a></li>
+
+
+               <li><a href="http://nba.stats.qq.com/player/?id=4390" target="_blank" style="background-image:url(http://img1.gtimg.com/sports/pics/hv1/238/155/1902/123717313.jpg)"><strong>韦斯布鲁克</strong></a></li>
+
+
+
+           <li><a href="http://nba.stats.qq.com/player/?id=4795" target="_blank" style="background-image:url(http://img1.gtimg.com/sports/pics/hv1/93/16/2149/139742898.jpg)"><strong>林书豪</strong></a></li>
+
+
+
+     <li><a href="http://nba.stats.qq.com/player/?id=5007" target="_blank" style="background-image:url(http://img1.gtimg.com/sports/pics/hv1/254/163/1902/123719369.jpg)"><strong>戴维斯</strong></a></li>
+
+
+
+         <li><a href="http://nba.stats.qq.com/player/?id=3708" target="_blank" style="background-image:url(http://img1.gtimg.com/sports/pics/hv1/24/13/2149/139742064.jpg)"><strong>韦德</strong></a></li>
+
+
+                <li><a href="http://nba.stats.qq.com/player/?id=3706" target="_blank" style="background-image:url(http://img1.gtimg.com/sports/pics/hv1/234/149/1902/123715779.jpg)"><strong>安东尼</strong></a></li>
+ 
+                <li><a href="http://nba.stats.qq.com/player/?id=3818" target="_blank" style="background-image:url(http://img1.gtimg.com/sports/pics/hv1/219/12/2149/139742004.jpg)"><strong>霍华德</strong></a></li>
+
+                <li><a href="http://nba.stats.qq.com/player/?id=4725" target="_blank" style="background-image:url(http://img1.gtimg.com/sports/pics/hv1/36/168/1902/123720426.jpg)"><strong>乔治</strong></a></li>
+      
+   <li><a href="http://nba.stats.qq.com/player/?id=3930" target="_blank" style="background-image:url(http://img1.gtimg.com/sports/pics/hv1/97/158/1902/123717937.jpg)"><strong>保罗</strong></a></li>
+             
+                <li><a href="http://nba.stats.qq.com/player/?id=4561" target="_blank" style="background-image:url(http://img1.gtimg.com/sports/pics/hv1/233/158/1902/123718073.jpg)"><strong>格里芬</strong></a></li>
+
+                <li><a href="http://nba.stats.qq.com/player/?id=4840" target="_blank" style="background-image:url(http://img1.gtimg.com/sports/pics/hv1/236/160/1902/123718586.jpg)"><strong>欧文</strong></a></li>
+     
+                <li><a href="http://nba.stats.qq.com/player/?id=4892" target="_blank" style="background-image:url(http://img1.gtimg.com/sports/pics/hv1/48/162/1902/123718908.jpg)"><strong>汤普森</strong></a></li>
+
+ 
+                <li><a href="http://nba.stats.qq.com/player/?id=3252" target="_blank" style="background-image:url(http://img1.gtimg.com/sports/pics/hv1/198/15/2149/139742748.jpg)"><strong>诺维茨基</strong></a></li>
+
+           
+                <li><a href="http://nba.stats.qq.com/team/?type=player&id=5012" target="_blank" style="background-image:url(http://img1.gtimg.com/sports/pics/hv1/42/15/2149/139742592.jpg)"><strong>利拉德</strong></a></li>
+                <li><a href="http://nba.stats.qq.com/team/?type=player&id=5546" target="_blank" style="background-image:url(http://img1.gtimg.com/sports/pics/hv1/72/14/2149/139742367.jpg)"><strong>唐斯</strong></a></li>
+
+                <li><a href="http://nba.stats.qq.com/team/?type=player&id=4720" target="_blank" style="background-image:url(http://img1.gtimg.com/sports/pics/hv1/52/13/2149/139742092.jpg)"><strong>考辛斯</strong></a></li>
+            </ul>
+        </div>
+
+    </div>
+</div>
+<!--[if !IE]>|xGv00|68a3a0d41ff0e2c7c565332a975fc8fd<![endif]-->
+                        <!-- 子菜单: 球员  结束-->
+                    </div>
+                </li>
+                <li class="nav-link-qiudui has-submenu">
+                    <a class="nav-a-tl" href="//nba.stats.qq.com/team/list.htm" data-bosshover="SY_TopnavBQd">球队<i class="nav-sprite nav-icon-submenu"></i></a>
+                    <div class="submenu">
+                        <!-- 子菜单：球队  开始-->
+                        <div class="nba-sm-qiudui" bosszone="SY_TopnavQdm">
+    <div class="layout cf">
+        <div class="teams-block">
+            <div class="banner banner-blue"><h3>大西洋赛区</h3></div>
+            <div class="teams-list">
+                <ul class="cf">
+                    <li><a href="http://nba.stats.qq.com/team/?id=celtics"  target="_blank" class="team-logo-40 celtics"><strong class="line2">凯尔<br>特人</strong></a></li>
+                    <li><a href="http://nba.stats.qq.com/team/?id=nets" target="_blank" class="team-logo-40 nets"><strong>篮网</strong></a></li>
+                    <li><a href="http://nba.stats.qq.com/team/?id=knicks" target="_blank" class="team-logo-40 knicks"><strong>尼克斯</strong></a></li>
+                    <li><a href="http://nba.stats.qq.com/team/?id=sixers" target="_blank" class="team-logo-40 sixers"><strong>76人</strong></a></li>
+                    <li><a href="http://nba.stats.qq.com/team/?id=raptors" target="_blank" class="team-logo-40 raptors"><strong>猛龙</strong></a></li>
+                </ul>
+            </div>
+        </div>
+        <div class="teams-block">
+            <div class="banner banner-blue">
+              <h3>西北赛区</h3></div>
+            <div class="teams-list">
+                <ul class="cf">
+                    <li><a href="http://nba.stats.qq.com/team/?id=nuggets"  target="_blank" class="team-logo-40 nuggets"><strong>掘金</strong></a></li>
+                    <li><a href="http://nba.stats.qq.com/team/?id=blazers" target="_blank" class="team-logo-40 blazers"><strong>开拓者</strong></a></li>
+                    <li><a href="http://nba.stats.qq.com/team/?id=timberwolves" target="_blank" class="team-logo-40 timberwolves"><strong>森林狼</strong></a></li>
+                    <li><a href="http://nba.stats.qq.com/team/?id=thunder" target="_blank" class="team-logo-40 thunder"><strong>雷霆</strong></a></li>
+                    <li><a href="http://nba.stats.qq.com/team/?id=jazz" target="_blank" class="team-logo-40 jazz"><strong>爵士</strong></a></li>
+                </ul>
+            </div>
+        </div>
+         <div class="teams-block">
+            <div class="banner">
+              <h3>中部赛区</h3></div>
+            <div class="teams-list">
+                <ul class="cf">
+                    <li><a href="http://nba.stats.qq.com/team/?id=bulls"  target="_blank" class="team-logo-40 bulls"><strong>公牛</strong></a></li>
+                    <li><a href="http://nba.stats.qq.com/team/?id=cavaliers"  target="_blank" class="team-logo-40 cavaliers"><strong>骑士</strong></a></li>
+                    <li><a href="http://nba.stats.qq.com/team/?id=pistons"  target="_blank" class="team-logo-40 pistons"><strong>活塞</strong></a></li>
+                    <li><a href="http://nba.stats.qq.com/team/?id=pacers" target="_blank" class="team-logo-40 pacers"><strong>步行者</strong></a></li>
+                    <li><a href="http://nba.stats.qq.com/team/?id=bucks" target="_blank" class="team-logo-40 bucks"><strong>雄鹿</strong></a></li>
+                </ul>
+            </div>
+        </div>
+        <div class="teams-block">
+            <div class="banner">
+              <h3>太平洋赛区</h3></div>
+            <div class="teams-list">
+                <ul class="cf">
+                    <li><a href="http://nba.stats.qq.com/team/?id=warriors"  target="_blank" class="team-logo-40 warriors"><strong>勇士</strong></a></li>
+                    <li><a href="http://nba.stats.qq.com/team/?id=clippers" target="_blank" class="team-logo-40 clippers"><strong>快船</strong></a></li>
+                    <li><a href="http://nba.stats.qq.com/team/?id=lakers" target="_blank" class="team-logo-40 lakers"><strong>湖人</strong></a></li>
+                    <li><a href="http://nba.stats.qq.com/team/?id=suns" target="_blank" class="team-logo-40 suns"><strong>太阳</strong></a></li>
+                    <li><a href="http://nba.stats.qq.com/team/?id=kings" target="_blank" class="team-logo-40 kings"><strong>国王</strong></a></li>
+                </ul>
+            </div>
+        </div>
+        <div class="teams-block">
+            <div class="banner"><h3>东南赛区</h3></div>
+            <div class="teams-list">
+                <ul class="cf">
+                    <li><a href="http://nba.stats.qq.com/team/?id=hawks"  target="_blank" class="team-logo-40 hawks"><strong>老鹰</strong></a></li>
+                    <li><a href="http://nba.stats.qq.com/team/?id=hornets" target="_blank" class="team-logo-40 hornets"><strong>黄蜂</strong></a></li>
+                    <li><a href="http://nba.stats.qq.com/team/?id=heat" target="_blank" class="team-logo-40 heat"><strong>热火</strong></a></li>
+                    <li><a href="http://nba.stats.qq.com/team/?id=magic" target="_blank" class="team-logo-40 magic"><strong>魔术</strong></a></li>
+                    <li><a href="http://nba.stats.qq.com/team/?id=wizards" target="_blank" class="team-logo-40 wizards"><strong>奇才</strong></a></li>
+                </ul>
+            </div>
+        </div>
+        <div class="teams-block">
+            <div class="banner">
+              <h3>西南赛区</h3></div>
+            <div class="teams-list">
+                <ul class="cf">
+                    <li><a href="http://nba.stats.qq.com/team/?id=mavericks"  target="_blank" class="team-logo-40 mavericks"><strong>小牛</strong></a></li>
+                    <li><a href="http://nba.stats.qq.com/team/?id=rockets" target="_blank" class="team-logo-40 rockets"><strong>火箭</strong></a></li>
+                    <li><a href="http://nba.stats.qq.com/team/?id=grizzlies" target="_blank" class="team-logo-40 grizzlies"><strong>灰熊</strong></a></li>
+                    <li><a href="http://nba.stats.qq.com/team/?id=pelicans"  target="_blank" class="team-logo-40 pelicans"><strong>鹈鹕</strong></a></li>
+                    <li><a href="http://nba.stats.qq.com/team/?id=spurs" target="_blank" class="team-logo-40 spurs"><strong>马刺</strong></a></li>
+                </ul>
+            </div>
+        </div>
+
+    </div>
+
+</div>
+<!--[if !IE]>|xGv00|9bb242e94c638ceb3c1a1b97ea12f929<![endif]-->
+                        <!-- 子菜单：球队  结束-->
+                    </div>
+                </li>
+                <li class="nav-link-saicheng"><a class="nav-a-tl" href="http://nba.stats.qq.com/schedule/" bosszone="SY_TopnavSc">赛程</a></li>
+                <li class="nav-link-shuju"   ><a class="nav-a-tl" href="http://nba.stats.qq.com/stats/" bosszone="SY_TopnavSj">数据</a></li>
+                <li class="nav-link-paiming" ><a class="nav-a-tl" href="http://nba.stats.qq.com/standings/" bosszone="SY_TopnavPm">排名</a></li>
+                <li class="nav-link-shequ has-submenu">
+                    <a class="nav-a-tl" href="//fans.sports.qq.com/" bosszone="SY_TopnavSq" data-bosshover="SY_TopnavBSq">社区<i class="nav-sprite nav-icon-submenu"></i></a>
+                    <div class="submenu">
+                        <!-- 子菜单：社区  开始-->
+                        <div class="nba-sm-shequ">
+                            <div class="layout cf">
+                                <div class="hotposts">
+                                    <h3><a href="//fans.sports.qq.com/">热帖</a></h3>
+                                    <div class="posts cf" bosszone="SY_TopnavSqtz"></div>
+                                </div>
+                                <div class="recommend" bosszone="SY_TopnavSqqz"><ul class="cf"></ul></div>
+                            </div>
+                        </div>
+                        <!-- 子菜单：社区  结束-->
+                    </div>
+                </li>
+                <li class="nav-link-yuanchuang"><a class="nav-a-tl" href="http://sports.qq.com/basket/nba/ycjp/" bosszone="SY_TopnavYc">原创</a></li>
+                <li class="nav-link-jiemu has-submenu">
+                    <a class="nav-a-tl" href="http://sports.qq.com/nbavideo/shenji/" bosszone="SY_TopnavJm" data-bosshover="SY_TopnavBJm">节目<i class="nav-sprite nav-icon-submenu"></i></a>
+                    <div class="submenu">
+                        <!-- 子菜单：节目  开始-->
+                        <div class="nba-sm-jiemu">
+    <div class="layout cf">
+        <div class="tabs" bosszone="SY_TopnavJmzt">
+            <a href="http://sports.qq.com/nbavideo/nbastarshow/">星播客</a><span>|</span>
+            <a href="http://sports.qq.com/nbavideo/shenji/" target="_blank">NBA神迹</a><span>|</span>
+       
+            <a href="http://sports.qq.com/nbavideo/themc/" target="_blank">巨星城记</a><span>|</span>
+             <a href="http://sports.qq.com/nbavideo/dfdj/"target="_blank">巅峰对决</a><span>|</span>
+             <a href="http://sports.qq.com/nbavideo/jdjx/"target="_blank">绝对巨星</a><span>|</span>
+             <a href="http://v.qq.com/cover/g/gcvhayazuwoidx5.html"target="_blank">超级战队</a> <span>|</span>
+            <a href="http://sports.qq.com/nbavideo/jjnba/" target="_blank">囧囧NBA</a>        
+<span>|</span>
+            <a href="http://sports.qq.com/nbavideo/dfzd/index.htm" target="_blank">巅峰战队</a> </div>
+        <div class="videos">
+            <div class="ad-l">
+                <img src="http://img1.gtimg.com/sports/pics/hv1/72/143/1915/124559412.png" alt="乔丹体育">
+            </div>
+
+            <ul class="video-list" bosszone="SY_TopnavJmnr">
+                <li class="pic-item">
+                    <a href="http://sports.qq.com/nbavideo/nbacity/" target="_blank">
+                        <img src="http://img1.gtimg.com/sports/pics/hv1/216/64/2089/135853761.jpg" alt="《NBA巨星城记》" border="0">
+                        <p>《NBA城记》一城一故事</p>
+                        
+                        <i>视频</i>
+                  </a>
+              </li>
+                <li class="pic-item">
+                    <a href="http://sports.qq.com/nbavideo/dfdj/" target="_blank">
+                        <img src="http://img1.gtimg.com/sports/pics/hv1/91/190/1962/127627591.jpg" alt="《巅峰对决》" border="0">
+                        <p>《巅峰对决》强强对话，谁与争锋</p>
+                       
+                        <i>视频</i>
+                  </a>
+              </li>
+                <li class="pic-item">
+                    <a href="http://v.qq.com/cover/6/6g7tu1nusgtwbah.html?vid=g0020l4bqfs" target="_blank">
+                        <img src="http://img1.gtimg.com/sports/pics/hv1/171/65/2089/135853971.jpg" alt="《总决赛传奇》" border="0">
+                        <p>《总决赛传奇》回顾历史经典</p>
+                        
+                        <i>视频</i>
+                  </a>
+              </li>
+                <li class="pic-item">
+                    <a href="http://sports.qq.com/nbavideo/jjnba/" target="_blank">
+                        <img src="http://img1.gtimg.com/sports/pics/hv1/92/190/1962/127627592.jpg" alt="《囧囧NBA》" border="0">
+                        <p>《囧囧NBA》软妹带你吐尽联盟囧事</p>
+                        
+                        <i>视频</i>
+                  </a>
+              </li>
+            </ul>
+        </div>
+
+        <!--<div class="ad-rt"><a href="#"><img src="" alt=""></a></div>-->
+
+    </div>
+
+</div>
+<!--[if !IE]>|xGv00|540f112d2c3a7b72892ef615c09f72bd<![endif]-->
+                        <!-- 子菜单：节目  结束-->
+                    </div>
+                </li>
+                <li class="nav-link-pinglun has-submenu">
+                    <a class="nav-a-tl" href="http://sports.qq.com/l/basket/nba/jingh/list20150828162722.htm" bosszone="SY_TopnavPl" data-bosshover="SY_TopnavBPl">评论<i class="nav-sprite nav-icon-submenu"></i></a>
+                    <div class="submenu">
+                        <!-- 子菜单：评论  开始-->
+                        <div class="nba-sm-pinglun">
+    <div class="layout cf">
+        <div class="tabs" bosszone="SY_TopnavPlzt">
+            <a href="http://sports.qq.com/l/basket/nba/jingh/Expertspoint/list2015081419225.htm" target="_blank">专家观点</a><span>|</span>
+            <a href="http://sports.qq.com/l/basket/nba/jingh/mediacomments/list2015081419435.htm" target="_blank">媒体点评</a><span>|</span>
+            <a href="http://sports.qq.com/l/basket/nba/jingh/caogenshengyin/list20150814194258.htm">草根声音</a>
+        </div>
+
+        <div class="main cf">
+            <div class="experts" bosszone="SY_TopnavZj">
+                <ul class="cf">
+                    <li><a href="http://sports.qq.com/l/basket/nba/jingh/Expertspoint/zhangweipingzhuanlan/list.htm" target="_blank"><img src="http://img1.gtimg.com/sports/pics/hv1/147/177/1902/123722832.jpg" alt=""><strong>张卫平</strong><span>著名篮球评论员</span></a></li>
+                    <li><a href="http://sports.qq.com/l/basket/nba/jingh/Expertspoint/suqunzhuanlan/list.htm" target="_blank"><img src="http://img1.gtimg.com/sports/pics/hv1/31/179/1902/123723226.jpg" alt=""><strong>苏群</strong><span>著名篮球评论员</span></a></li>
+                    <li><a href="http://sports.qq.com/l/basket/nba/jingh/Expertspoint/yangyizhuanlan/list.htm" target="_blank"><img src="http://img1.gtimg.com/sports/pics/hv1/78/179/1902/123723273.jpg" alt=""><strong>杨毅</strong><span>著名篮球评论员</span></a></li>
+                    <li><a href="http://sports.qq.com/l/basket/nba/jingh/Expertspoint/yujiazhuanlan/list.htm" target="_blank"><img src="http://img1.gtimg.com/sports/pics/hv1/134/153/1893/123131474.png" alt=""><strong>于嘉</strong><span>著名篮球评论员</span></a></li>
+                </ul>
+            </div>
+            <div class="articles" bosszone="SY_TopnavPlnr">
+                <ul class="cf">
+                    <li><a target="_blank" href="/a/20170204/027216.htm">苏群：球衣退役后 姚明“下半场”到底有多难？</a></li>
+<li><a target="_blank" href="/a/20170204/023298.htm">王猛：为了过好现在而回忆 未来继续与姚同行</a></li>
+<li><a target="_blank" href="/a/20170204/018963.htm">张卫平独家专访姚明：名人堂和球衣退役都很美好</a></li>
+<li><a target="_blank" href="/a/20170128/007205.htm">特评：詹姆斯为何逼宫？为求卫冕已不惜一切</a></li>
+<li><a target="_blank" href="/a/20170126/016827.htm">苏群：76人就像青春版马刺 我愿意做费城球迷</a></li>
+<li><a target="_blank" href="/a/20170123/017399.htm">苏群：加索尔受伤马刺或迎改变 双塔变小球？</a></li>
+<li><a target="_blank" href="/a/20170118/012318.htm">王猛：骑士遭35分大屠杀 勇士创历史最伟大进攻</a></li>
+<li><a target="_blank" href="/a/20170118/009043.htm">杨毅：巅峰对决第二战 骑士真的惨败而归了吗？</a></li>
+<!--[if !IE]>|xGv00|2b0afc5b1adfdb31daed8358197ef3fd<![endif]-->
+                </ul>
+            </div>
+        </div>
+
+        <!-- <div class="ad-rt"><a href="#"><img src="" alt=""></a></div> -->
+  </div>
+</div>
+<!--[if !IE]>|xGv00|d37d395fdb287999cebbcd3733624b49<![endif]-->
+                        <!-- 子菜单：评论  结束-->
+                    </div>
+                </li>
+                <li class="nav-link-gengduo has-submenu has-submenu-type-list">
+                    <a class="nav-a-tl" href="javascript:;" target="_self">更多<i class="nav-sprite nav-icon-submenu"></i></a>
+                    <div class="submenu submenu-list">
+                        <a href="http://nba.stats.qq.com/playoffs/" bosszone="SY_TopnavJhs">季后赛</a>
+                        <a href="http://games.qq.com/nba/" target="_blank" bosszone="SY_TopnavYx">游戏</a>
+                        <a href="http://sports.qq.com/espn/" target="_blank" bosszone="SY_TopnavESPN">ESPN</a>
+                    </div>
+                </li>
+            </ul>
+        </div>
+    </div>
+</div>
+<!-- NBA头部 脚本 -->
+<script>
+!function(t,a,n,i){var e=t(".nba-header"),o=[],c=null,s=300,r="nba-header-nav-submenu-enable",l=e.find(".nba-header-nav");l.on("mouseenter",function(){c=setTimeout(function(){for(l.addClass(r);o.length>0;)o.pop().call()},s)}).on("mouseleave",function(){c&&clearTimeout(c),l.removeClass(r)}),e.on("mouseenter","[data-bosshover]",function(){"function"==typeof a.ExposureBoss&&a.ExposureBoss(null,t(this).attr("data-bosshover"))}),o.push(function(){var a=l.find(".nav-link-shequ .submenu");t.ajax({url:"http://shequweb.sports.qq.com/module/topList?gid=0&needGroup=0",data:{from:"tencent_nba"},dataType:"jsonp",scriptCharset:"utf-8",success:function(n){if("0"===n.code){var i=[];console.log(n.data.list),t.each(n.data.list,function(t,a){if(a.groupId&&"17"===a.groupId){if(i.length>=5)return!1;i.push(a)}});var e="";t.each(i,function(t,a){e+="<li>",e+="  <a href='//fans.sports.qq.com/#/f/"+a.id+"' target='_blank'>",e+="    <div class='teamlogo'>",e+="      <img src='"+a.icon2+"'>",e+="    </div>",e+="    <p>"+a.name+"</p>",e+="    <span>成员: "+a.followCount+"</span>",e+="    <span>今日帖子: "+a.cntPeriod+"</span>",e+="  </a>",e+="</li>"}),a.find(".recommend ul").html(e)}}}),t.ajax({url:"//shequweb.sports.qq.com/module/timeLineAsGroup",data:{lastId:"0",count:"10",gid:"17"},dataType:"jsonp",scriptCharset:"utf-8",success:function(n){if("0"===n.code){var e=[];t.each(n.data.list,function(t,a){return 10>t?(e.push(a),i):!1});var o="";o+="<ul>",t.each(e,function(t,a){5===t&&(o+="</ul><ul>");var n="http://fans.sports.qq.com/post.htm?id="+a.id+"&mid="+a.moduleIds;o+="<li><span>"+a.supportNum+"</span><a href='"+n+"' title='"+a.title+"'>"+a.title+"</a></li>"}),o+="</ul>",a.find(".hotposts .posts").html(o)}}})});var u=e.find(".nba-header-top"),f=!1;(!/\bMSIE 6/.test(navigator.userAgent)||a.opera)&&t(a).on("scroll",function(){t(a).scrollTop()>u.height()?f||(e.addClass("nba-header-magnet"),f=!0):f&&(e.removeClass("nba-header-magnet"),f=!1)})}(jQuery,window,document);
+</script>
+<!-- NBA公共头部 登录组件禁用 -->
+
+<!-- NBA公共头部 结束 -->
+<!--[if !IE]>|xGv00|dc9e75a3adb05b11e756541beb6f6178<![endif]-->
+
+<div class="loginContainer" id="loginWrap">
+	 <div class="tiyu_member" bosszone='nba_login_member1'>
+	                <a href="http://sports.qq.com/vip/" target="_blank" id="tiyu_member">开通体育会员</a>
+	  </div>
+	   <div class="login2016" id="login">
+	           <a href="javascript:;" id="oneKey" class="loginbtn" onclick="if(!login.isLogin()){userLogin();}" bosszone="onekey">
+	             <em>登录</em>
+	            </a>
+	            <div class="login_pop" id="menu-bd_inner_pop">
+	                       <em class="errow"></em>
+	                        <div class="hello">
+	                            <span id='saytopvip'></span>
+	                            <div class="ellips">您好，<span id="userName"></span></div>
+	                            <a href="http://sports.qq.com/kbsweb/mycenter.htm#myWallet" target="_blank" class="vip-zuan" id="vip-zuan">0</a>
+	                        </div>
+	                        <div class="get_vip"><a bosszone='nba_login_member2' target="_blank" href="http://sports.qq.com/vip/">开通体育会员</a></div>
+	                        <ul bosszone='nba_login_fucengelse'>
+	                            <li><a target="_blank" href="http://sports.qq.com/kbsweb/mycenter.htm#message">我的消息</a></li>
+	                            <li><a target="_blank" href="http://sports.qq.com/kbsweb/mycenter.htm#reminder">赛事提醒</a></li>
+	                            <li><a target="_blank" href="http://sports.qq.com/kbsweb/mycenter.htm#community">我的社区</a></li>
+	                            <li><a target="_blank" href="http://sports.qq.com/kbsweb/mycenter.htm#thread">我的帖子</a></li>
+	                            <li><a target="_blank" href="http://sports.qq.com/kbsweb/mycenter.htm#myWallet">我的钱包</a></li>
+	                            <li><a target="_blank" href="http://sports.qq.com/kbsweb/mycenter.htm#myQuiz">我的竞猜</a></li>
+	                            <li><a href="javascript:void(0);" onclick="window.login.loginOut();">退出登录</a></li>
+	                        </ul>
+	         </div>
+	</div>
+</div><!--[if !IE]>|xGv00|5ea751161735f410c3417a8017ae7b17<![endif]-->
+</div>
+<!--[if !IE]>|xGv00|328680061545993e53a0bee04fa93104<![endif]--><div class="qq_body" id="qq_body">
+<div class="qq_topAd clearfix" id="topAd">
+	<div class="left">
+<!--14.12.10新增广告_顶通广告-->
+<div class="article_ad body-Top-Ad body-Article-QQ TopAds nAdTop-Article-QQ">
+<!--$loc$_div AD begin...."l=$loc$&log=off"--><div id="QQcom_all_Width1:1"  data-loc="QQcom_all_Width1" data-index="1" style="height:0;" class="l_qq_com"></div><!--$loc$ AD end --><!--[if !IE]>|xGv00|c1f7304f38d62c7ae0cddc9124bd107e<![endif]-->	
+</div><!--[if !IE]>|xGv00|97999e52b22d9f745a6ac6ca1d9a422b<![endif]-->
+	</div>
+<!--1240宽度右侧区域-->
+<a href="http://sports.qq.com/nbavideo/topsk/" target="_blank" class="right"><img src="http://img1.gtimg.com/sports/pics/hv1/63/213/1988/129324078.jpg" /></a><!--[if !IE]>|xGv00|3d85d54c117104827ffb41c91d655e52<![endif]-->
+</div><!--[if !IE]>|xGv00|178c879b286d62b614c131afa0d40fe0<![endif]--><div class="qq_content clearfix" id="content">
+<div class="qq_mainArea" id="Main-Article-QQ">
+<!--mainTop--><!--[if !IE]>|xGv00|989b89c4f0321e0db0d7f7606b54cad5<![endif]--><div class="qq_innerMain clearfix">
+<div class="qq_main">
+<!--main_1--><!--[if !IE]>|xGv00|5115094d0af59a08ae787d11fe45a57c<![endif]--><div class="qq_article">
+<div class="hd">
+<h1>雷霆球迷与格林对喷：我让他别踢人 他说就踢我</h1>
+<div class="qq_bar clearfix" bosszone="titleDown">
+<div class="a_Info">
+<span class="a_catalog" bosszone="ztTopic"><a target="_blank" accesskey="5" href="http://sports.qq.com/nba/" title="更多NBA相关内容列表">NBA</a></span><span class="a_source" bosszone="jgname"><a target="_blank" href="http://sports.qq.com/">腾讯体育</a></span><span class="a_time">2017-02-13 11:58</span>
+</div>
+<div class="a_share" id="shareBtn">
+	<a class="shareTitle" style="cursor: pointer;">分享<i></i></a>
+		<div class="shareBd">							
+<ul class="shareBtn16">
+	<li bosszone="msWeibo" class=""><a href="javascript:void(0)" id="tmblogbt1" class="s_weibo" data-node="shareTweibo">腾讯微博</a></li>
+	<li bosszone="msQzone" class=""><a href="javascript:void(0)" class="s_qzone" data-node="shareQzone">QQ空间</a></li>
+	<li bosszone="msQQ" class=""><a href="javascript:void(0)" class="s_qq" data-node="shareQQ">QQ好友</a></li>
+	<li bosszone="msSina"><a href="javascript:void(0)" class="s_sina" data-node="shareSina">新浪微博</a></li>
+	<li bosszone="msWx" id="shareWx" class="shareWx">
+		<a href="javascript:void(0)" class="s_wx">微信好友</a>
+		<div class="ewmBox"><img src=""></div>
+	</li>
+	<li bosszone="mslinkin"><a href="javascript:void(0)" class="s_in" data-node="shareLinkedIn">领英分享</a></li>												</ul>
+		</div>
+</div>
+
+
+<span class="a_commentNum">
+	<a href="#" id="cmtLink" bosszone="Ncomm"  target="_blank"><em id="cmtNum">0</em>评论</a>
+</span>
+<!--[if !IE]>|xGv00|753a7afee4646ee73e6e73b2b9f01029<![endif]-->	<!--[if !IE]>|xGv00|da7bcdfd4f43adfd202030b53d9941f4<![endif]-->
+</div>
+</div>
+<div class="bd" accesskey="3" tabindex="-1">
+<div id="Cnt-Main-Article-QQ" class="Cnt-Main-Article-QQ" bossZone="content"><p align="center"><font size="2" face="宋体"></font> </p><p style="text-indent: 2em;">
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- 相关视频 -->  <!-- built at: Wed Jan 18 2017 16:25:45 GMT+0800 (中国标准时间) -->
+
+<script type="text/javascript">
+    var related_video_info = {
+        vid: 'i0022i2pzu5',
+        cid: '7ca7crzw5hfixq0',
+        url: 'http://v.qq.com/page/i/u/5/i0022i2pzu5.html',
+        pic: 'http://vpic.video.qq.com/123/i0022i2pzu5.png',
+        title: '格林另类三双集锦 半场竟送出7次抢断'
+    };
+</script>
+
+
+<style type="text/css">.rv-root-v2{font-family:"\5FAE\8F6F\96C5\9ED1",sans-serif;color:#000}.rv-root-v2 a{text-decoration:none;color:#000}.rv-root-v2 h1,.rv-root-v2 h2,.rv-root-v2 h3,.rv-root-v2 ol,.rv-root-v2 p,.rv-root-v2 ul{display:block;padding:0;margin:0}.rv-root-v2 img{border:0}.rv-root-v2 .rv-cf:after,.rv-root-v2 .rv-cf:before{content:" ";display:table}.rv-root-v2 .rv-cf:after{clear:both}.rv-root-v2 .rv-cf{*zoom:1}.rv-root-v2 .rv-top{height:40px;line-height:40px;background-color:#f3f3f3}.rv-root-v2 .rv-top .rv-fold-btn{float:right;padding-left:20px;margin-right:16px;font-size:14px;background-image:url(http://mat1.gtimg.com/news/dc/images/fold.png);background-position:left center;background-repeat:no-repeat}.rv-root-v2 .rv-top .rv-autoplay{float:right;width:110px;margin-right:16px}.rv-root-v2 .rv-top .rv-autoplay span{font-size:14px;float:right}.rv-root-v2 .rv-top .rv-autoplay a{float:right;display:block;width:32px;height:18px;padding:2px;margin-top:10px;margin-left:12px;border-radius:10px;font-size:0;text-indent:-9999px;cursor:pointer;background-color:#CCC;transition:background .3s ease-out}.rv-root-v2 .rv-top .rv-autoplay a i{display:block;width:18px;height:18px;border-radius:50%;background-color:#fff;margin-left:0;box-shadow:1px 1px 3px rgba(0,0,0,.6);transition:all .3s ease-out}.rv-root-v2 .rv-top .rv-autoplay a:hover{background-color:#d9d9d9}.rv-root-v2 .rv-top .rv-autoplay a.enabled{background-color:#006cb7}.rv-root-v2 .rv-top .rv-autoplay a.enabled i{margin-left:14px}.rv-root-v2 .rv-top .rv-autoplay a.enabled:hover{background-color:#007bd1}.rv-root-v2 .rv-top .rv-autoplay a:active i{box-shadow:none}.rv-root-v2 .rv-top .rv-title{overflow:hidden}.rv-root-v2 .rv-top .rv-title a{display:block;font-size:18px;font-weight:400;text-indent:12px;white-space:nowrap;text-overflow:ellipsis;overflow:hidden;color:#000}.rv-root-v2 .rv-top .rv-title a:hover{color:#cd0000;text-decoration:underline}.rv-root-v2 .rv-middle .rv-player{position:relative;min-height:360px}.rv-root-v2 .rv-middle .rv-player .rv-player-wrap{position:absolute;width:100%;height:100%;top:0;left:0;background-color:#000;box-shadow:inset 0 0 20px rgba(0,0,0,.6)}.rv-root-v2 .rv-middle .rv-player .rv-player-wrap .rv-player-mod{position:relative;width:100%;height:100%}.rv-root-v2 .rv-middle .rv-player .rv-player-wrap .rv-player-mod .rv-player-loading{width:100%;height:100%;text-align:center;color:#999;font-family:verdana,arial,sans-serif}.rv-root-v2 .rv-middle .rv-player .rv-player-wrap .rv-player-mod .tvp_titles{display:none}.rv-root-v2 .rv-middle .rv-player .rv-player-wrap .rv-player-mini-ctrl{display:none;position:absolute;right:0;z-index:99;bottom:18px;width:30px}.rv-root-v2 .rv-middle .rv-player .rv-player-wrap .rv-player-mini-ctrl-close,.rv-root-v2 .rv-middle .rv-player .rv-player-wrap .rv-player-mini-ctrl-mute,.rv-root-v2 .rv-middle .rv-player .rv-player-wrap .rv-player-mini-ctrl-resize{display:block;margin-top:3px;width:30px;height:30px;line-height:30px;background-color:#000;background-color:rgba(0,0,0,.6);background-image:url(http://mat1.gtimg.com/news/dc/images/rv_mini_sprites_v2.png);background-repeat:no-repeat;text-align:center}.rv-root-v2 .rv-middle .rv-player .rv-player-wrap .rv-player-mini-ctrl-close:hover,.rv-root-v2 .rv-middle .rv-player .rv-player-wrap .rv-player-mini-ctrl-mute:hover,.rv-root-v2 .rv-middle .rv-player .rv-player-wrap .rv-player-mini-ctrl-resize:hover{color:#FFF;background-color:#000;background-color:rgba(0,0,0,.9)}.rv-root-v2 .rv-middle .rv-player .rv-player-wrap .rv-player-mini-ctrl-mute,.rv-root-v2 .rv-middle .rv-player .rv-player-wrap .rv-player-mini-ctrl-mute.mute-off{background-position:0 -150px}.rv-root-v2 .rv-middle .rv-player .rv-player-wrap .rv-player-mini-ctrl-mute.mute-on{background-position:0 -180px}.rv-root-v2 .rv-middle .rv-player .rv-player-wrap .rv-player-mini-ctrl-close{background-position:0 0}.rv-root-v2 .rv-middle .rv-player .rv-player-wrap .rv-player-mini-ctrl-resize{background-position:0 -30px}.rv-root-v2 .rv-middle .rv-player .rv-player-mini{position:fixed;width:270px;height:170px;left:0;bottom:0;top:auto;z-index:99;box-shadow:0 0 3px rgba(0,0,0,.3)}.rv-root-v2 .rv-middle .rv-player .rv-player-mini .rv-player-mini-ctrl{display:block}@media only screen and (min-width:1300px){.rv-root-v2 .rv-middle .rv-player .rv-player-mini.rv-player-mini-sp1{left:50%;margin-left:-692px}}.rv-root-v2 .rv-middle .rv-player .rv-player-mini.rv-player-mini-big{width:640px;height:378px}.rv-root-v2 .rv-middle .rv-player .rv-player-mini.rv-player-mini-big .rv-player-mini-ctrl-resize{background-position:0 -60px}.rv-root-v2 .rv-middle .rv-playlist{height:100px;background-color:#2f2f2f}.rv-root-v2 .rv-middle .rv-playlist .rv-playlist-ctrl{position:relative;width:100%;height:0;z-index:2}.rv-root-v2 .rv-middle .rv-playlist .rv-playlist-ctrl a{display:block;position:absolute;top:0;width:17px;height:100px;line-height:100px;font-size:14px;font-weight:700;font-family:NanumMyeongjo,"\5B8B\4F53",sans-serif;text-align:center;color:#a3a3a3;background-color:#2f2f2f;background-color:rgba(47,47,47,.8);cursor:pointer}.rv-root-v2 .rv-middle .rv-playlist .rv-playlist-ctrl a:hover{background-color:#494949;background-color:rgba(73,73,73,.8)}.rv-root-v2 .rv-middle .rv-playlist .rv-playlist-ctrl a.disabled{cursor:not-allowed;color:#505050}.rv-root-v2 .rv-middle .rv-playlist .rv-playlist-ctrl a.disabled:hover{background-color:#2f2f2f;background-color:rgba(47,47,47,.8);box-shadow:none}.rv-root-v2 .rv-middle .rv-playlist .rv-playlist-ctrl .prev{left:0}.rv-root-v2 .rv-middle .rv-playlist .rv-playlist-ctrl .next{right:0}.rv-root-v2 .rv-middle .rv-playlist .rv-playlist-wrap{height:100px;width:100%;overflow:hidden;position:relative;z-index:1}.rv-root-v2 .rv-middle .rv-playlist .rv-playlist-wrap .rv-playlist-scroller{height:130px;width:100%;overflow-y:hidden;overflow-x:scroll;-webkit-overflow-scrolling:touch}.rv-root-v2 .rv-middle .rv-playlist .rv-playlist-wrap .rv-playlist-scroller ol.rv-playlist-list{width:9999px;padding:0 17px;list-style:none}.rv-root-v2 .rv-middle .rv-playlist .rv-playlist-wrap .rv-playlist-scroller ol.rv-playlist-list li{display:block;float:left}.rv-root-v2 .rv-middle .rv-playlist .rv-playlist-wrap .rv-playlist-scroller ol.rv-playlist-list li a{display:block;position:relative;width:160px;height:90px;padding:5px;cursor:pointer}.rv-root-v2 .rv-middle .rv-playlist .rv-playlist-wrap .rv-playlist-scroller ol.rv-playlist-list li a img{width:100%;height:100%;opacity:0;transition:opacity .3s ease-out;vertical-align:top}.rv-root-v2 .rv-middle .rv-playlist .rv-playlist-wrap .rv-playlist-scroller ol.rv-playlist-list li a div{position:absolute;width:100%;left:0;bottom:0;font-size:12px;line-height:18px}.rv-root-v2 .rv-middle .rv-playlist .rv-playlist-wrap .rv-playlist-scroller ol.rv-playlist-list li a div span{display:block;height:18px;margin:5px;padding:5px 10px 2px;overflow:hidden;font-family:Arial,sans-serif;color:#ababab;background-color:rgba(0,0,0,.8);-ms-filter:"progid:DXImageTransform.Microsoft.gradient(GradientType=1, StartColorStr='#CC000000', EndColorStr='#CC000000')";filter:progid:DXImageTransform.Microsoft.Gradient(GradientType=1, StartColorStr='#CC000000', EndColorStr='#CC000000');-webkit-transition:all .2s ease-out;-moz-transition:all .2s ease-out;-ms-transition:all .2s ease-out;-o-transition:all .2s ease-out;transition:all .2s ease-out}.rv-root-v2 .rv-middle .rv-playlist .rv-playlist-wrap .rv-playlist-scroller ol.rv-playlist-list li a div span:not([dummy]){filter:progid:DXImageTransform.Microsoft.Gradient(enabled='false')}.rv-root-v2 .rv-middle .rv-playlist .rv-playlist-wrap .rv-playlist-scroller ol.rv-playlist-list li a.current{background:#101010}.rv-root-v2 .rv-middle .rv-playlist .rv-playlist-wrap .rv-playlist-scroller ol.rv-playlist-list li a.current div span{color:#ff6d1a}.rv-root-v2 .rv-middle .rv-playlist .rv-playlist-wrap .rv-playlist-scroller ol.rv-playlist-list li a:hover{background:#252525}.rv-root-v2 .rv-middle .rv-playlist .rv-playlist-wrap .rv-playlist-scroller ol.rv-playlist-list li a:hover div span{height:36px}@media only screen and (min-width:1260px){.rv-adjust-wide-article{width:895px;margin-left:-97px}}#sports_video_mask{position:fixed;top:0;left:0;background:#000;opacity:.5;z-index:100;filter:alpha(opacity=50)}#sports_video_Vip{width:560px;height:320px;overflow:hidden;box-shadow:0 0 10px #fff;position:fixed;z-index:101;background:rgba(0,0,0,.8);filter:progid:DXImageTransform.Microsoft.gradient(startcolorstr=#CF000000, 0, endcolorstr=#CF000000, 0)}#sports_video_Vip #sports_video_Vip_close{position:absolute;padding:10px;top:0;right:0;color:#fff;cursor:pointer;font-size:16px}#sports_video_Vip .sports_video_code{position:absolute;width:114px;padding-top:124px;text-align:center;background:url(http://mat1.gtimg.com/sports/tangent/adImg/sportVip2code.png) no-repeat;top:88px;right:40px}#sports_video_Vip .sports_video_content{color:#b6b6b6;width:320px;margin-left:50px;line-height:1.5;font-size:13px;top:48px;border-right:2px dashed #5d5d5d;position:relative}</style>
+<div class="rv-root-v2 rv-js-root">
+    <div class="rv-top">
+        <!--<div class="rv-fold-btn">
+            <a href="javascript:;" target="_self">收起</a>
+        </div>-->
+        <div class="rv-autoplay">
+            <a class="rv-js-autoplay" href="javascript:;" target="_self" bosszone="bofang_button"><i>自动播放开关</i></a>
+            <span>自动播放</span>
+        </div>
+        <h2 class="rv-title">
+            <a href='http://v.qq.com/page/i/u/5/i0022i2pzu5.html' target="_blank">格林另类三双集锦 半场竟送出7次抢断</a>
+
+        </h2>
+    </div>
+    <div class="rv-middle">
+        <div class="rv-player" id="rv-player">
+            <div class="rv-player-wrap">
+                <div class="rv-player-mod">
+                    <table class="rv-player-loading" border="0"><tr><td>正在加载...</td></tr></table>
+                </div>
+                <div class="rv-player-mini-ctrl">
+                    <a href="javascript:;" target="_self" class="rv-player-mini-ctrl-mute"   data-action="mute"   bosszone="rvideo_fuchuang_mute"    title="声音开关"></a>
+                    <a href="javascript:;" target="_self" class="rv-player-mini-ctrl-close"  data-action="close"  bosszone="rvideo_fuchuang_close"   title="关闭"></a>
+                    <a href="javascript:;" target="_self" class="rv-player-mini-ctrl-resize" data-action="resize" bosszone="rvideo_fuchuang_zhankai" title="调整尺寸"></a>
+                </div>
+            </div>
+        </div>
+        <div class="rv-playlist">
+            <div class="rv-playlist-ctrl">
+                <a class="prev" href="javascript:;" target="_self" bosszone="rvideo_list_forward">&lt;</a>
+                <a class="next" href="javascript:;" target="_self" bosszone="rvideo_list_back"   >&gt;</a>
+            </div>
+            <div class="rv-playlist-wrap">
+                <div class="rv-playlist-scroller">
+                    <ol class="rv-playlist-list rv-cf"></ol>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<script>!function t(i,e,o){function n(a,l){if(!e[a]){if(!i[a]){var s="function"==typeof require&&require;if(!l&&s)return s(a,!0);if(r)return r(a,!0);throw new Error("Cannot find module '"+a+"'")}var c=e[a]={exports:{}};i[a][0].call(c.exports,function(t){var e=i[a][1][t];return n(e?e:t)},c,c.exports,t,i,e,o)}return e[a].exports}for(var r="function"==typeof require&&require,a=0;a<o.length;a++)n(o[a]);return n}({1:[function(t,i,e){function o(t){var i=!1,e=s.get();if(!0===r.playingGlobalSign.isAnyonePlaying()||"0"===e)return t(!1);if("1"===e)return t(!0);if(l){var o=(new Date).getTime();l.get(n.autoplay_cookie.key,function(e,a){if(!i){if(i=!0,r.debug_log("get localstorage from http://www.qq.com/public/final12/localStorageqq.htm differTime",(new Date).getTime()-o+"ms",a),!e&&a){var l=JSON.parse(a);if("1"===l.val)return void t(!0);var s=(new Date).getTime()-l.time,c=s/864e5;return r.debug_log("set "+c.toFixed(2)+"days"),c<n.autoplay_cookie.expires?void t(!1):void t(!0)}t(!0)}}),setTimeout(function(){i||(t(!0),i=!0,r.debug_log("timeout cross localstorage 400ms"))},800)}else t(!0),r.debug_log("no cross and default true")}var n=t("./config"),r=t("./tools"),a=r.cookie,l=t("./crossLocalStorage"),s={_config:n.autoplay_cookie,_set:function(t){if(a.set(this._config.key,t,{expires:this._config.expires,domain:this._config.domain,path:this._config.path}),window.JSON){var i={time:(new Date).getTime(),val:t};l&&l.set(this._config.key,i,function(){})}},get:function(){var t=a.get(this._config.key);return t},on:function(){this._set("1")},off:function(){this._set("0")}};i.exports={getAutoPlay:o,autoPlaySign:s}},{"./config":2,"./crossLocalStorage":3,"./tools":9}],2:[function(t,i,e){var o={};o.modName="dc_related_video",o.autoplay_cookie={key:"aboutVideo_v",domain:".qq.com",path:"/",expires:30},o.playing_cookie={key:"dc_vplaying",domain:".qq.com",path:"/",expires:function(){return new Date((new Date).getTime()+72e5)}},o.mini_unmute={key:"rv_mini_unmute",domain:".qq.com",path:"/",expires:1},o.qqcomstore=null,o.videos=[],o.automute=!1,window.txPlayer_config=o,i.exports=o},{}],3:[function(t,i,e){document.domain="qq.com";var o;o=function(t){this.id=this._getId(),this._init(t),this._origin=this._getOrigin(t),this._callbacks={_get:{},_set:{},_del:{}},this._bindEvent()},o.prototype._getId=function(){return id=0,function(){return++id}}(),o.prototype._init=function(t){var i=this,e=document.createElement("iframe");e.style.display="none",e.src=t,document.body.appendChild(e),this._hub=e.contentWindow,e.onload=function(){i.load()}},o.prototype.load=function(){},o.prototype._getOrigin=function(t){var i,e;return i=document.createElement("a"),i.href=t,e=i.protocol+"//"+i.host},o.prototype._parseMessage=function(t,i,e){return JSON.stringify({method:t,key:i,value:e})},o.prototype._bindEvent=function(){var t=this;window.addEventListener?window.addEventListener("message",function(i){var e=JSON.parse(i.data),o=e.error,n=e.result&&JSON.parse(e.result)||null;t._callbacks["_"+e.method][e.key](o,n)},!1):""},o.prototype.get=function(t,i){this._hub.postMessage(this._parseMessage("get",t),this._origin),this._callbacks._get[t]=i},o.prototype.set=function(t,i,e){this._hub.postMessage(this._parseMessage("set",t,i),this._origin),this._callbacks._set[t]=e},o.prototype.del=function(t,i){this._hub.postMessage(this._parseMessage("del",t),this._origin),this._callbacks._del[t]=i};var n;n=window.addEventListener&&window.localStorage&&window.JSON?new o("http://www.qq.com/public/final12/localStorageqq.htm"):null,i.exports=n},{}],4:[function(t,i,e){var o=t("./config"),n=t("./tools"),r=window.related_video_info,a=t("./inview"),l=t("./autoPlay");n.loadJquery(function(i){n.debug_log("jquery ready"),a.init(function(){n.debug_log("video inview ready init");var e=t("./ui");i.getScript("http://vm.gtimg.cn/tencentvideo/txp/js/txplayer.js").done(function(){function a(a){if(!s){s=1,e.autoPlaySW.setStatus(a),e.autoPlaySW.bind(function(t){l.autoPlaySign[t?"on":"off"](),t?d.play():-1===d.getPlayerState()?d.stop():d.pause()});var c=t("./play"),d=c(r,a);d.on("ready",function(){window.v_nomini||e.scrollPlay.init(d,o)}),d.on("playStateChange",function(t){1==t.state&&i(window).trigger("video:pause",o.modName),t.state>0?n.playingGlobalSign.on():n.playingGlobalSign.off()}),i(window).on("video:pause",function(t,i){n.debug_log("\u6682\u505c\u8bf7\u6c42\u6765\u81ea\uff1a ",i),i!==o.modName&&(-1===d.getPlayerState()?d.stop():d.pause())});var u=t("./getVideoList");u(r,d);var p=t("./sportVip");p.sportVip(d),d.on("showUIVipGuide",function(t){n.debug_log(t),p.pop(d,"1080p")})}}n.debug_log("txplayer.js ready",r);var s=0;try{l.getAutoPlay(a)}catch(c){n.debug_log(c),a(!0)}})})})},{"./autoPlay":1,"./config":2,"./getVideoList":5,"./inview":6,"./play":7,"./sportVip":8,"./tools":9,"./ui":10}],5:[function(t,i,e){function o(t,i){n=i;var e=function(i){d(t,i)};t.cid&&"null"!==t.cid?r.getVideoListByCoverId(t.cid,e):(r.debug_log("getLikeVideoList",c.qq),r.getLikeVideoList(c.qq,t.vid,e))}var n,r=t("./tools"),a=t("./ui"),l=t("./play"),s=t("./inview"),c={qq:r.cookie.get("o_cookie")||null},d=function(t,i){r.debug_log("videoList array",i),i||a.playlist.hide();var e=[];e.push(t),$.each(i,function(i,o){o.vid!==t.vid&&e.push(o)});var o="";$.each(e,function(t,i){i.title&&i.title.replace(/[^\x00-\xff]/gi,"**").length>40?i.stitle=r.cutstr2(i.title,40)+"...":i.stitle=i.title||"",o+="<li>",o+="    <a data-vid='"+i.vid+"' data-idx='"+t+"' href='"+i.url+"' target='_self' class='"+(0===t?"current":"")+"' bosszone='rvideo_list_title'>",o+="        <img src='"+i.pic+"' onload='this.onload=null;this.style.opacity=1;' />",o+="        <div>",o+="            <span>"+i.stitle+"</span>",o+="        </div>",o+="    </a>",o+="</li>"}),a.dom.$playlist_list.html(o),a.playlist.init();var c=function(t){if(t){var i,o;return $.each(e,function(e,n){return n.vid===t?(i=n,o=e,!1):void 0}),i&&(i.idx=o),i}},d=function(t){0>t||t>e.length-1||(l(e[t]),a.playlist.setCurrentToIdx(t),a.playlist.scrollToItemIdx(t))};a.dom.$playlist_list.on("click","a[data-vid]",function(t){t.preventDefault();var i=$(this).attr("data-vid"),e=c(i);d(e.idx),r.trace.boss2619("user_click",i)}),n.on("playStateChange",function(t){if(0==t.state){var i=n.getVid(),o=c(i),a=o.idx+1,l=s.inview();r.debug_log("\u64ad\u653e\u5668\u662f\u5426\u53ef\u89c1",l),a<e.length&&l&&(r.debug_log("event: \u64ad\u653e\u4e0b\u4e00\u4e2a"),d(a),r.trace.boss2619("auto_next",i))}})};i.exports=o},{"./inview":6,"./play":7,"./tools":9,"./ui":10}],6:[function(t,i,e){function o(){var t=$(window).scrollTop(),i=$(".rv-root-v2").offset().top,e=$(window).height();return t+e-70>=i&&i+518>t}var n=function(t){function i(){o()&&!e&&(t(),e=!0)}var e=!1;i(),$(window).scroll(function(t){i()})};i.exports={init:n,inview:o}},{}],7:[function(t,i,e){function o(t,i){var e="tvp-mod-player-"+t.vid;if(r.setPlayerModId(e),r.setTitle(t.title,t.url),n)n.play({vid:t.vid});else{var t={useFlashVIPLayer:0,vid:t.vid,containerId:e,width:"100%",height:"100%",flashplayerUrl:"http://imgcache.qq.com/tencentvideo_v1/playerv3/TencentPlayer.swf?max_age=86400&v=20161117",autoplay:i};window.ARTICLE_INFO&&"sports"===window.ARTICLE_INFO.site&&(t.useFlashVIPLayer=-1,t.chid=8,t.authfrom="40001",t.getUserType=function(){return window.login&&login.sportVip?10:window.login&&login.isLogin()?1:0},t.showOpenVIPGuide=function(){console.log("showOpenVIPGuide"),"function"==typeof window.__tenplay_skipad&&window.__tenplay_skipad()}),n=new Txplayer(t)}return n}var n,r=t("./ui");t("./config");i.exports=o},{"./config":2,"./ui":10}],8:[function(t,i,e){function o(t){window.ARTICLE_INFO&&"sports"==window.ARTICLE_INFO.site&&(window.__tenplay_skipad=function(){return n(t,"ad"),1})}function n(t,i){var e=function(){var t=$(window).width(),i=$(window).height(),e=(t-560)/2,o=(i-320)/2;o=o>0?o:0,$("#sports_video_Vip").css({left:e,top:o}),$("#sports_video_mask").css({width:t,height:i})};if(0==$("#sports_video_Vip").size()){var o="<div id='sports_video_mask'></div>",n="<div id='sports_video_Vip'></div>",r="<div id='sports_video_Vip_close'>\u2715</div><div class='sports_video_content'><div style='color:#fff;font-size: 18px;margin-bottom: 30px;'><b>\u672c\u7279\u6743\u4e3a\u817e\u8baf\u4f53\u80b2\u4f1a\u5458\u4e13\u4eab</b></div><a href='http://vip.sports.qq.com/' target='_blank' style='background:url(http://mat1.gtimg.com/sports/tangent/adImg/sportvip.png);display: block;width:221px;height: 43px;'></a><div style='margin: 30px 0 5px;font-size: 15px;'>\u817e\u8baf\u4f53\u80b2\u4f1a\u5458\u7279\u6743</div><li>NBA\u3001NHL\u7b49\u8d5b\u4e8b\u72ec\u5bb6\u76f4\u64ad</li><li>\u4eab\u53d7\u514d\u5e7f\u544a\u3001\u84dd\u5149\u753b\u8d28\u3001\u82f1\u6587\u539f\u97f3</li><li>\u70b9\u51fb\u201c\u5f00\u901a\u201d\u4e86\u89e3\u66f4\u591a\u7279\u6743\uff0c\u5f00\u901a\u540e\u8bf7\u5237\u65b0\u672c\u9875</li></div><div class='sports_video_code'><div style='color:#fff;font-size: 12px;'>\u626b\u4e00\u626b\u5f00\u901a\u4f53\u80b2\u4f1a\u5458</div></div></div>"+$("body").append(o).append(n);$("#sports_video_Vip").html(r),e(),$(window).resize(e)}$("#sports_video_mask,#sports_video_Vip_close").click(function(){"ad"==i&&t.trigger("1080pVipGuideClose",{action:"closeSkipAd"}),"1080p"==i&&t.trigger("1080pVipGuideClose",{action:"close1080p"}),$("#sports_video_mask,#sports_video_Vip").hide(),$("#sports_video_mask,#sports_video_Vip_close").unbind("click")}),$("#sports_video_mask,#sports_video_Vip").show()}i.exports={sportVip:o,pop:n}},{}],9:[function(t,i,e){var o=t("./config"),n=function(t,i){var e=document.head||document.getElementsByTagName("head")[0]||document.documentElement,o=document.createElement("script"),n=!1;o.async=!0,o.src=t,o.onload=o.onreadystatechange=function(){n||o.readyState&&!/loaded|complete/.test(o.readyState)||(n=!0,o.onload=o.onreadystatechange=null,o.parentNode&&o.parentNode.removeChild(o),o=null,"function"==typeof i&&i())},e.insertBefore(o,e.firstChild)},r=function(t){window.jQuery?t(window.jQuery):n("http://mat1.gtimg.com/libs/jquery/1.12.0/jquery.min.js",function(){t(window.jQuery)})},a=function(){var t=function(){return t.get.apply(t,arguments)},i=t.utils={isArray:Array.isArray||function(t){return"[object Array]"===Object.prototype.toString.call(t)},isPlainObject:function(t){return!!t&&"[object Object]"===Object.prototype.toString.call(t)},toArray:function(t){return Array.prototype.slice.call(t)},getKeys:Object.keys||function(t){var i=[],e="";for(e in t)t.hasOwnProperty(e)&&i.push(e);return i},escape:function(t){return String(t).replace(/[,;"\\=\s%]/g,function(t){return encodeURIComponent(t)})},retrieve:function(t,i){return null===t?i:t}};return t.defaults={},t.expiresMultiplier=86400,t.set=function(t,e,o){if(i.isPlainObject(t))for(var n in t)t.hasOwnProperty(n)&&this.set(n,t[n],e);else{o=i.isPlainObject(o)?o:{expires:o};var r=void 0!==o.expires?o.expires:this.defaults.expires||"",a=typeof r;"string"===a&&""!==r?r=new Date(r):"number"===a&&(r=new Date(+new Date+1e3*this.expiresMultiplier*r)),""!==r&&"toGMTString"in r&&(r=";expires="+r.toGMTString());var l=o.path||this.defaults.path;l=l?";path="+l:"";var s=o.domain||this.defaults.domain;s=s?";domain="+s:"";var c=o.secure||this.defaults.secure?";secure":"";document.cookie=i.escape(t)+"="+i.escape(e)+r+l+s+c}return this},t.remove=function(t){t=i.isArray(t)?t:i.toArray(arguments);for(var e=0,o=t.length;o>e;e++)this.set(t[e],"",-1);return this},t.empty=function(){return this.remove(i.getKeys(this.all()))},t.get=function(t,e){e=e||void 0;var o=this.all();if(i.isArray(t)){for(var n={},r=0,a=t.length;a>r;r++){var l=t[r];n[l]=i.retrieve(o[l],e)}return n}return i.retrieve(o[t],e)},t.all=function(){if(""===document.cookie)return{};for(var t=document.cookie.split("; "),i={},e=0,o=t.length;o>e;e++){var n,r,a=t[e].split("=");try{n=decodeURIComponent(a[0])}catch(l){n=a[0]}try{r=decodeURIComponent(a[1])}catch(l){r=a[1]}i[n]=r}return i},t.enabled=function(){if(navigator.cookieEnabled)return!0;var i="_"===t.set("_","_").get("_");return t.remove("_"),i},t}(),l=function(t,i){for(var e=0,o="",n=0;n<t.length;n++)if(t.charCodeAt(n)>128?e+=2:e++,o+=t.charAt(n),e>=i)return o;return o},s=function(t,i){var e,o,n,r,a,l,s=c(function(){a=r=!1},i);return function(){e=this,o=arguments;var c=function(){n=null,a&&(l=t.apply(e,o)),s()};return n||(n=setTimeout(c,i)),r?a=!0:(r=!0,l=t.apply(e,o)),s(),l}},c=function(t,i,e){var o,n;return function(){var r=this,a=arguments,l=function(){o=null,e||(n=t.apply(r,a))},s=e&&!o;return clearTimeout(o),o=setTimeout(l,i),s&&(n=t.apply(r,a)),n}},d=function(){if(-1!==location.search.indexOf("debugv")&&window.console){var t=Array.prototype.slice.call(arguments);t.unshift("[related_video_log]"),console.log(t)}},u=function(t,i){return i=i||$.noop,"string"!=typeof t?void i(null):void $.ajax({method:"GET",url:"http://data.video.qq.com/fcgi-bin/data",data:{tid:"25",idlist:t,appid:"10001009",appkey:"c5a3e1529a7ba805",otype:"json"},dataType:"jsonp",cache:!0,scriptCharset:"utf-8"}).done(function(t){if(!t||t.errorno)return void i(null);var e=[],o=t.results[0].fields,n=o.c_vids||o.c_vclips||[];$.each(n,function(t,i){e.push({vid:i.c_vid,title:i.c_title,pic:i.c_pic_160_90,url:i.c_play_url})}),i(e)}).fail(function(){i(null)})},p=function(t,i,e){return e=e||$.noop,i?(t=t||"",void $.ajax({method:"GET",url:"http://like.video.qq.com/fcgi-bin/like",data:{msgtype:"122",uin:t,id:i,playright:"2",pidx:"0",size:"11",otype:"json",tablist:"9"},dataType:"jsonp",cache:!0,scriptCharset:"utf-8"}).done(function(t){if(!t||t.errmsg||!t.tablist)return void e(null);var i=[];$.each(t.tablist[0].cover_info,function(t,e){i.push({vid:e.id,title:e.title,pic:e.picurl,url:e.playurl})}),e(i)}).fail(function(){e(null)})):void e(null)},f={on:function(){window.dc_playing_sign||(window.dc_playing_sign={}),window.dc_playing_sign[o.modName]=!0},off:function(){window.dc_playing_sign||(window.dc_playing_sign={}),window.dc_playing_sign[o.modName]=!1},isAnyonePlaying:function(){if(window.dc_playing_sign){for(var t in window.dc_playing_sign)if(t!==o.modName&&window.dc_playing_sign.hasOwnProperty(t)&&window.dc_playing_sign[t])return!0;return!1}return!1}},_={boss2619:function(t,i){var e=$.param({BossId:"2619",CheckSum:"1312852225",sIp:"",iQQ:a.get("o_cookie")||"",sOp:t||"",sDomain:window.location.hostname||"",sUrl:window.location.href||"",sRef:window.document.referrer||"",vid:i||"",_dc:""+Math.random()});(new Image).src="http://btrace.qq.com/kvcollect?"+e}};i.exports={getScript:n,loadJquery:r,cookie:a,cutstr2:l,throttle:s,debounce:c,debug_log:d,getVideoListByCoverId:u,getLikeVideoList:p,playingGlobalSign:f,trace:_}},{"./config":2}],10:[function(t,i,e){var o=t("./tools"),n=t("./config"),n={};n.mini_unmute={key:"rv_mini_unmute",domain:".qq.com",path:"/",expires:1};var r={};r.$root=$(".rv-js-root"),r.$title=r.$root.find(".rv-title a"),r.$autoplay_sw=r.$root.find(".rv-js-autoplay"),r.$player_wrap=r.$root.find(".rv-player-wrap"),r.$player_mod=r.$player_wrap.find(".rv-player-mod"),r.$player_mini_ctrl=r.$player_wrap.find(".rv-player-mini-ctrl"),r.$playlist_node=r.$root.find(".rv-playlist"),r.$playlist_scol=r.$playlist_node.find(".rv-playlist-scroller"),r.$playlist_list=r.$playlist_node.find("ol.rv-playlist-list"),r.$playlist_ctrl=r.$playlist_node.find(".rv-playlist-ctrl a"),r.$playlist_prev=r.$playlist_ctrl.filter(".prev"),r.$playlist_next=r.$playlist_ctrl.filter(".next");var a=function(){return{width:r.$player_mod.width(),height:r.$player_mod.height()}};e.setPlayerModId=function(t){r.$player_mod.attr("id",t)},e.setTitle=function(t,i){return r.$title.html(t).attr("href",i)};var l=function(){var t="enabled",i=function(){r.$autoplay_sw.attr("bosszone",function(){return o()?"bofang_button_close":"bofang_button_open"})},e=function(e){r.$autoplay_sw[e?"addClass":"removeClass"](t),i()},o=function(){return r.$autoplay_sw.hasClass(t)},n=function(e){var n=r.$autoplay_sw;n.on("click",function(){n.toggleClass(t),"function"==typeof e&&e.call(null,o()),i()})};return{bind:n,setStatus:e,getStatus:o,updateBosszone:i}}();e.autoPlaySW=l;var s=function(){var t,i,e,n,a,l,s=function(){f(),r.$playlist_next.on("click",function(){p("forward")}),r.$playlist_prev.on("click",function(){p("backward")}),r.$playlist_scol.on("scroll",o.throttle(function(){var i=r.$playlist_scol.scrollLeft(),e="disabled";0===i||i===a||0>=a?(0===i&&r.$playlist_prev.addClass(e),(i===a||0>=a)&&r.$playlist_next.addClass(e)):r.$playlist_ctrl.removeClass(e),-1!==navigator.appVersion.indexOf("MSIE 7.")&&t.css("visibility","inherit").css("visibility","visible")},50)),r.$playlist_scol.trigger("scroll")},c=function(t){r.$playlist_scol.stop().animate({scrollLeft:parseInt(t,10)},500)},d=function(o){if(!(0>o||o>i-1)){var n=r.$playlist_scol;$item=t.filter(":eq("+o+")"),c(n.scrollLeft()+$item.position().left-n.width()/2+e/2),l=o}},u=function(i){var e="current";t.find("> a."+e).removeClass(e),t.filter(":eq("+i+")").find("> a").addClass(e)},p=function(t){var i,o=r.$playlist_scol,n=o.scrollLeft(),l=Math.round(.7*o.width());"forward"===t?i=n+l:"backward"===t&&(i=n-l),e>i?i=0:i>a-e&&(i=a),c(i)},f=function(){t=r.$playlist_list.find("> li"),i=t.length,e=t.filter(":eq(0)").outerWidth(!0),n=r.$playlist_scol.width()/e,r.$playlist_list.css("width",i*e),a=r.$playlist_list.outerWidth(!0)-r.$playlist_scol.width()};return{init:s,setCurrentToIdx:u,scrollToItemIdx:d,forward:function(){p("forward")},backward:function(){p("backward")},hide:function(){return r.$playlist_node.slideUp(300)},update:f}}();e.playlist=s;var c=function(){var t,i=!1,e=function(){var t={};t.top=r.$root.offset().top,t.btm=t.top+r.$root.height();var i={height:$(window).height(),scrollTop:$(window).scrollTop()},e=t.top>=i.scrollTop&&i.scrollTop+i.height>=t.top,o=t.btm>=i.scrollTop&&i.scrollTop+i.height>=t.btm,n=t.top<=i.scrollTop&&i.scrollTop+i.height<=t.btm;return!!(e||o||n)},l=function(){var t=$("#Main-Article-QQ");if(t.length>0){var i=t.offset(),e=t.width();return 2*i.left+e===$(window).width()?e:!1}return!1},s=function(o){var n=i?!0:e();if(!(!0===t&&!0===n||!1===t&&!1===n)){if(r.$player_wrap.css("visibility","hidden").toggleClass("rv-player-mini",!n),n)r.$player_wrap.css({"margin-left":"",left:""}),o.unMute&&o.unMute(),u(o);else{if(window.ARTICLE_INFO&&1===window.ARTICLE_INFO.isUnique)r.$player_wrap.addClass("rv-player-mini-sp1");else{var a=l();if(a){var s,d,p=r.$player_wrap.width(),_=($(window).width()-a)/2-10>=p;_?(s=0-a/2-r.$player_wrap.width()-10,d="50%"):(s=0,d=0),r.$player_wrap.css({"margin-left":s,left:d})}}"1"!==f.get()&&(o.mute&&o.mute(),u(o))}c(o),r.$player_wrap.css("visibility","visible"),t=n}},c=function(t){var i=a().height;t.resize({height:i})},d=r.$player_mini_ctrl.find("a[data-action=mute]"),u=function(t){t.isMuted&&(n.mute=!!t.isMuted(),d.removeClass("mute-off mute-on").addClass(t.isMuted()?"mute-on":"mute-off"))},p=function(t){var e=function(){s(t)};$(window).scroll(e),$(window).resize(e),r.$player_mini_ctrl.on("click","a[data-action=close]",function(e){e.preventDefault(),i=!0,s.apply(this)(),t.pause()}),r.$player_mini_ctrl.on("click","a[data-action=resize]",function(i){i.preventDefault(),r.$player_wrap.toggleClass("rv-player-mini-big"),c(t)}),u(t),d.click(function(){t.isMuted&&(t.isMuted()?(t.unMute(),f.on()):(t.mute(),f.off()),d.removeClass("mute-off mute-on").addClass(t.isMuted()?"mute-on":"mute-off"))})},f={_configName:"mini_unmute",_config:null,_set:function(t){this._config=n[this._configName],o.cookie.set(this._config.key,t,{expires:this._config.expires,domain:this._config.domain,path:this._config.path})},get:function(){return this._config=n[this._configName],o.cookie.get(this._config.key)},on:function(){this._set("1")},off:function(){this._set("0")}};return{detectVisible:e,init:p}}();e.scrollPlay=c,e.dom=r},{"./config":2,"./tools":9}]},{},[4]);</script>
+<iframe src="http://v.qq.com/video/playview.html?vid=i0022i2pzu5" width="0" height="0" style="display:none;"></iframe>
+
+<!-- /相关视频 -->
+
+
+
+
+
+
+
+
+<!--[if !IE]>|xGv00|d82f7a1238f1c1eaec2269b1b9ad1fc5<![endif]-->
+
+</p><p style="text-indent: 2em;">腾讯体育2月13日讯 <!--keyword--><a class="a-tips-Article-QQ" href="http://nba.stats.qq.com/player/?id=4244" target="_blank"><!--/keyword-->杜兰特<!--keyword--></a><!--/keyword-->首次重回俄城的比赛注定会成为球迷们津津乐道的话题。在球场上，杜兰特和韦少以及曾经的小弟罗伯特森接连爆发冲突，而在场下，脾气火爆的格林更是和球迷开喷。虽然格林已经回应说是因为那名球迷不尊重杜兰特才让他火冒三丈的，但球迷的描述却和格林的不太一样。</p><p align="center"><img src="http://img1.gtimg.com/sports/pics/hv1/238/208/2185/142132903.jpg"></p><p style="font-family: 宋体; font-size: 10pt;" align="center">格林与<!--keyword--><a class="a-tips-Article-QQ" href="http://nba.stats.qq.com/team/?id=thunder" target="_blank"><!--/keyword-->雷霆<!--keyword--></a><!--/keyword-->球迷对喷</p><p style="text-indent: 2em;">赛后，《俄克拉荷马人报》采访到了和格林赛场对喷的那位球迷，他的名字是里奇-泰勒，职业是一家酒吧的经理，和现场的数千名雷霆球迷一样，他也是嘘声的制造者之一。不同的是，他就坐在<!--keyword--><a class="a-tips-Article-QQ" href="http://nba.stats.qq.com/team/?id=warriors" target="_blank"><!--/keyword-->勇士<!--keyword--></a><!--/keyword-->的替补席后方，他的每一句嘲讽勇士队员都听得一清二楚。</p><p style="text-indent: 2em;">这也是格林为何突然火冒三丈的原因，在赛后接受采访时，格林表示有一名球迷以“P开头的单词”（pussy软蛋的意思）骂了杜兰特，并管勇士球员们叫“小男孩”，格林说：“这已经不是古代了，奴隶时代早就过去了，你不能这样评价一个人，这太不尊重人了。” </p><p style="text-indent: 2em;">但就在一天之后，那名球迷也表示，他当时没说任何粗俗的词语，杜兰特在朝他走过来的时候一直重复着一个单词，所以他就拿那个单词回击了。但那个单词并不粗俗，而且也不带有任何种族色彩。“我坐得离他们那么近，一举一动都在显微镜下。我懂规矩，我不可能坐在那个位置咒骂，因为一旦我骂了一句，马上就会被请出球场。”</p><p style="text-indent: 2em;">实际上，这已经不是泰勒第一次针对杜兰特了。去年夏天，当杜兰特宣布加盟勇士之后，泰勒就制作了一个视频，他把一个写有“出售懦夫的房子”的牌子放在了杜兰特家的门口，同时还在台阶上扔下了两件雷霆球衣，泰勒说他深深地被杜兰特的决定伤到了。</p><p style="text-indent: 2em;">在比赛中，泰勒不仅针对了杜兰特，他还冲着格林大喊：“今晚别踢人了。”直指格林去年季后赛踢到<!--keyword--><a class="a-tips-Article-QQ" href="http://nba.stats.qq.com/player/?id=5163" target="_blank"><!--/keyword-->亚当斯<!--keyword--></a><!--/keyword-->私处的恶意犯规。泰勒说格林居然回应他了，格林在场上回喷说：“我就踢你，我就踢你。”</p><p style="text-indent: 2em;">在赛后采访中，杜兰特说他已经记不起来这次冲突了。格林本人则表示泰勒的言语已经越界了。“球迷们为他们自己的队伍加油没错，给对手起哄也没错，但是你不能不尊重人。”</p><p style="text-indent: 2em;">泰勒说他在比赛中唯一一次咒骂就是在杜兰特和罗伯特森起冲突之后，他说杜兰特边走边说pussy这个词，于是他就用这个词回击杜兰特了。在格林起身和球迷对喷之后，现场警察介入了，他让泰勒冷静一点，但他仍然能留在球馆内看球。“我的确喊得有些声嘶力竭，但我说的并没有什么过分的。如果我说的话有什么过激的，警察肯定会把我请出球馆，但是他们没有。”</p><p style="text-indent: 2em;">（栗旬）</p><p style="text-indent: 2em;"><strong>版权声明：本文系腾讯体育独家稿件，未经授权，不得转载，否则将追究法律责任。</strong></p><p align="center"><img src="http://img1.gtimg.com/sports/pics/hv1/194/112/2140/139182254.jpg"></p>
+</div>
+<span style="width:0;height:0;overflow:hidden;display:block;font:0/0 Arial">正文已结束，您可以按alt+4进行评论</span>
+</div>
+</div>
+<div class="qq_articleFt">
+<div class="qq_toolWrap clearfix">
+
+<div class="qq_editor" id="QQeditor">责任编辑：agressifliu</div>
+
+
+
+
+<!--[if !IE]>|xGv00|3178e970cacc192e1ddec1dccd041295<![endif]-->
+<div class="qq_share">
+	<div class="shareBtn clearfix">
+		<span class="shareTit">分享到:</span>
+		<ul class="shareBtn24">
+												<li><a href="javascript:void(0)" id="tmblogbt" class="s_weibo" bosszone="tmblog" alt="腾讯微博" title="腾讯微博"  data-node="shareTweibo">腾讯微博</a></li>
+	<li><a href="javascript:void(0)" class="s_qzone" bosszone="tqzone" alt="QQ空间" title="QQ空间" data-node="shareQzone">QQ空间</a></li>
+	<li><a href="javascript:void(0)" class="s_qq" bosszone="tqq" alt="QQ好友" title="QQ好友" data-node="shareQQ">QQ好友</a></li>
+	<li><a href="javascript:void(0)" class="s_sina" bosszone="tsina" alt="新浪微博" title="新浪微博" data-node="shareSina">新浪微博</a></li>
+	<li><a href="javascript:void(0)" class="s_ewm" bosszone="scan" alt="二维码" title="查看本文二维码" id="s_ewm"  data-node="shareWeixin">二维码</a></li>
+	<li><a href="javascript:void(0)" class="s_in" bosszone="tmlinkin" alt="领英分享" title="领英分享" data-node="shareLinkedIn">领英分享</a></li>
+		</ul>
+	</div>
+	<div class="wemcn" id="wemcn" style="display: none;">
+		<div id="ewm" class="ewmDiv clearfix">
+			<img id="ewmimg" class="ewmimg" src="">
+			<div class="rwmtext">
+				<p>扫一扫，用手机看新闻！</p>
+				<p>用微信扫描还可以</p>
+				<p>分享至好友和朋友圈</p>
+			</div>
+		</div>
+		<a href="javascript:void(0)" id="ewmkg"></a>
+		<i class="ewmsj"></i>
+	</div>										
+</div>
+
+
+<!--[if !IE]>|xGv00|f1b3beaa885f8d994fd46a29f95ed977<![endif]-->	
+</div><!--[if !IE]>|xGv00|3df0ee0739390af516044d75c1bbc160<![endif]--><div class="qq_readBox">
+<div class="qq_aboutRead">
+<div class="hd qq_subTit2 clearfix">
+<h2>相关阅读<em></em>
+</h2>
+<div class="mark" id="videokg" bosszone="keyword">
+<span><a target="_blank" href="http://sports.qq.com/dc_unique_article/nba_general/tagsList.htm?tags=NBA">NBA</a></span><span><a target="_blank" href="http://sports.qq.com/dc_unique_article/nba_general/tagsList.htm?tags=%E9%9B%B7%E9%9C%86">雷霆</a></span><span><a target="_blank" href="http://sports.qq.com/dc_unique_article/nba_general/tagsList.htm?tags=%E6%A0%BC%E6%9E%97">格林</a></span>
+</div>
+</div>
+<div class="bd"><ul bosszone="rNews" id="videokg2">
+<li>
+<em></em><a target="_blank" href="http://sports.qq.com/a/20170213/016572.htm">雷霆输球韦少成孤胆英雄 努力专注未来仍不屈服</a><span>2017.02.13</span>
+</li>
+<li>
+<em></em><a target="_blank" href="http://sports.qq.com/a/20170213/013859.htm">在NBA打球也一样会很穷 因为他们签了这种合同</a><span>2017.02.13</span>
+</li>
+<li>
+<em></em><a target="_blank" href="http://sports.qq.com/a/20170213/005928.htm">音乐界在NBA的地盘搞事情 格莱美与篮球啥关系？</a><span>2017.02.13</span>
+</li>
+<li>
+<em></em><a target="_blank" href="http://sports.qq.com/a/20170213/004503.htm">NBA英年早逝球员盘点 吸毒车祸枪击摧毁天才</a><span>2017.02.13</span>
+</li>
+<li>
+<em></em><a target="_blank" href="http://sports.qq.com/a/20170212/021209.htm">杜兰特母亲控诉雷霆球迷：你们这样让我受伤！</a><span>2017.02.12</span>
+</li>
+</ul></div>
+</div>
+<!--main_4--><!--[if !IE]>|xGv00|1b6800e756c6d085e5c1fdcb2c295edd<![endif]-->
+</div>
+<script type="">SogouKeywords = {btn: 'on',txt: ['2015在勇士格林年薪','伊娃格林300勇士剧照','格林直接踢哈登脑袋了','凯格林和菲尔西斯打架','爱娃格林太惊艳了','格林踢裆为啥不禁赛','格林怒吼杜兰特视频','王牌贱谍格林斯比','格林踢詹姆斯视频','格林花园的少女汉化','格林美停牌原因','格林兰特船长的女儿']};
+			</script><script>
+												document.domain = 'qq.com';
+												cmt_site = 'sports';
+												cmt_id = 1761962383;
+												cmt_is_group = 0;
+												cmt_count_id = 'comment_count|comment_count2';
+											</script><!--相关搜索-->
+<!--相关搜索-->
+<div class="qq_keySearch clearfix" id="keySearch">
+	<div class="hd qq_subTit2"><h2>相关搜索<em></em></h2></div>
+	<div class="bd" id="SogouKeywordsList"></div>
+</div><!--[if !IE]>|xGv00|ce8debbea134a32125ecffb2fd19c3ff<![endif]-->
+<!-- 正文下广告 -->
+<div class="ad-box ad-cnt-1">
+	 <!--F_Z_Width1_div AD begin...."l=F_Z_Width1&log=off"--><div id="F_Z_Width1" style="width:640px;height:90px;display:none;" class="l_qq_com"></div><!--F_Z_Width1 AD end --><!--[if !IE]>|xGv00|0465a81e1ed4117e717b8bd08107345a<![endif]-->						</div><!--[if !IE]>|xGv00|fbe148cba98afb599c2ec94c0e76d531<![endif]-->
+<!--评论-->
+
+	<div class="qq_comment">
+		<iframe frameborder="no" scrolling="no" id = "commentIframe" style="width:100%;height:300px; overflow:hidden; margin-bottom:30px;"></iframe><!--[if !IE]>|xGv00|90b32a71d21f005346bc5544736163a9<![endif]-->
+	</div>
+
+
+<!--为你推荐-->
+<!-- 为你推荐 -->
+<div id="tag_about"></div>
+<div class="left-wntj-mod" id="left-wntj-mod">
+	<div class="hd">
+    	<h2><strong>为你推荐</strong></h2>
+    </div>
+    <div class="bd">
+    	<div class="list" node-type="list" bosszone="A_recnews" beehivezone='qqCom_sports_nba_detailPage_btrecommends'>
+             <div id="recommendFirst" bosszone="Recommend_tg" class="item" style="display: block;"><div class="pt"><div class="pic"><a href="http://www.huabian.com/zhijixianchang/2017/0213/158365.html?src=qqty1" target="_blank"><img src="http://img1.gtimg.com/sports/pics/hv1/90/231/2185/142138620.jpg"></a></div> <div class="txt"><h3><a href="http://www.huabian.com/zhijixianchang/2017/0213/158365.html?src=qqty1" target="_blank">NBA史上最伟大球员排名 科比仅排十二他居然排第二？</a></h3> <h4>2017-02-13 14:50:26</h4></div></div></div><!--[if !IE]>|xGv00|b6854f346cb7bc5349ee7ac16a9550b2<![endif]-->
+
+        </div>
+        <div class="more">
+        	<a href="#">加载更多</a>
+        </div>
+    </div>
+</div><!--[if !IE]>|xGv00|f3614fdcd67aadf9c9500ca678083fe1<![endif]-->
+<!--广告-->
+<div style="width:640px;margin:0;">
+<div class="main3-ad mar-b-10"  style="position:relative; width:640px; margin:0 auto 10px">
+<!--F_Width2_div AD begin...."l=F_Width2&log=off"--><div id="F_Width2" style="width:640px;height:120px;" class="l_qq_com"></div><!--F_Width2 AD end --><!--[if !IE]>|xGv00|2cc55a0ab77acd6550f69717ec0a3044<![endif]--><!--[if !IE]>|xGv00|43ad5b845dd592e2b84e70629b57ac2c<![endif]-->
+</div>			 <!--[if !IE]>|xGv00|3873e7af46796e60b531e227933a10e4<![endif]-->
+</div>
+<div class="mian-ad mar-b-10">
+					  <div class="hd">
+						  <h2>企业服务</h2>
+						</div><!-- /hd -->
+						<div class="bd clearfix">
+						<!--tencent advertisement code begin-->
+<table width="624" border="0" cellspacing="0" cellpadding="0" >
+<tr>
+<script>
+	if(typeof wenzilian_need_block=='undefined'){var wenzilian_need_block=(function(){var ad_block_list=["1,021,","1,015,","1,030,017","1,030,012"];var getCookie=function(name){var arr=document.cookie.match(new RegExp("(^| )"+name+"=([^;]*)(;|$)"));if(arr!=null)return unescape(arr[2]);return null};var arr_indexOf=function(arr,o){if(arr.indexOf){return arr.indexOf(o)}for(var i=0;i<arr.length;i++){if(arr[i]===o){return i}}return-1};var fn_need_block=function(){var ac=getCookie('ac');if(ac&&arr_indexOf(ad_block_list,ac)==-1){return false}return true};return fn_need_block()})();var str_format=function(s,config,reserve){return s.replace(/\{([^}]*)\}/g,(typeof config=='object')?function(m,i){var ret=config[i];return ret==null&&reserve?m:ret}:config)}}
+
+document.write('<td height="20" align="center"><span id="News_F_TSTX_1" class="w-l-qq-com"></span></td>');document.write('<td height="20" align="center"><span id="News_F_TSTX_2" class="w-l-qq-com"></span></td>');document.write('<td height="20" align="center"><span id="News_F_TSTX_3" class="w-l-qq-com"></span></td>');document.write('<td height="20" align="center"><span id="News_F_TSTX_4" class="w-l-qq-com"></span></td>');
+</script>
+</tr>
+</table>
+<!--tencent advertisement code end--><!--[if !IE]>|xGv00|541b67c15792ed4a77d6d4548c1ffcd2<![endif]-->
+<!--tencent advertisement code begin-->
+<table width="624" border="0" cellspacing="0" cellpadding="0" >
+<tr>
+<script>
+	if(typeof wenzilian_need_block=='undefined'){var wenzilian_need_block=(function(){var ad_block_list=["1,021,","1,015,","1,030,017","1,030,012"];var getCookie=function(name){var arr=document.cookie.match(new RegExp("(^| )"+name+"=([^;]*)(;|$)"));if(arr!=null)return unescape(arr[2]);return null};var arr_indexOf=function(arr,o){if(arr.indexOf){return arr.indexOf(o)}for(var i=0;i<arr.length;i++){if(arr[i]===o){return i}}return-1};var fn_need_block=function(){var ac=getCookie('ac');if(ac&&arr_indexOf(ad_block_list,ac)==-1){return false}return true};return fn_need_block()})();var str_format=function(s,config,reserve){return s.replace(/\{([^}]*)\}/g,(typeof config=='object')?function(m,i){var ret=config[i];return ret==null&&reserve?m:ret}:config)}}
+
+document.write('<td height="20" align="center"><span id="News_F_TSTX_5" class="w-l-qq-com"></span></td>');document.write('<td height="20" align="center"><span id="News_F_TSTX_6" class="w-l-qq-com"></span></td>');document.write('<td height="20" align="center"><span id="News_F_TSTX_7" class="w-l-qq-com"></span></td>');document.write('<td height="20" align="center"><span id="News_F_TSTX_8" class="w-l-qq-com"></span></td>');
+</script>
+</tr>
+</table>
+<!--tencent advertisement code end--><!--[if !IE]>|xGv00|d1702b1f7b25f320975bb4c74c1f92fd<![endif]-->
+<!--tencent advertisement code begin-->
+<table width="624" border="0" cellspacing="0" cellpadding="0" >
+<tr>
+<script>
+	if(typeof wenzilian_need_block=='undefined'){var wenzilian_need_block=(function(){var ad_block_list=["1,021,","1,015,","1,030,017","1,030,012"];var getCookie=function(name){var arr=document.cookie.match(new RegExp("(^| )"+name+"=([^;]*)(;|$)"));if(arr!=null)return unescape(arr[2]);return null};var arr_indexOf=function(arr,o){if(arr.indexOf){return arr.indexOf(o)}for(var i=0;i<arr.length;i++){if(arr[i]===o){return i}}return-1};var fn_need_block=function(){var ac=getCookie('ac');if(ac&&arr_indexOf(ad_block_list,ac)==-1){return false}return true};return fn_need_block()})();var str_format=function(s,config,reserve){return s.replace(/\{([^}]*)\}/g,(typeof config=='object')?function(m,i){var ret=config[i];return ret==null&&reserve?m:ret}:config)}}
+
+document.write('<td height="20" align="center"><span id="News_F_TSTX_9" class="w-l-qq-com"></span></td>');document.write('<td height="20" align="center"><span id="News_F_TSTX_10" class="w-l-qq-com"></span></td>');document.write('<td height="20" align="center"><span id="News_F_TSTX_11" class="w-l-qq-com"></span></td>');document.write('<td height="20" align="center"><span id="News_F_TSTX_12" class="w-l-qq-com"></span></td>');
+</script>
+</tr>
+</table>
+<!--tencent advertisement code end--><!--[if !IE]>|xGv00|9578395c81d6bf78a87af1a78225df0b<![endif]-->
+<!--tencent advertisement code begin-->
+<table width="624" border="0" cellspacing="0" cellpadding="0" >
+<tr>
+<script>
+	if(typeof wenzilian_need_block=='undefined'){var wenzilian_need_block=(function(){var ad_block_list=["1,021,","1,015,","1,030,017","1,030,012"];var getCookie=function(name){var arr=document.cookie.match(new RegExp("(^| )"+name+"=([^;]*)(;|$)"));if(arr!=null)return unescape(arr[2]);return null};var arr_indexOf=function(arr,o){if(arr.indexOf){return arr.indexOf(o)}for(var i=0;i<arr.length;i++){if(arr[i]===o){return i}}return-1};var fn_need_block=function(){var ac=getCookie('ac');if(ac&&arr_indexOf(ad_block_list,ac)==-1){return false}return true};return fn_need_block()})();var str_format=function(s,config,reserve){return s.replace(/\{([^}]*)\}/g,(typeof config=='object')?function(m,i){var ret=config[i];return ret==null&&reserve?m:ret}:config)}}
+
+document.write('<td height="20" align="center"><span id="News_F_TSTX_13" class="w-l-qq-com"></span></td>');document.write('<td height="20" align="center"><span id="News_F_TSTX_14" class="w-l-qq-com"></span></td>');document.write('<td height="20" align="center"><span id="News_F_TSTX_15" class="w-l-qq-com"></span></td>');document.write('<td height="20" align="center"><span id="News_F_TSTX_16" class="w-l-qq-com"></span></td>');
+</script>
+</tr>
+</table>
+<!--tencent advertisement code end--><!--[if !IE]>|xGv00|89f945ab41ea69e79561cad8dabe5a30<![endif]--><!--[if !IE]>|xGv00|eae3fa095d2556e0dbedf6a9abe929f2<![endif]-->
+						</div><!-- /bd -->
+					</div><!-- /mian-ad -->
+<!--[if !IE]>|xGv00|e111715e0db26b11666f13bd42d07390<![endif]--><!--[if !IE]>|xGv00|bacca54db8645363da03d1cb749309b9<![endif]-->
+</div>
+<script>try{QosS.topSpan("sports_nba_bottom",10);}catch(e){}</script>
+<!--ol20130819-->
+<!--pgv 20160801 by 39815--><script charset="gbk" src="http://pingjs.qq.com/ping.js"></script>
+
+<script>!function(t,e){"use strict";function a(){var t,e,a=(""+p.catalog_full).replace(/-/g,".").replace(/_/g,"-");p.topic&&p.topic.name&&p.topic.name.length>0?(t="L.",e="Z."+a+"."+p.topic.name):(t="L."+a,e="Z.");var n="W."+p.type,o="M."+p.tpl.type+p.tpl.stype,i="P."+(""+p.site).replace(/_/g,"-"),c="F."+f,l=t+"_"+e+"_"+n+"_"+o+"_"+i+"_"+c;l&&r({pgUserType:l})}function n(t){o(e,"click",function(e){var a=e.target;"img"===a.tagName&&(a=a.parentNode);var n=a.tagName.toLowerCase(),o=a.getAttribute("href");if(!o||o.indexOf("qqcom_pgv_from=")>-1)return!1;if("a"===n&&a.hostname&&a.hostname.indexOf("qq.com")>-1){var r=o+(a.search?"&":"?")+"qqcom_pgv_from="+t;a.setAttribute("href",r)}})}function o(a,n,o){var r=function(a){return a=a||t.event,a.target||(a.target=a.srcElement||e),3===a.target.nodeType&&(a.target=a.target.parentNode),a};return a.addEventListener?a.addEventListener(n,function(t){o.call(t.currentTarget,r(t))},!1):a.attachEvent("on"+n,function(t){o.call(a,r(t))}),!0}if(!t||!t.location||"function"!=typeof t.pgvMain)return!1;var r=function(){var e=arguments;setTimeout(function(){t.pgvMain.apply(this,e)},0)},i=location.search.replace(/adtag=client\.qq\.\d+_\.0/i,"from=tips"),c=["aio","tips"],f="def";location.search.indexOf("qqcom_pgv_from=")>-1&&(f=location.host+location.pathname+location.search);var p=t.ARTICLE_INFO||null,l=p&&p.catalog_full;if(l)for(var g=0;g<c.length;g+=1)if(i.indexOf(c[g])>-1){n(c[g]);break}l&&a(),l||("undefined"!=typeof whatCatalog&&(t.pvCSTM=t.whatCatalog),r({pgUserType:"F."+f}))}(window,document);</script><!--/pgv 20160801-->
+<!-- 视频来源ptag --><script src="http://mat1.gtimg.com/v/ptag/ptag_1.2.js" async="true"></script>
+<!--[if !IE]>|xGv00|f3e03201190b3625764e435221a2d6a1<![endif]-->
+<!--[if !IE]>|xGv00|e495268dae03726664c77551e8df25e2<![endif]--><!--[if !IE]>|xGv00|d9b659574fdddcc561d144559cab7281<![endif]-->
+<!-- 广告脚本 -->
+<script type="text/javascript" src="http://imgcache.qq.com/qzone/biz/comm/js/qbs.js"></script>
+<script type="text/javascript">
+var TIME_BEFORE_LOAD_CRYSTAL = (new Date).getTime();
+</script>
+<script src="http://ra.gtimg.com/web/crystal/v2.8Beta07Build071/crystal-min.js" id="l_qq_com" arguments="{'extension_js_src':'http://ra.gtimg.com/web/crystal/v2.8Beta07Build071/crystal_ext-min.js', 'jsProfileOpen':'true', 'mo_page_ratio':'0.01', 'mo_ping_ratio':'0.01', 'mo_ping_script':'//ra.gtimg.com/sc/mo_ping-min.js'}"></script>
+<script type="text/javascript">
+if(typeof crystal === 'undefined' && Math.random() <= 1) {
+  (function() {
+    var TIME_AFTER_LOAD_CRYSTAL = (new Date).getTime();
+    var img = new Image(1,1);
+    img.src = "http://dp3.qq.com/qqcom/?adb=1&dm=sports&err=1002&blockjs="+(TIME_AFTER_LOAD_CRYSTAL-TIME_BEFORE_LOAD_CRYSTAL);
+  })();
+}
+</script>
+<style>.absolute{position:absolute;}</style>
+<script type="text/javascript">
+  (function() {
+    var ratio = 30;
+    if(Math.random() * 100 >= ratio) return;
+    var l_t = crystal.cookie.get("dsp_cookiemapping0");
+    var n_t = (new Date).getTime();
+    var refs = [];
+    if(!l_t || (n_t - l_t > 1000*3600 )) {
+      crystal.cookie.set("dsp_cookiemapping0",(new Date).getTime(),{expires:0.04,path:"/"});
+      var img = new Image(1,1);
+      img.src = "http://cm.l.qq.com/?Bid=05d485d64761beaacc678aeefb1269fb";
+      refs.push(img);
+    }
+  })();
+</script>
+<script type="text/javascript">
+  (function() {
+    var ratio = 30;
+    if(Math.random() * 100 >= ratio) return;
+    var l_t = crystal.cookie.get("dsp_cookiemapping1");
+    var n_t = (new Date).getTime();
+    var refs = [];
+    if(!l_t || (n_t - l_t > 1000*3600 )) {
+      crystal.cookie.set("dsp_cookiemapping1",(new Date).getTime(),{expires:0.04,path:"/"});
+      var img = new Image(1,1);
+      img.src = "http://cm.l.qq.com/?Bid=9d973ca36d55db8598045165535d64de";
+      refs.push(img);
+    }
+  })();
+</script>
+<script type="text/javascript">
+  (function() {
+    var ratio = 30;
+    if(Math.random() * 100 >= ratio) return;
+    var l_t = crystal.cookie.get("dsp_cookiemapping2");
+    var n_t = (new Date).getTime();
+    var refs = [];
+    if(!l_t || (n_t - l_t > 1000*3600 )) {
+      crystal.cookie.set("dsp_cookiemapping2",(new Date).getTime(),{expires:0.04,path:"/"});
+      var img = new Image(1,1);
+      img.src = "http://cm.l.qq.com/?Bid=dca6ea17cca2289887e097157db2998a";
+      refs.push(img);
+    }
+  })();
+</script>
+<!--[if !IE]>|xGv00|1acc27409b677b5a0758497da28b1129<![endif]--> 
+
+<script>
+//顶通广告回调
+function checkTopAd(obj){
+
+if(obj &&obj.hasAd){
+	var topAd = document.getElementById('topAd');
+	topAd && (topAd.style.display="block");
+}else{}
+}
+</script>
+<!--[if !IE]>|xGv00|d5efb48d8fc0e65e1829a028a827f673<![endif]-->
+</div>
+<div class="qq_mainSide"><!--直播台html-->
+<!--include virtual="/public/final09/zhibotai_h.htm" -->
+<!--直播台html-->
+<!--直播台html-->
+<div class="tvMerge" id="tvMerge"  style="display:none;">
+	<ul class="hd clearfix">
+		<li class="mainTit" data-node="mainTit" style="display:none;"><h2>其他模块</h2></li>
+		<li class="zhiboTit" data-node="zhiboTit">
+			<h2>直播台</h2>
+			<div>自动播放<em data-node="autoPlay"><i></i></em></div>
+		</li>
+	</ul>
+	<div class="bd">		
+		<div class="tvStation"  data-node="tvStation">
+			<div class="playBox" data-node="playBox">
+				<div class="playLive" id="liveVideo">
+					
+				</div>
+				<a href="" class="go" data-node="go" target="_blank"><span></span><strong>进入直播台</strong></a>
+			</div>
+			<div class="listBox">
+				<ul data-node="list">
+				</ul>				
+				<a href="javascript:;" class="btn up" data-node="slide" data-data="idx=1" style="display:none;"><span></span><em></em></a>
+				<a href="javascript:;" class="btn down" data-node="slide" data-data="idx=-1"><span></span><em></em></a>
+			</div>				
+		</div>
+	</div>
+</div>
+<!--[if !IE]>|xGv00|9dcaa8a25233b9aff222eda3f9b61b03<![endif]--> 
+<!--赛事精选-->
+<div id="mergeMod">
+<div class="nba_events"  id="nbaEvents" style="display:none;">
+<div class="hd">
+	<h2>赛事精选</h2>
+</div>
+<div class="bd">
+	<ul class="nba_time clearfix">
+		<li node-type="nbaTime" action-data="idx=0"></li>
+		<li node-type="nbaTime" action-data="idx=1"></li>
+		<li node-type="nbaTime" action-data="idx=2"></li>
+	</ul>
+	<div class="nba_box">
+		<div class="eventItem" node-type="eventItem" style="display: none;">
+			<ul node-type="box">
+			</ul>
+			<a href="javascript:;" class="nba_more" node-type="more" style="display:none;" bosszone="A_matchmore">今日全部赛程<em></em></a>
+		</div>
+		<div class="eventItem" node-type="eventItem" style="display: none;">
+			<ul node-type="box">
+			</ul>
+			<a href="javascript:;" class="nba_more" node-type="more" style="display:none;" bosszone="A_matchmore">今日全部赛程<em></em></a>
+		</div>
+		<div class="eventItem" node-type="eventItem" style="display: none;">
+			<ul node-type="box">
+			</ul>
+			<a href="javascript:;" class="nba_more" node-type="more" style="display:none;" bosszone="A_matchmore">今日全部赛程<em></em></a>
+		</div>
+
+	</div>
+</div>
+</div><!--[if !IE]>|xGv00|e08df4f016aebc985f151c9c3dadd34e<![endif]--> 
+</div>
+<!--14.12.10新增广告_擎天柱广告-->
+<div class="article_ad mar-b-10">
+<!--F_Rectangle_N_div AD begin...."l=F_Rectangle_N&log=off"--><div id="F_Rectangle_N" style="width:300px;height:600px;" class="l_qq_com"></div><!--F_Rectangle_N AD end --><!--[if !IE]>|xGv00|06c8fe2898bcb36e5bd668b9d4843466<![endif]-->	
+</div><!--[if !IE]>|xGv00|c48037564e9c9240f1cd28d314f4b278<![endif]-->
+
+<!--热门精选-->
+<div class="nba_hot" id="nbaHot">
+	<div class="hd">
+		<h2>热门精选</h2>
+	</div>
+	<div class="bd">
+		<ul node-type="box" bosszone="A_rarticle" beehivezone='qqCom_sports_nba_detailPage_ltrecommends'>
+		</ul>
+		<a href="javascript:;" class="nba_more" node-type="more" bosszone="A_rarticlemore">更多热门精选<em></em></a>
+	</div>
+</div><!--[if !IE]>|xGv00|db3bb8d1cc81872e1d394ac4054d4495<![endif]--> 
+
+
+<!-- 淘宝广告 -->
+<div class="ad-box mar-b-30">
+<!--F_YSWZL_ZQ_1_div AD begin...."l=F_YSWZL_ZQ_1&log=off"--><div id="F_YSWZL_ZQ_1" style="width:300px;height:250px;" class="mod-right sidBoxNoborder mar-cl l_qq_com">
+</div><!--F_YSWZL_ZQ_1 AD end --><!--[if !IE]>|xGv00|b887d646637f5e4a7e40af4f4b4a640f<![endif]--> 
+</div><!--[if !IE]>|xGv00|0bba6ee03bdc7ec1629f3cb08d9b9270<![endif]-->
+
+<!--推荐视频-->
+<div class="nba_video" id="recoVideo">
+	<div class="hd">
+		<h2>推荐视频</h2>
+	</div>
+	<div class="bd">
+<div class="videoBox" node-type="videoBox">
+
+<!--推荐视频-手动-->
+<ul bosszone="A_rvideomanual">
+			
+			<li>
+				<a href="http://v.qq.com/x/page/m0022az5eue.html" target="_blank" class="pic"><img src="http://img1.gtimg.com/sports/pics/hv1/4/142/2185/142115839.jpg"/><em></em></a>
+				<p><a href="http://v.qq.com/x/page/m0022az5eue.html" target="_blank">我们都是传奇见证者 韦少赛季三双表现高光混剪</a></p>
+			</li>
+                                        <li>
+				<a href="http://v.qq.com/x/page/c0022ogw4i4.html" target="_blank" class="pic"><img src="http://img1.gtimg.com/sports/pics/hv1/15/142/2185/142115850.jpg"/><em></em></a>
+				<p><a href="http://v.qq.com/x/page/c0022ogw4i4.html"
+ target="_blank">科比全明星正赛十佳球 逆天滑翔空接+360单手劈扣</a></p>
+			</li>
+			<li>
+				<a href="http://v.qq.com/x/page/l0022j8wg4a.html" target="_blank" class="pic"><img src="http://img1.gtimg.com/sports/pics/hv1/33/142/2185/142115868.jpg"/><em></em></a>
+				<p><a href="http://v.qq.com/x/page/l0022j8wg4a.html" target="_blank"> 乔丹11分钟最强过人集锦 神之脚步无人能挡</a></p>
+			</li>
+</ul><!--[if !IE]>|xGv00|041e897d6a17d38408e9b957c280833a<![endif]--> 
+		<ul node-type="dataBox" bosszone="A_rvideoauto">
+		</ul>
+</div>
+		<a href="javascript:;" class="nba_more" node-type="more" bosszone="A_rvideomore">更多推荐视频<em></em></a>
+		<a href="http://sports.qq.com/nba/video/" target="_blank" class="nba_more moreLink" style="display:none;" bosszone="A_rvideomore">更多推荐视频<em>&gt;&gt;</em></a>
+	</div>
+</div><!--[if !IE]>|xGv00|56708474390e334b819c164744367786<![endif]--> 
+
+<!-- 右侧专区广告1 -->
+<div class="ad-box mar-b-30">
+ <!--F_ZQ_1_div AD begin...."l=F_ZQ_1&log=off"-->
+<div id="F_ZQ_1" class="l_qq_com" style="display:none;"></div>
+<!--F_ZQ_1 AD end --><!--[if !IE]>|xGv00|b6cc3d4d8a40432a9cc277f9c00bbed4<![endif]-->
+
+</div><!-- /ad-box --><!--[if !IE]>|xGv00|e9062f93e934ceb379d6e12100f4b767<![endif]-->
+
+<!--深度话题-->
+<div class="nba_topic" id="topic">
+	<div class="hd">
+		<h2>深度话题</h2>
+	</div>
+	<div class="bd" bosszone="A_topic">
+		<ul>
+		</ul>
+                         <a href="http://sports.qq.com/basket/nba/ycjp/" target="_blank" class="nba_more moreLink" style="" bosszone="A_topicmore">更多深度话题<em>&gt;&gt;</em></a>
+	</div>
+</div><!--[if !IE]>|xGv00|24503855b7d9918ce85f7df1ba3b4745<![endif]--> 
+
+
+
+<!-- 右侧专区广告2 -->
+<div class="ad-box mar-b-10" style="margin-bottom:23px;">
+	 <!--F_ZQ_2_div AD begin...."l=F_ZQ_2&log=off"-->
+<div id="F_ZQ_2" class="l_qq_com" style="display:none;"></div>
+<!--F_ZQ_2 AD end --><!--[if !IE]>|xGv00|ebb9be2b55a3dc9d2dbd502f571d29c9<![endif]-->
+
+</div><!-- /ad-box --><!--[if !IE]>|xGv00|7c6199104cf93f6264b485010bf62fcd<![endif]-->
+
+<!-- 广点通广告 -->
+<!-- --><!--[if !IE]>|xGv00|e2d39a2150a37a7ca121e65d9a10fce1<![endif]--> 
+
+<!--14.12.10新增广告_右边竖栏广告-->
+<div class="article_ad mar-b-10"> 
+<!--$loc$_div AD begin...."l=$loc$&log=off"--><div id="QQcom_all_Rectangle:1"  data-loc="QQcom_all_Rectangle" data-index="1" style="height:0;" class="l_qq_com"></div><!--$loc$ AD end --><!--[if !IE]>|xGv00|c5668531d36ed7899852180841ca2aa2<![endif]-->	
+</div><!--[if !IE]>|xGv00|4d3fc8408e6802f62101cf9079687da7<![endif]-->
+
+<div id="gdt_72058763092022479" style="width:300px; margin-bottom:10px;overflow:hidden;"> </div><!--[if !IE]>|xGv00|ea88f83b71b49e091a4e00200d8440f6<![endif]-->
+
+<!--右侧文字链区域2-->
+<div class="ad-box text-ad mar-b-10">
+	<div class="hd clearfix"> 
+	  <h2>时尚资讯</h2>
+	</div><!-- /hd -->
+<div class="bd clearfix">
+<p class="right_ad_lefttext">
+<script>
+	if(typeof wenzilian_need_block=='undefined'){var wenzilian_need_block=(function(){var ad_block_list=["1,021,","1,015,","1,030,017","1,030,012"];var getCookie=function(name){var arr=document.cookie.match(new RegExp("(^| )"+name+"=([^;]*)(;|$)"));if(arr!=null)return unescape(arr[2]);return null};var arr_indexOf=function(arr,o){if(arr.indexOf){return arr.indexOf(o)}for(var i=0;i<arr.length;i++){if(arr[i]===o){return i}}return-1};var fn_need_block=function(){var ac=getCookie('ac');if(ac&&arr_indexOf(ad_block_list,ac)==-1){return false}return true};return fn_need_block()})();var str_format=function(s,config,reserve){return s.replace(/\{([^}]*)\}/g,(typeof config=='object')?function(m,i){var ret=config[i];return ret==null&&reserve?m:ret}:config)}}
+document.write('<span id="News_F_Right_text1" class="w-l-qq-com"></span>');document.write('<br /><span id="News_F_Right_text2" class="w-l-qq-com"></span>');document.write('<br /><span id="News_F_Right_text3" class="w-l-qq-com"></span>');document.write('<br /><span id="News_F_Right_text4" class="w-l-qq-com"></span>');document.write('<br /><span id="News_F_Right_text5" class="w-l-qq-com"></span>');document.write('<br /><span id="News_F_Right_text6" class="w-l-qq-com"></span>');
+</script><!--[if !IE]>|xGv00|e22169eb4cbfae121674cf94e8d653f4<![endif]-->
+</p>
+<p class="right_ad_righttext"> 
+<script>
+	if(typeof wenzilian_need_block=='undefined'){var wenzilian_need_block=(function(){var ad_block_list=["1,021,","1,015,","1,030,017","1,030,012"];var getCookie=function(name){var arr=document.cookie.match(new RegExp("(^| )"+name+"=([^;]*)(;|$)"));if(arr!=null)return unescape(arr[2]);return null};var arr_indexOf=function(arr,o){if(arr.indexOf){return arr.indexOf(o)}for(var i=0;i<arr.length;i++){if(arr[i]===o){return i}}return-1};var fn_need_block=function(){var ac=getCookie('ac');if(ac&&arr_indexOf(ad_block_list,ac)==-1){return false}return true};return fn_need_block()})();var str_format=function(s,config,reserve){return s.replace(/\{([^}]*)\}/g,(typeof config=='object')?function(m,i){var ret=config[i];return ret==null&&reserve?m:ret}:config)}}
+document.write('<span id="News_F_Right_text7" class="w-l-qq-com"></span>');document.write('<br /><span id="News_F_Right_text8" class="w-l-qq-com"></span>');document.write('<br /><span id="News_F_Right_text9" class="w-l-qq-com"></span>');document.write('<br /><span id="News_F_Right_text10" class="w-l-qq-com"></span>');document.write('<br /><span id="News_F_Right_text11" class="w-l-qq-com"></span>');document.write('<br /><span id="News_F_Right_text12" class="w-l-qq-com"></span>');
+</script><!--[if !IE]>|xGv00|d8bb538ec02280f6ebba1b05b4c276a6<![endif]-->
+</p></div><!-- /bd -->
+</div><!-- /ad-box text-ad --><!--[if !IE]>|xGv00|2d886d63b509ec0a2eb9774ab03163ca<![endif]-->
+
+<!--右侧专区广告3-->
+<div id="taobaoADJS">
+<div class="sidBoxNoborder mar-cl" style="margin-top:8px;">
+<!--F_ZQ_3_div AD begin...."l=F_ZQ_3&log=off"--><div id="F_ZQ_3" style="width:300px;height:250px;" class="mod-right sidBoxNoborder mar-cl l_qq_com">
+</div><!--F_ZQ_3 AD end --><!--[if !IE]>|xGv00|172887f7222e04fb1fc8a897afc7d61c<![endif]-->
+</div>
+ 
+<!--[if !IE]>|xGv00|120016d63f8d0e0d68a7b8fd50214c2a<![endif]-->
+</div><!--[if !IE]>|xGv00|87f5efa02fce9082334bc6ca25d7af42<![endif]--></div>
+</div>
+</div>
+<div class="qq_leftSide" id="leftSide"><!--左侧精选-->
+<div class="qq_hotChoice" id="hotChoice">
+	<div class="hd">
+	<a href="http://sports.qq.com/nba/" target="_blank" bosszone="jxnrAIO">精选内容</a>
+	</div>
+	<div class="bd">
+		<ul data-node="list" bosszone="jxnrInfor">
+		</ul>
+	</div>
+</div><!--[if !IE]>|xGv00|aa5c994c7206a459be13ca5201037488<![endif]--><!--[if !IE]>|xGv00|365089c321a0804786bc3afe60d68b98<![endif]--></div>
+</div>
+</div>
+<!--直播视频-->
+<!--NBA直播--> 
+<!--include virtual="/index_inc/2013/zhibo_player_NBA.htm"--><!--[if !IE]>|xGv00|5997d49ac6a38b91763ee2ed13139d1b<![endif]-->
+
+<!--底部电梯-->
+<div class="qq_elevator">
+    <a href="javascript:;" target="_self" class="gotop"></a>
+</div>
+<!--[if !IE]>|xGv00|649a99e509614f544e6e419e3cbc35fc<![endif]-->
+
+<!--14.12.10新增广告_底通广告-->
+
+<!--footer-->
+<!-- NBA公共页脚 开始 -->
+<style>
+.nba-footer .nba-footer-links ul,.nba-footer .nba-footer-rec .nba-footer-layout{position:relative;overflow:hidden}.nba-footer{border-top:3px solid #d43456;background-color:#005897;font-family:"\5FAE\8F6F\96C5\9ED1",sans-serif;min-width:1000px}.nba-footer a,.nba-footer div,.nba-footer h1,.nba-footer h2,.nba-footer h3,.nba-footer h4,.nba-footer h5,.nba-footer li,.nba-footer ol,.nba-footer p,.nba-footer ul{margin:0;padding:0}.nba-footer ol,.nba-footer ul{list-style:none}.nba-footer .nba-footer-layout{margin:0 auto}.nba-footer .nba-footer-links{height:64px;line-height:64px;border-bottom:1px solid #00487a}.nba-footer .nba-footer-links .nba-footer-gotop{display:block;float:right;width:40px;height:40px;margin-top:12px;background-color:#00487a;background-image:url(http://img1.gtimg.com/sports/pics/hv1/28/162/1889/122873563.png);background-position:center center;background-repeat:no-repeat}.nba-footer .nba-footer-links ul{display:block;height:64px}.nba-footer .nba-footer-links ul li{display:block;float:left}.nba-footer .nba-footer-links ul li a{display:block;font-size:16px;color:#5398e0;text-decoration:none}.nba-footer .nba-footer-links ul li a:hover{color:#FFF}.nba-footer .nba-footer-rec{position:relative}.nba-footer .nba-footer-rec h4{color:#4d9cde;font-size:16px;font-weight:400;line-height:1;margin:26px 0 15px}.nba-footer .nba-footer-rec ul.nba-footer-reclist{list-style:none;padding:0;margin:0;width:9999px;height:125px}.nba-footer .nba-footer-rec ul.nba-footer-reclist li{display:block;float:left;width:220px;height:125px;margin-right:40px}.nba-footer .nba-footer-rec ul.nba-footer-reclist li a{display:block;width:100%;height:100%;position:relative;overflow:hidden}.nba-footer .nba-footer-rec ul.nba-footer-reclist li a img{display:block;width:100%;height:100%;border:0;-webkit-transition:transform .3s ease-out;-moz-transition:transform .3s ease-out;-ms-transition:transform .3s ease-out;-o-transition:transform .3s ease-out;transition:transform .3s ease-out}.nba-footer .nba-footer-rec ul.nba-footer-reclist li a p{position:absolute;left:0;bottom:0;width:100%;height:30px;line-height:30px;font-size:14px;background-color:#000;background-color:rgba(0,0,0,.6);color:#FFF;text-indent:1em}.nba-footer .nba-footer-rec ul.nba-footer-reclist li a i{text-indent:-999px;position:absolute;display:block;width:30px;height:30px;left:16px;bottom:40px;background-image:url(http://img1.gtimg.com/sports/pics/hv1/200/171/1889/122876030.png)}.nba-footer .nba-footer-rec ul.nba-footer-reclist li a:hover img{-webkit-transform:scale(1.05);-moz-transform:scale(1.05);-ms-transform:scale(1.05);-o-transform:scale(1.05);transform:scale(1.05)}.nba-footer #tcopyright,.nba-footer .tcopyright{display:block;margin:0 auto;padding:50px 0 30px;text-align:center;font-size:12px;font-family:SimSun,sans-serif;color:#5398e0;line-height:24px}.nba-footer #tcopyright a,.nba-footer .tcopyright a{color:#5398e0;text-decoration:none}.nba-footer #tcopyright a:hover,.nba-footer .tcopyright a:hover{color:#FFF;text-decoration:none}.nba-footer-wide .nba-footer-layout{width:1240px}.nba-footer-wide .nba-footer-links ul{left:-25px}.nba-footer-wide .nba-footer-links ul li a{padding:0 25px}@media only screen and (max-width:1260px){.nba-footer-wide .nba-footer-layout{width:1000px}.nba-footer-wide .nba-footer-links ul{left:-15px}.nba-footer-wide .nba-footer-links ul li a{padding:0 15px}}.nba-footer-thin .nba-footer-layout{width:1000px}.nba-footer-thin .nba-footer-links ul{left:-15px}.nba-footer-thin .nba-footer-links ul li a{padding:0 15px}@media only screen and (min-width:1260px){.nba-footer-thin .nba-footer-layout{width:1240px}.nba-footer-thin .nba-footer-links ul{left:-25px}.nba-footer-thin .nba-footer-links ul li a{padding:0 25px}}
+</style>
+
+
+
+
+
+
+<div class="nba-footer nba-footer-thin">
+    <div class="nba-footer-links" bosszone="SY_Bottomnav">
+        <div class="nba-footer-layout">
+            <a href="javascript:window.scrollTo(0,0);" class="nba-footer-gotop" target="_self"></a>
+            <ul>
+                <li><a href="http://sports.qq.com/nba/">首页</a></li>
+<li><a href="http://sports.qq.com/nbavideo/">视频</a></li>
+<li><a href="http://kbs.sports.qq.com/#nba">直播</a></li>
+<li><a href="http://sports.qq.com/nba/photo/">图片</a></li>
+<li><a href="http://sports.qq.com/dc_unique_article/nba_general/tagsList.htm?tags=NBA">新闻</a></li>
+<li><a href="http://nbadata.sports.qq.com/player/playersearch.html">球员</a></li>
+<li><a href="http://nba.stats.qq.com/team/list.htm">球队</a></li>
+<li><a href="http://nba.stats.qq.com/schedule/">赛程</a></li>
+<li><a href="http://nba.stats.qq.com/stats/">数据</a></li>
+<li><a href="http://nba.stats.qq.com/standings/">排名</a></li>
+<li><a href="http://sports.qq.com/fans/">社区</a></li>
+<li><a href="http://sports.qq.com/nbavideo/shenji/">节目</a></li>
+<li><a href="http://sports.qq.com/l/basket/nba/jingh/list20150828162722.htm">评论</a></li>
+<li><a href="http://sports.qq.com/all_subjects/NBA_lq/">专题</a></li><!--[if !IE]>|xGv00|1875bebf82ffe1ed7fef5ada37a97245<![endif]-->
+            </ul>
+        </div>
+    </div>
+
+    <div class="nba-footer-rec" bosszone="SY_Bottomrec">
+        <div class="nba-footer-layout">
+            <h4>精彩推荐</h4>
+            <ul class="nba-footer-reclist"></ul>
+        </div>
+    </div>
+
+    
+    <div class="article_ad ad-foot bottomAds">
+<!--$loc$_div AD begin...."l=$loc$&log=off"--><div id="QQcom_all_Width1:2"  data-loc="QQcom_all_Width1" data-index="2" style="height:0;" class="l_qq_com"></div><!--$loc$ AD end --><!--[if !IE]>|xGv00|eded8eb1ca1e76d5e657a1d335d69103<![endif]-->	
+</div><!--[if !IE]>|xGv00|aa6d4f8aca299c517bb2801b4307d648<![endif]-->
+    
+
+    <script>
+var NavNoticeSiteName = ["sports","tech","games","cul","edu","fashion","house","auto","ent","finance"]; 
+</script>
+<script src="http://mat1.gtimg.com/www/chrometips/notification2017_v0118.js"></script><!--[if !IE]>|xGv00|e7bf48c644b26e461447db5b94ec54d2<![endif]-->
+<style>
+.tcopyright {width:960px;margin:0 auto;padding:8px 0;font-size:12px;line-height:28px;color:#333; text-align:center; overflow:hidden;clear:both;}
+.tcopyright .en{font-family:Arial;}
+.tcopyright a{color:#333;text-decoration: none;}
+.tcopyright a:hover{color:#bd0a01;text-decoration: underline;}
+</style>
+<div id="tcopyright" class="tcopyright" bossZone="footer" role="contentinfo">
+	<div>
+		<a href="http://www.tencent.com/" target="_blank" rel="nofollow">关于腾讯</a> | <a href="http://www.tencent.com/index_e.shtml" target="_blank" rel="nofollow">About Tencent</a> | <a href="http://www.qq.com/contract.shtml" target="_blank" rel="nofollow">服务协议</a> | <a href="http://www.qq.com/privacy.htm" target="_blank" rel="nofollow">隐私政策</a> | <a href="http://open.qq.com/" target="_blank" rel="nofollow">开放平台</a> | <a href="http://www.tencentmind.com/" target="_blank" rel="nofollow">广告服务</a> | <a href="http://hr.tencent.com/" target="_blank" rel="nofollow">腾讯招聘</a> | <a href="http://gongyi.qq.com/" target="_blank" rel="nofollow">腾讯公益</a> | <a href="http://service.qq.com/" target="_blank" rel="nofollow">客服中心</a> | <a href="http://news.qq.com/zt2014/2014qtnews/ccybspxd.htm
+" target="_blank" rel="nofollow">举报中心</a> | <a href="http://www.qq.com/map/" target="_blank" rel="nofollow">网站导航</a>
+	</div>
+  	<div class="en">Copyright &copy; 1998 - 2017 Tencent. All Rights Reserved</div>
+    <div>
+		<a href="http://www.tencent.com/" target="_blank" rel="nofollow">腾讯公司</a> <a href="http://www.tencent.com/zh-cn/le/copyrightstatement.shtml" target="_blank" rel="nofollow">版权所有</a>
+	</div>
+</div><!--[if !IE]>|xGv00|b6614ae390f3ba6a8cbcc269055b42da<![endif]-->
+
+</div>
+<!-- NBA公共页脚 脚本 -->
+<script>
+!function(t,i,a){t(a).ready(function(){var n=t(".nba-footer"),o=!1,c=function(){o||t.getScript("http://v.qq.com/commurl/json/nba/classic.json",function(){var a=i.QZOutputJson;if(a&&a.data){var c=[];t.each(a.data,function(t,i){return 5>t?c.push(i.video_id):!1}),t.ajax({type:"GET",url:"http://data.video.qq.com/fcgi-bin/data",dataType:"jsonp",cache:!0,data:{tid:"115",appid:"10001009",appkey:"c5a3e1529a7ba805",otype:"json",idlist:c.join(",")},success:function(i){if(i&&i.results&&i.results.length>0){var a="";t.each(i.results,function(t,i){a+="<li>",a+="<a href='"+i.fields.c_play_url+"' target='_blank'>",a+="<img src='"+i.fields.c_pic_228_128+"'>",a+="<p>"+i.fields.c_title+"</p>",a+="<i>\u89c6\u9891</i>",a+="</a>",a+="</li>"}),n.find("ul.nba-footer-reclist").html(a),o=!0}},error:function(){}})}})},e=n.height(),r=function(){t(i).scrollTop()+t(i).height()>t(a).height()-e&&(t(i).off("scroll",r),c())};t(i).on("scroll",r),r()})}(jQuery,window,document);
+</script>
+
+<!-- NBA公共页脚 结束 --><!--[if !IE]>|xGv00|3b0a367ed2e804e44f5ad1c281d23c3a<![endif]-->
+<!--[if !IE]>|xGv00|1851f751eddf7198ddfbb584ed1cc136<![endif]--><script>
+//评论数据
+//http://mat1.gtimg.com/sports/nba_dc/2014/css/cmt.css
+var commentData = {
+	ownStyle:"http://mat1.gtimg.com/www/2016comments/blue.css"
+};
+//上报数据配置
+var BOSS_CONFIG={
+	registerZone:{
+		BossId:3177,
+		Pwd:'763290108',
+		vertical:'NBA',
+		pageType:'A',
+		sLocalUrl:'',
+		sLocUrl:escape(location.href)
+	},
+	exposure:{
+		BossId:3175,
+		Pwd:'1745364445',
+		vertical:'NBA',
+		pageType:'A',
+		sLocalUrl:'',
+		sLocUrl:escape(location.href)
+	}
+}
+
+//pac个性化接口提供方便搜集用户行为轨迹的统计
+$.ajax('http://i.match.qq.com/stat/only?ch=nba',{dataType:'jsonp'});
+
+</script>
+<script src="http://mat1.gtimg.com/www/dc/dist/libs/require.js"></script>
+<script src="http://mat1.gtimg.com/pingjs/ext2020/dc/dist/js/sports_nba.js"  charset="UTF-8"></script>
+
+
+
+<!-- 广告 -->
+<!--Sports_F_LD_RM_div AD begin...."l=Sports_F_LD_RM&log=off"-->
+<div id="Sports_F_LD_RM" style="width:960px;height:300px;display:none;margin:0 auto;" class="l_qq_com"></div>
+<!--Sports_F_LD_RM AD end --><!--[if !IE]>|xGv00|cc8b95468cb83f9cb19824ef6a0c038a<![endif]-->
+<!--F_RM1_div AD begin...."l=F_RM1&log=off"-->
+<div id="F_RM1" style="width:1px;height:1px;display:none;margin:0 auto;" class="l_qq_com"></div>
+<!--F_RM1 AD end --><!--[if !IE]>|xGv00|5fda91c0c1c50b3bccc6167b4442f2e0<![endif]-->
+<script type="text/javascript" src="http://imgcache.qq.com/qzone/biz/comm/js/qbs.js"></script>
+<script type="text/javascript">
+function gdtad(gdtAD1, gdt_id1, gdtAD2, gdt_id2){
+	GDT.get([[gdtAD1, document.getElementById(gdt_id1), 1, false, function(o) {
+		// o.ret 表示没有广告， 这里可以开发同学随便改
+		if (!o.ret) {
+			document.getElementById(gdt_id1).style.display = 'none';
+		    document.getElementById("cgd").style.height = '80px';
+	    	document.getElementById("gdt_right").style.display = 'block';
+	    	document.getElementById("gdt_left").style.display = 'block';
+            return;
+		}
+		if ( o.data.length == 1 ) { 
+	 		document.getElementById("gdt_right").style.display = 'block';
+	  
+		} 
+	}, {  count: 2 }]
+	]); 
+}
+gdtad("72058763092022479","gdt_72058763092022479");
+</script><!--[if !IE]>|xGv00|fa52cc8e30d6c898482832d182f45506<![endif]-->
+
+<!--跳转到原来v.qq.com下的视频点播页URL，替换成新的体育视频播放底层页URL。-->
+<script>
+  /**
+   * @description 替换页面v站视频链接
+   * @param: root 可配置父级 window.replaceLinkRoot = 'elms'
+   **/
+  ~(function ($, root) {
+    if ($) {
+      var root = root ? $(root) : $(document);
+      root.on('click', 'a', function () {
+        var $a = $(this);
+        var link = $a.attr('href');
+        if (link && link.indexOf('v.qq.com/x/')) {
+          var nl = link.replace(/http[s]*:\/\/v\.qq\.com\/x\/(.*)\.html/, '//sports.qq.com/vo/#/$1');;
+          $a.attr('href', nl);
+        }
+      })
+    }
+  })(window.jQuery, window.replaceLinkRoot);
+</script><!--[if !IE]>|xGv00|a7b43a5c3634887ebc9def334717510d<![endif]-->
+
+<!-- 站内补充脚本 -->
+<!-- pac上报 -->
+<script src='http://mat1.gtimg.com/www/pacboss/beehivezone_index.js'></script><!--[if !IE]>|xGv00|770e128298e0b45d11a18e50beb6dc91<![endif]-->
+<script>try{QosS.endCheck();}catch(e){}</script><!--[if !IE]>|xGv00|ef85a0cca98853f275813f0277bbc230<![endif]-->
+</body>
+			</html>
+		
+<!--[if !IE]>|xGv00|e62021fc93652b2b4c1905752c66d99e<![endif]-->
