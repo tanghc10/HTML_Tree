@@ -1,17 +1,23 @@
 #include"HTML_tree.h"
 
 TOKEN *head_token = NULL, *tail_token = NULL;
-Label_node *Root;
+Label_node *Root = NULL;
 
 int main(void)
 {
-    Root = (Label_node*)malloc(sizeof(Label_node));
-	int command;
+    Show_menu();
+	return 0;
+}
+
+void Show_menu(){
+    int command;
 	char buffer[MAX_LEN];
+	int is_find;
 	printf("---------------------菜单------------------\n");
 	printf("            1:创建HTML_DOM文档树\n");
 	printf("            2:按照关键词查找文本信息\n");
 	printf("            3:查找文章标题\n");
+	printf("            4.销毁HTML_DOM文档树\n");
 	printf("            0:退出系统\n");
 	printf("----------------欢迎使用本系统-------------\n");
 	while (scanf("%d", &command) == 1)
@@ -24,22 +30,49 @@ int main(void)
                 printf("HTML_DOM文档树已创建成功\n");
 			break;
 		case 2:
+		    if (Root == NULL){
+                printf("无可用HTML_DOM树！\n请创建后再进行操作.\n");
+                break;
+		    }
 			printf("请输入需要查找的关键字\n");
 			scanf("%s", buffer);
 			getchar();
-			search_KeyWord(Root, buffer);
+			is_find = 0;
+			search_KeyWord(Root, buffer, &is_find);
+			if (is_find == 0){
+                printf("查找不到含有 %s 的文本！", buffer);
+			}
 			break;
 		case 3:
+		    if (Root == NULL){
+                printf("无可用HTML_DOM树！\n请创建后再进行操作.\n");
+                break;
+		    }
 			printf("请输入要查找的标题关键词\n");
 			scanf("%s", buffer);
 			getchar();
-			search_Title(Root, buffer);
+			is_find = 0;
+			search_Title(Root, buffer, &is_find);
+			if (is_find == 0){
+                printf("查找不到含有 %s 的标题！\n\n 所有的标题如下：\n");
+                Traverse_Title(Root);
+			}
 			break;
+        case 4:
+            if (Root == NULL){
+                printf("HTML_DOM树不存在或已被销毁！\n请创建后再进行操作.\n");
+                break;
+		    }
+            Free_HTML_Tree(Root);
+            Root = NULL;
+            printf("销毁成功！\n");
+            break;
 		case 0:
 			printf("退出系统\n");
 			return;
 		default:
-			break;
+		    printf("输入错误，请重新输入：\n");
+			continue;
 		}
 		getchar();
 		system("cls");
@@ -47,14 +80,14 @@ int main(void)
         printf("            1:创建HTML_DOM文档树\n");
         printf("            2:按照关键词查找文本信息\n");
         printf("            3:查找文章标题\n");
+        printf("            4.销毁HTML_DOM文档树\n");
         printf("            0:退出系统\n");
         printf("----------------欢迎使用本系统-------------\n");
 	}
-	return 0;
+	return ;
 }
 
-status Creat_HTML_List(void)
-{
+status Creat_HTML_List(void){
 	FILE *pfile = NULL;
 	FILE *pfile1 = NULL;
 	char ch;					//用于逐个读取文件中的字符
@@ -86,6 +119,7 @@ status Creat_HTML_List(void)
 		return FALSE;
 	}
 
+    Root = (Label_node*)malloc(sizeof(Label_node));
 	while ((fscanf(pfile, "%c", &ch)) > 0)      //直到读到文本最后的'\0'为止
 	{
 		if(ch == '<')
@@ -185,7 +219,7 @@ status Creat_HTML_List(void)
                 if ((p = strstr(token, "href")) != NULL){
                     sscanf(p, "%*[^\"]\"%[^\"]", href);
                     if (strstr(href, "http") != NULL || strstr(href, "www") != NULL){
-                        printf("%s: %s\n", buffer, href);
+                       // printf("%s: %s\n", buffer, href);
                         sign = VALUE;
                         token_handle(href, strlen(href), sign);
                     }
@@ -271,8 +305,8 @@ status Creat_HTML_List(void)
 	fclose(pfile1);
 	return TRUE;
 }
-void token_handle(char *token, int token_len, int sign)
-{
+
+void token_handle(char *token, int token_len, int sign){
     tail_token = (TOKEN *)malloc(sizeof(TOKEN));
     tail_token->elem = (char *)malloc(sizeof(char)*(token_len+1));
     strcpy(tail_token->elem, token);
@@ -283,8 +317,7 @@ void token_handle(char *token, int token_len, int sign)
     return;
 }
 
-status Creat_HTML_Tree(Label_node **Root)
-{
+status Creat_HTML_Tree(Label_node **Root){
     TOKEN *token_temp = head_token->next;
     Label_node *Label_new;
     Label_node *stack[100];
@@ -336,7 +369,44 @@ status Creat_HTML_Tree(Label_node **Root)
     //PreOrderTraverse(*Root);
     return 1;
 }
+
+status Free_HTML_Tree(Label_node **Root){
+    //Free_HTML_List(head_token);
+    Label_node *stack[100];
+    int top = -1, sub = -1;
+    stack[++top] = *Root;
+    sub++;
+    while(sub != top){
+        if (stack[sub]->info != NULL){
+            free(stack[sub]->info);
+        }
+        if (stack[sub]->Label_value != NULL){
+            if (stack[sub]->Label_value->info != NULL)
+                free(stack[sub]->Label_value->info);
+            free(stack[sub]->Label_value);
+        }
+        if (stack[sub]->Para_label != NULL){
+            stack[++top] = stack[sub]->Para_label;
+        }
+        if (stack[sub]->Sub_label != NULL){
+            stack[++top] = stack[sub]->Sub_label;
+        }
+        free(stack[sub++]);
+    }
+    return;
+}
 /*
+status Free_HTML_List(TOKEN **head_token){
+    TOKEN *tail_token = head_token->next;
+    while(tail_token != NULL){
+        free(head_token);
+        head_token = tail_token;
+        tail_token = tail_token->next;
+    }
+    free(head_token);
+    return 1;
+}
+
 void PreOrderTraverse(Label_node *T){
     if (T == NULL)
         return;
@@ -347,36 +417,56 @@ void PreOrderTraverse(Label_node *T){
     PreOrderTraverse(T->Para_label);
 }
 */
-int search_KeyWord(Label_node *T, char *Key){
+int search_KeyWord(Label_node *T, char *Key, int *is_find){
     if (T == NULL)
         return 0;
     if (T->info != NULL){
         if (strstr(T->info, Key) != NULL){
-            printf("  %s : %s", T->label_name, T->info);
+            *is_find = 1;
+            printf("%s", T->info);
             if (T->Label_value != NULL){
                 printf(" %s", T->Label_value->info);
             }
             printf("\n\n");
         }
     }
-    search_KeyWord(T->Para_label, Key);
-    search_KeyWord(T->Sub_label, Key);
+    search_KeyWord(T->Para_label, Key, is_find);
+    search_KeyWord(T->Sub_label, Key, is_find);
 }
 
-void search_Title(Label_node *T, char *Key){
+void search_Title(Label_node *T, char *Key, int *is_find){
     if (T == NULL)
         return;
     if (strcmp(T->label_name, "h1") == 0 || strcmp(T->label_name, "h2") == 0 || strcmp(T->label_name, "h3") == 0 ||
         strcmp(T->label_name, "h4") == 0 || strcmp(T->label_name, "h5") == 0 || strcmp(T->label_name, "h6") == 0 ||
         strcmp(T->label_name, "title") == 0){
             if (T->info != NULL && strstr(T->info, Key) != NULL){
-                printf("  %s : %s ", T->label_name, T->info);
+                *is_find = 1;
+                printf("%s ", T->info);
                 if (T->Label_value != NULL){
                     printf("%s", T->Label_value->info);
                 }
                 printf("\n");
             }
         }
-    search_Title(T->Para_label, Key);
-    search_Title(T->Sub_label, Key);
+    search_Title(T->Para_label, Key, is_find);
+    search_Title(T->Sub_label, Key, is_find);
+}
+
+void Traverse_Title(Label_node *T){
+    if (T == NULL)
+        return;
+    if (strcmp(T->label_name, "h1") == 0 || strcmp(T->label_name, "h2") == 0 || strcmp(T->label_name, "h3") == 0 ||
+        strcmp(T->label_name, "h4") == 0 || strcmp(T->label_name, "h5") == 0 || strcmp(T->label_name, "h6") == 0 ||
+        strcmp(T->label_name, "title") == 0){
+            if (T->info != NULL){
+                printf("%s ", T->info);
+                if (T->Label_value != NULL){
+                    printf("%s", T->Label_value->info);
+                }
+                printf("\n");
+            }
+        }
+    Traverse_Title(T->Para_label);
+    Traverse_Title(T->Sub_label);
 }
