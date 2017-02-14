@@ -46,9 +46,15 @@ typedef struct label_node{
 	struct label_node *Label_value;
 }Label_node;
 
+void Show_menu();
 status Creat_HTML_List(void);
 status Creat_HTML_Tree(Label_node **Root);
-void test(void);
+//void test(void);
+status Free_HTML_Tree(Label_node **Root);
+status Free_HTML_List(TOKEN *head);
+int search_KeyWord(Label_node *T, char *Key, int *is_find);
+void search_Title(Label_node *T, char *Key, int *is_find);
+void Traverse_Title(Label_node *T);
 void token_handle(char *token, int token_len, int sign);
 
 #endif // HTML_TREE_H_INCLUDED

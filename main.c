@@ -99,6 +99,7 @@ status Creat_HTML_List(void){
 	int sign = 0;
 	int start = 0;
 	int end = 0;
+	int info = 0;
 
 	head_token = (TOKEN *)malloc(sizeof(TOKEN));	//分配预处理链头节点
 	head_token->next = NULL;
@@ -237,6 +238,7 @@ status Creat_HTML_List(void){
 				continue;
 			else
 			{
+                info++;
 			    int flag = 0;
 			    char *p;
 				while (ch != '<')
@@ -303,6 +305,7 @@ status Creat_HTML_List(void){
 	head_token = p_token;
 	fclose(pfile);
 	fclose(pfile1);
+	printf("树的结点个数为:%d\n结点中储存的信息共有%d条\n", start, info);
 	return TRUE;
 }
 
@@ -367,11 +370,25 @@ status Creat_HTML_Tree(Label_node **Root){
         token_temp = token_temp->next;
     }
     //PreOrderTraverse(*Root);
+    printf("树的深度是：%d\n", Tree_depth(*Root));
     return 1;
 }
 
+int Tree_depth(Label_node *T){
+    int depth = 0;
+    if (T->Sub_label == NULL)
+        return 1;
+    Label_node *p = T->Sub_label;
+    while(p != NULL){
+        depth = depth>Tree_depth(p)?depth:Tree_depth(p);
+        p = p->Para_label;
+    }
+    depth += 1;
+    return depth;
+}
+
 status Free_HTML_Tree(Label_node **Root){
-    //Free_HTML_List(head_token);
+    Free_HTML_List(head_token);
     Label_node *stack[100];
     int top = -1, sub = -1;
     stack[++top] = *Root;
@@ -395,18 +412,19 @@ status Free_HTML_Tree(Label_node **Root){
     }
     return;
 }
-/*
-status Free_HTML_List(TOKEN **head_token){
-    TOKEN *tail_token = head_token->next;
-    while(tail_token != NULL){
-        free(head_token);
-        head_token = tail_token;
-        tail_token = tail_token->next;
+
+status Free_HTML_List(TOKEN *head){
+    TOKEN *cur_token = head->next, *next_token = cur_token->next;
+    while(next_token != NULL){
+        free(cur_token);
+        cur_token = next_token;
+        next_token = next_token->next;
     }
-    free(head_token);
+    free(cur_token);
+    free(head);
     return 1;
 }
-
+/*
 void PreOrderTraverse(Label_node *T){
     if (T == NULL)
         return;
@@ -427,7 +445,14 @@ int search_KeyWord(Label_node *T, char *Key, int *is_find){
             if (T->Label_value != NULL){
                 printf(" Link:%s", T->Label_value->info);
             }
-            printf("\n\n");
+            printf("\n");
+            Label_node *p_temp = T;
+            while (p_temp->Parent_label != NULL){
+                p_temp = p_temp->Parent_label;
+                if (p_temp->info != NULL)
+                    printf("father:%s\n", p_temp->info);
+            }
+            printf("_______________________________________________________\n\n");
         }
     }
     search_KeyWord(T->Para_label, Key, is_find);
