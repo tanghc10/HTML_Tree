@@ -178,6 +178,14 @@ status Creat_HTML_List(void)
                 }
                 if(!IS_ignore)
                     token_handle(buffer, strlen(buffer), sign);
+                /*char *p = NULL;
+                char *href[100];
+                if ((p = strstr(token, "href")) != NULL){
+                    sscanf(p, "%*[^\"]\"%[^\"]", href);
+                    if (strstr(href, "www") != NULL){
+                        printf("%s: %s\n", buffer, href);
+                    }
+                }*/
                 strcpy(buffer, "");
 				strcpy(token, "");
 				token_len = 0;
@@ -191,6 +199,8 @@ status Creat_HTML_List(void)
 				continue;
 			else
 			{
+			    int flag = 0;
+			    char *p;
 				while (ch != '<')
 				{
 				    if(ch == '(')
@@ -202,6 +212,44 @@ status Creat_HTML_List(void)
                         continue;
                     }
 					token[token_len++] = ch;
+					if (ch == '&')
+                        flag = 1;
+                    if (flag){
+                        token[token_len] = '\0';
+                        if ((p = strstr(token, "&nbsp")) != NULL){
+                            *p = ' ';
+                            token_len -= 4;
+                            flag = 0;
+                        }else if ((p = strstr(token, "&gt")) != NULL){
+                            *p = '>';
+                            token_len -= 2;
+                            flag = 0;
+                        }else if ((p = strstr(token, "&lt")) != NULL){
+                            *p = '<';
+                            token_len -= 2;
+                            flag = 0;
+                        }else if ((p = strstr(token, "&amp")) != NULL){
+                            *p = '&';
+                            token_len -= 3;
+                            flag = 0;
+                        }else if ((p = strstr(token, "&quot")) != NULL){
+                            *p = '\"';
+                            token_len -= 4;
+                            flag = 0;
+                        }else if ((p = strstr(token, "&apos")) != NULL){
+                            *p = '\'';
+                            token_len -= 4;
+                            flag = 0;
+                        }else if ((p = strstr(token, "&middot")) != NULL){
+                            *p = '.';
+                            token_len -= 6;
+                            flag = 0;
+                        }else if ((p = strstr(token, "&#229")) != NULL){
+                            *p = '@';
+                            token_len -= 4;
+                            flag = 0;
+                        }
+                    }
 					fscanf(pfile, "%c", &ch);
 				}
 				ungetc(ch, pfile);		//将获取的'<'回退回文档，以便下一次的获取

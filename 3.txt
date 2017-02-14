@@ -1,0 +1,1650 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title>鄙视链无国界，老外因《王者荣耀》是否抄袭《英雄联盟》而撕逼-虎嗅网</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" name="viewport">
+    <meta name="renderer" content="webkit">
+    <meta name="baidu-site-verification" content="R9XA5lWxu2" />
+    <meta name="author" content="游戏葡萄-虎嗅网">
+    <meta name="keywords" content="腾讯，游戏，玩家，英雄联盟，投稿">
+    <meta name="description" content="你以为只有中国人沉迷《王者荣耀》？">
+    <meta name="base-static-url" content="https://statics.huxiu.com/w/mini">
+        <meta content="鄙视链无国界，老外因《王者荣耀》是否抄袭《英雄联盟》而撕逼" property="og:title">
+    <meta content="article" property="og:type">
+    <meta content="虎嗅网" property="og:site_name">
+    <meta content="https://www.huxiu.com/article/180809.html" property="og:url">
+    <meta content="https://imgs.bipush.com/article/cover/201702/12/122105196079.jpg" property="og:image">
+    <meta content="你以为只有中国人沉迷《王者荣耀》？" property="og:description">
+        <link rel="stylesheet" type="text/css" href="https://statics.huxiu.com/w/mini/static_2015/css/bootstrap.min.css?v=201512091410">
+    <link rel="stylesheet" type="text/css" href="https://statics.huxiu.com/w/mini/static_2015/css/build.css?v=201701041731">
+    <link rel="stylesheet" type="text/css" href="https://statics.huxiu.com/w/mini/static_2015/css/right.css?v=201611151005">
+    <link rel="stylesheet" type="text/css" href="https://statics.huxiu.com/w/mini/static_2015/css/login.css?v=201612191053">
+    <link rel="stylesheet" type="text/css" href="https://statics.huxiu.com/w/mini/static_2015/css/vip-icon.css?v=201611151005">
+    <link rel="stylesheet" type="text/css" href="https://statics.huxiu.com/w/mini/static_2015/css/nanoscroller.css">
+    <link rel="stylesheet" type="text/css" href="https://statics.huxiu.com/w/mini/static_2015/css/cy.css?v=20161219">
+<link rel="stylesheet" type="text/css" href="https://statics.huxiu.com/w/mini/static_2015/css/o.css?v=201609210939">    <!--[if lt IE 9]>
+    <script src="https://statics.huxiu.com/w/mini/static_2015/js/respond.min.js?v=201512091410"></script>
+    <script src="https://statics.huxiu.com/w/mini/static_2015/js/html5shiv.min.js?v=201512091410"></script>
+    <![endif]-->
+    <link rel="apple-touch-icon" sizes="76x76" href="https://statics.huxiu.com/w/mini/static_2015/img/apple-touch-icon-76x76.png" />
+    <link rel="apple-touch-icon" sizes="120x120" href="https://statics.huxiu.com/w/mini/static_2015/img/apple-touch-icon-120x120.png" />
+    <link rel="apple-touch-icon" sizes="152x152" href="https://statics.huxiu.com/w/mini/static_2015/img/apple-touch-icon-152x152.png" />
+    <link rel="apple-touch-icon" sizes="180x180" href="https://statics.huxiu.com/w/mini/static_2015/img/apple-touch-icon-180x180.png" />
+    <link rel="icon" href="https://statics.huxiu.com/w/mini/static_2015/img/favicon.ico">
+    <link rel="icon" href="https://statics.huxiu.com/w/mini/static_2015/img/favicon.ico" type="image/x-icon" />
+
+    <script>
+        var uid='0';
+        var is_vip='';
+        var huxiu_hash_code='883775b708750cc7506896c93c0be44e';
+        var aid=180809;
+
+        var itemId = '180809';
+        var signAna = '2bcaeb277a86db97fa810245459c5e32483b3059';
+        var signTime = '1486990302';
+        var productId = '11';
+        var channel = 'huxiu';
+
+        var relatedArticle = '';
+        var url=window.location.href;
+        var str1=new RegExp('rec=man');
+        var str2=new RegExp('rec=sim');
+        if(str1.test(url)){
+            relatedArticle = 'manual';
+        } else if (str2.test(url)) {
+            relatedArticle = 'similar';
+        }
+        
+        var cookiepre='HUXIU_016a_';
+        var _hmt = _hmt || [];
+        _hmt.push(['_setAccount', '324368ef52596457d064ca5db8c6618e']);
+        var isLogin = "noLogin";
+        _hmt.push(['_setCustomVar', 1, 'login', isLogin, 2]);
+    </script>
+
+</head>
+<div class="message-prompt"></div>
+<body>
+<script>
+    function checkinput(){
+        var input = $("#search-input").val();
+        if(input ==  null || input == ''){
+            return false;
+        }
+        return true;
+    }
+</script>
+<div id="login-reg-warp" class="login-reg-warp-modal">
+
+</div>
+<div class="search-box" id="search-box">
+    <i class="icon icon-search-close js-show-search-box"></i>
+
+    <div class="search-content">
+
+        <div class="search-input">
+            <form role="search" method="get" action="/search.html" onsubmit="return checkinput()">
+                <button type="submit"></button>
+                <input placeholder="请输入关键字" name="s" id="search-input">
+                            </form>
+        </div>
+        <div class="search-history hide" id="history">
+            <span>我的搜索历史</span>
+            <ul class="transition" id="history_ul">
+                <li class="transition"><a href="/search.html?s=数码">数码</a></li>
+                <li class="transition"><a href="/search.html?s=科技">科技</a></li>
+                <li class="transition"><a href="/search.html?s=科技">科技</a></li>
+                <li class="transition"><a href="/search.html?s=互联网">互联网</a></li>
+                <li class="transition"><a href="/search.html?s=汽车之家">汽车之家</a></li>
+            </ul>
+            <div class="pull-right empty-history js-empty-history">清空历史</div>
+        </div>
+        <div class="search-history search-hot">
+            <strong>热搜词</strong>
+            <ul>
+                <li class="transition"><a href="/search.html?s=数码">数码</a></li>
+                <li class="transition"><a href="/search.html?s=科技">科技</a></li>
+                <li class="transition"><a href="/search.html?s=互联网">互联网</a></li>
+                <li class="transition"><a href="/search.html?s=汽车之家">汽车之家</a></li>
+                <li class="transition"><a href="/search.html?s=Uber">Uber</a></li>
+                <li class="transition"><a href="/search.html?s=支付宝">支付宝</a></li>
+                <li class="transition"><a href="/search.html?s=大数据">大数据</a></li>
+                <li class="transition"><a href="/search.html?s=创业">创业</a></li>
+                <li class="transition"><a href="/search.html?s=旅游">旅游</a></li>
+                <li class="transition"><a href="/search.html?s=美团">美团</a></li>
+                <li class="transition"><a href="/search.html?s=社交">社交</a></li>
+            </ul>
+        </div>
+    </div>
+</div>
+<!--[if lt IE 9]>
+    <style>
+        .search-box{
+            background-color: #fff !important;
+        }
+        header .header-column{
+            background-color: #fff !important;
+        }
+        header .navbar-right,header .navbar-left{
+            margin-top: -15px;
+        }
+        .icon-search{
+            position: relative;
+            top: 18px;
+        }
+        body{
+            border: none;
+        }
+        .praise-box-add,.icon-like-prompt,.icon-no-like-prompt{
+            display: none;
+        }
+    </style>
+
+<![endif]--><header id="top" role="banner" class="transition">
+    <div class="container">
+        <div class="navbar-header transition">
+            <a href="/" title="首页">
+                <img src="https://statics.huxiu.com/w/mini/static_2015/img/logo.jpg?imageView2/1/w/63/h/50/|imageMogr2/strip/interlace/1/quality/85/format/jpg" alt="虎嗅网" title="首页" />
+            </a>
+        </div>
+        <ul class="nav navbar-nav navbar-left">
+            <li class="nav-news js-show-menu">
+                <ul class="header-column header-column-zx menu-box" onmouseover="isOut=false" onmouseout="isOut=true">
+                    <li><a href="/whatsnew.html" target="_blank" class="transition">24 小时</a></li>
+                    <li><a href="/entertainment.html" target="_blank" class="transition">娱乐淘金</a></li>
+                    <li><a href="/mobility.html" target="_blank" class="transition">车与出行</a></li>
+                    <li><a href="/startups.html" target="_blank" class="transition">创业维艰</a></li>
+                    <li><a href="/lifestyle.html" target="_blank" class="transition">生活腔调</a></li>
+                </ul>
+                <a href="javascript:">资讯 <span class="caret"></span></a>
+            </li>
+            <li class="nav-news"><a href="/topic_list" target="_blank">热议<span class="nums-prompt nums-prompt-topic"></span></a></li>
+            <li class="nav-news"><a href="/active" target="_blank">活动</a></li>
+            <li class="nav-news"><a href="/chuangye" target="_blank">创业白板<span class="nums-prompt"></span></a></li>
+            <li class="nav-news"><a href="/vip" target="_blank">会员专享<em class="nums-prompt"></em></a></li>
+        </ul>
+        <ul class="nav navbar-nav navbar-right transition">
+            <li class="app-guide js-app-guide" >
+                <div class="app-guide-box">
+                    <img src="https://imgs.bipush.com/article/content/201603/25/1448211685.png?|imageMogr2/strip/interlace/1/quality/85/format/jpg">
+                    <div class="app-guide-title">
+                        <span>微信扫一扫</span><br>
+                        <span>下载虎嗅客户端</span>
+                    </div>
+                </div>
+                <i class="icon icon-sm-phone"></i>客户端<em class="guide-prompt"></em>
+            </li>
+            <li class="search-li js-show-search-box"><i class="icon icon-search "></i><span>搜索</span></li>
+                        <li class="login-link-box"><a class="js-login">登录</a></li>
+            <li><a class="js-register">注册</a></li>
+                        <li><a class="js-open-contribute transition" target="_blank">投稿</a></li>
+        </ul>
+    </div>
+</header>
+<div class="placeholder-height"></div><div class="container" id="article">
+    <div class="nrtj-wrap"></div>
+    <input class="hide" id="analyzer-server-url" value="https://analyzer.huxiu.com">
+    <input class="hide" id="related-article-wrap-hide" value="180809" />
+    
+    <div class="wrap-left pull-left" id="log-send-article">
+        <!--文章内容页-->
+        <div class="article-left-btn-group">
+            <ul>
+                <li><a href=""><i class="icon icon-article icon-article-wb js-weibo js-share-article" data-location="article" data-f="pc-weibo-article" aid="180809"></i></a></li>
+                <li class="weixin" data-f="pc-friends-article">
+                    <div class="weixin-Qr-code js-wx-Qr-code"><img src=""></div>
+                    <a class="js-weixin"><i class="icon icon-article icon-article-pyq" ></i></a>
+                </li>
+                <li class="zhifubao" data-f="pc_alipay_article">
+                    <div class="zhifubao-Qr-code js-zhifubao-Qr-code"><img src=""></div>
+                    <a class="js-zhifubao"><i class="icon icon-article icon-article-zfb" ></i></a>
+                </li>
+                <li><a href=""><i class="icon icon-article icon-article-qzone js-qzone js-share-article" data-location="article" data-f="pc-qzone-article" aid="180809"></i></a></li>
+                <li><a class="js-article-pl-anchor"><i class="icon icon-article icon-article-pl">评论</i></a></li>
+                <li><a class="js-collection-article"><i class="icon icon-article icon-article-col">收藏</i></a></li>
+            </ul>
+        </div>
+        <div class="article-wrap" id="related-article-wrap">
+            <h1 class="t-h1">鄙视链无国界，老外因《王者荣耀》是否抄袭《英雄联盟》而撕逼</h1>
+            <div class="article-author">
+                                <a href="/entertainment.html?f=article_column" class="column-link" target="_blank">娱乐淘金</a>
+                                <span class="author-name">
+                                        <a href="/member/256412.html" target="_blank">游戏葡萄</a>
+                                    </span>
+                <i class="icon icon-line"></i>
+                <span class="article-time">2017-02-12 11:13</span>
+                <span class="article-share">收藏13</span>
+                <span class="article-pl">评论18</span>
+            </div>
+
+            <!--管理员按钮-->
+            <div class="article-manage-bar"></div>
+
+                        
+                                    <div class="article-img-box">
+                <img src="https://imgs.bipush.com/article/cover/201702/12/122105196079.jpg?imageView2/1/w/800/h/600/|imageMogr2/strip/interlace/1/quality/85/format/jpg" alt="鄙视链无国界，老外因《王者荣耀》是否抄袭《英雄联盟》而撕逼">
+            </div>
+            
+            <div id="article_content" class="article-content-wrap">
+                                    <p>提起现在最火的MOBA手游，相信大家都能答出《王者荣耀》的名字。去年，《王者荣耀》不仅DAU破了5000万，其职业联赛KPL季后赛观看人数更是突破3.5亿次。作为一款长期占据中国区App Store免费榜前三的游戏，不仅在国内吸引了众多玩家，在国外也引起了媒体和玩家们的讨论，甚至有外国玩家为这款游戏而撕逼。</p><p><br/></p><p label="大标题" class="text-big-title">国外也有《王者荣耀》粉丝了？</p><p><br/></p><p>外媒Tech in Asia曾发表过一篇名为《China’s top mobile game is a complete League of Legends rip off》的文章。文章开头就摆出了自己的观点：中国最火的手游《王者荣耀》涉嫌抄袭《英雄联盟》，并用一张毫无违和感的《王者荣耀》和《英雄联盟》的合成图来佐证自己的观点。</p><p><br/></p><p class="img-center-box"><img src="https://imgs.bipush.com/article/cover/201702/12/110942943128.jpg"/></p><p><br/></p><p>接下来，文章用了大量两款游戏的对比图来论证自己的观点，从游戏界面到中下两路设计、野怪造型位置、回城特效、地图，全部进行对比，并且从细节上论证自己的观点：《王者荣耀》和《英雄联盟》一样，有可以增加移速的野怪；两者美术风格完全一致；小兵，防御塔的形象类似。</p><p><br/></p><p>当然，文章中也提到了《王者荣耀》有自己独创的地方，为了更适配手机操作而做出的设计。比如对于游戏时长的把控。在提出大量论据后，作者进行了总结：虽然现在MOBA游戏有很多共通的元素，比如防御塔，兵线，野区等，但《王者荣耀》与《英雄联盟》过于相似，难逃抄袭的嫌疑。在最后，作者还提出一个疑问，既然拳头都是腾讯的，为什么不用名气更大的《英雄联盟》来做这款产品的名字呢？</p><p><br/></p><p>文章提出了一个国内老生常谈的问题，当葡萄君翻到评论想看看外国友人如何评价的时候，发现评论区里有两个外国友人一言不合就开撕。</p><p><br/></p><p>先是这个ID为Benjamin Eng的外国友人发表了自己的看法：</p><p><br/></p><blockquote><p>“很奇怪，腾讯为啥不做LOL的移动版，反倒是做了个换汤不换药的新游戏？</p></blockquote><p><br/></p><p>文章作者也给出了自己的猜测：</p><p><br/></p><blockquote><p>“尽管Riot已经被腾讯买下了，但Riot仍然是《英雄联盟》这个IP的拥有者，它仍能决定这个IP怎么用，如何用。也可能是Riot已经在做LOL的手游移植了，只不过他们的速度...你懂得，看看版本更新你就知道了。而腾讯迫不及待想要发布一款MOBA手游，它等不及了。我甚至能想到腾讯打的小算盘：“操，LOL手游怎么还没做好。先做个类似的，随便改个名字上线算了。”</p></blockquote><p><br/></p><p class="img-center-box"><img src="https://imgs.bipush.com/article/cover/201702/12/110942862383.jpg"/></p><p><br/></p><p>接下来，撕逼的主角出现了，ID为Edward Sung的用户发表了如下评论，接着作者和这个评论的大兄弟就撕起来了：</p><p><br/></p><blockquote><p>“你这个标题党，哥来给你讲讲这俩游戏到底啥关系：</p><p><br/></p><ol class=" list-paddingleft-2" style="list-style-type: decimal;"><li><p>与其他优秀的母公司一样，腾讯可能赋予了Riot充分的自主运行权。这对两家公司都有好处。<br/><br/></p></li><li><p>如果你玩过《英雄联盟》，你会发现《英雄联盟》的一些设定不适合移动游戏，PC和移动游戏之间有非常根本的区别。你认为每场比赛时间超过50分钟的游戏会是一款好手游？移动端游戏和PC端比有不同的设计，想法，不像你想的那么容易。</p></li></ol><p><br/></p><p>这两款游戏界面很像，这点不置可否，但现在许多游戏的界面看起来都差不多。现在在市场上，还有很多类似与《英雄联盟》类似的游戏，他们甚至不是腾讯做的。这难道不是抄袭吗？</p><p><br/></p><p>作者大兄弟，你明白现在手游市场有多激烈嘛？不是每个公司都能承担失败的风险的。<br/><br/></p><p>重申，我没有反对你文章的意思。但标题里的rip off，感情色彩太强烈了。你在文章里也提到了，Riot就是腾讯的，并不存在侵犯知识产权的问题。腾讯想把LOL的设定用到《王者荣耀》上，也没什么问题。可能你只是想以标题为噱头吸引我，换取一个点击罢了，很遗憾，这篇文章，我看了觉得没啥意义。”</p></blockquote><p><br/></p><p class="img-center-box"><img src="https://imgs.bipush.com/article/cover/201702/12/111048213541.jpeg"/></p><p><br/></p><p>作者看到这个评论不淡定了，立刻反驳：</p><p><br/></p><blockquote><p>“兄弟，我根本不是标题党，好吧？来来来，看看字典上rip-off是怎么解释的：抄袭、模仿。《王者荣耀》抄袭LOL，这没问题吧？没错，《王者荣耀》是由LOL的公司制作的，但这并不妨碍它抄袭的事实吧？</p><p><br/>手机游戏必然操作更简单，耗时更短。但这是《王者荣耀》和LOL唯一的区别。操作简单，缩短游戏时间，要达成这两点，只需要在LOL的基础上做减法，我不认为这让两款游戏产生实质上的区别。这就好比我抄袭了一本200页厚的书的其中100页，难道你就能说这不叫抄袭了？</p><p><br/>因为所有MOBA游戏看起来都差不多，所以我就可以明目张胆完全抄袭？拜托，老哥，这根本就不是“差不多”了，LOL和DOTA那叫差不多，《王者荣耀》完全就是把LOL的美术风格和相同的设计搬运到了移动端吧？”</p></blockquote><p><br/></p><p class="img-center-box"><img src="https://imgs.bipush.com/article/cover/201702/12/111029050576.jpg"/></p><p><br/></p><p>随后双方又进行了一番交战，双方各执一词，从rip-off的字面含义到标题是否恰当，从MOBA游戏发展史扯到游戏设计。双方运用查字典，举例子，吹牛等多种方式论证自己的论点，后面甚至发展到人身攻击，Edward Sung认为作者根本没玩过游戏，作者则称自己在TiA工作了六年。就这样你一言我一语，两个外国老哥可能是累了，以一句算了吧结束了争论。没多久，另一个外国友人在评论下面发表了自己对于这件事的看法。</p><p><br/></p><p class="img-center-box"><img src="https://imgs.bipush.com/article/cover/201702/12/110942830365.jpg"/></p><p><br/></p><p>葡萄君在Reddit和Twitter上，也看到了关于《王者荣耀》是否抄袭LOL的争论。持肯定态度的玩家摆出一副“我看不起这个游戏”的态度不断提出论据来论证自己观点。</p><p><br/></p><p label="大标题" class="text-big-title">电竞玩家鄙视链已经形成</p><p><br/></p><p>实际上，撇开《王者荣耀》是否抄袭LOL不谈，这句话很容易让人想起“LOL不是抄袭DOTA”吗？一款游戏与另一款游戏类似，“抄袭者”很容易引起“被抄袭者”反感。很多情况下，光是提起“我是玩《王者荣耀》的，在许多人看来，就比”我是玩LOL的“要low很多。在不久以前，玩DOTA的玩家是看不起玩LOL的玩家的。再往前回顾，星际争霸＞魔兽争霸＞DOTA（DOTA2）＞LOL。从左到右形成了一个完整的游戏玩家鄙视链。</p><p><br/></p><p class="img-center-box"><img src="https://imgs.bipush.com/article/cover/201702/12/110942849709.jpg"/></p><p><br/></p><p>如今，《王者荣耀》、《皇室战争》、《球球大作战》等移动电竞项目已经加入到电竞鄙视链豪华套餐里了。拿MOBA游戏玩家举例，DOTA、DOTA2玩家依然看不起LOL玩家，以往LOL玩家只是做一些辩解：LOL没有抄袭DOTA，只是原班人马来做，并不存在抄袭。你看，XXX（具体的内容）就和DOTA不一样啊。</p><p><br/></p><p>而现在，LOL玩家们也有了嘲笑对象 ——《王者荣耀》玩家。他们嘲讽的理由也很简单粗暴：“操作这么简单，找个青铜玩家都随便吊打你们”、“都是小学生在玩啊，垃圾游戏”、“技能抄我LOL，玩法抄我LOL，《王者荣耀》一个抄袭游戏，你们玩的还挺开心”、“这个貂蝉不就是LOL里的阿狸么”。他们在冷嘲热讽的过程中，充满了优越感。但是他们在嘲讽《王者荣耀》的同时，忘记了当时被DOTA玩家嘲讽的场景。“LOL玩法和DOTA一样啊，不就是抄袭么”、“梦魇不就是UG么”、“都是小学生在玩啊，垃圾游戏”。</p><p><br/></p><p>心理学上有种说法是：炫耀的东西往往是自己缺少的东西。放到电竞鄙视链里或许可以这样解释：每个游戏玩家似乎都被另一个游戏的玩家无情嘲讽过，他们极力想要证明自己的游戏是最好的，并不像鄙视他们的人所说的那样差，因此通过贬低别的游戏，抬高自己所玩游戏身价的方式来证明：还有比我更差的。在《王者荣耀》没上线前，部分LOL玩家曾提出《炉石传说》这种随机性为主的运气游戏也能称为电竞的疑问。</p><p><br/></p><p>但是，如果《王者荣耀》没有现在这样火热，或许也就不会有这么大规模的嘲讽行为。当时LOL大火，DOTA玩家们才开始大规模鄙视LOL玩家。纵观整个游戏鄙视链发展史，似乎都是如此，一款同类新游戏火爆起来，老游戏玩家便看不起新游戏玩家，相互鄙视，形成鄙视链。在DOTA玩家鄙视LOL的同时，LOL成为了一款伟大的MOBA游戏。在LOL玩家鄙视《王者荣耀》的同时，《王者荣耀》也成为了一款火爆的移动端MOBA游戏。</p><p><br/></p><p>从《星际争霸》，到《魔兽争霸》，再到DOTA，LOL，《王者荣耀》，我们不难看出，游戏变得越来越不硬核了。游戏上手难度变得越来越低，这可能也是游戏鄙视链形成的原因之一。“你玩的游戏太简单了，有什么好玩的？”这句话可能是鄙视链的源头所在。</p><p><br/></p><p label="大标题" class="text-big-title">结语</p><p><br/></p><p>在推特上，葡萄君看到了这样两篇推文。</p><p><br/></p><p class="img-center-box"><img src="https://imgs.bipush.com/article/cover/201702/12/111113058850.jpg"/></p><p><br/></p><p>ID为Soken的网友提出了DOTA2、LOL都开始抄袭风暴英雄的说法。Adel则称DOTA抄袭LOL让他很失望。显然，这是在说DOTA2版本更新后天赋树的问题。</p><p><br/></p><p>事实上，现在各个MOBA游戏各有所长，而取长补短显然更有利于游戏的发展。这也就很好地解释了《王者荣耀》到底有没有抄袭LOL的问题。《王者荣耀》作为一款移动游戏，与PC端的LOL相比，不仅界面UI需要作出调整，游戏内的装备，地图设计，玩法设计都与LOL有所不同。这不仅仅是单纯地做减法问题。</p><p><br/></p><p>让一个DOTA玩家去玩LOL，可能一段时间后，他会觉得LOL也是一款好游戏。让一个LOL玩家去玩《王者荣耀》，一段时间后他可能也会沉迷其中无法自拔。鄙视链形成的重要原因之一是玩家们想当然地认为那款游戏抄袭，那款游戏很烂，而没有亲自去尝试。鄙视链并不代表着某款游戏真的差，只是大部分游戏玩家不愿意尝试那款他们意识中的“抄袭游戏”罢了。</p><p><br/></p><p>题图来自 |&nbsp;<a href="https://www.thestar.com/life/2013/08/08/divorced_older_boyfriend_not_interested_in_marriage.html" target="_blank">The Toronto Star</a></p>                
+                                                    <!--作者认证-->
+                    <div class="neirong-shouquan">
+                        <span class="c2">*文章为作者独立观点，不代表虎嗅网立场<br></span>
+                                                    <span>本文由 <a href="/member/256412.html" target="_blank">游戏葡萄</a> 授权 <a
+                                    href="/">虎嗅网</a> 发表，并经虎嗅网编辑。转载此文章须经作者同意，并请附上出处(<a href="/">虎嗅网</a>)及本页链接。原文链接https://www.huxiu.com/article/180809.html<br></span>
+                                            </div>
+                    <div class="neirong-shouquan-public">
+                        <span>关注微信公众号虎嗅网（huxiu_com），定时推送，福利互动精彩多</span>
+                                            </div>
+                            </div>
+
+
+
+
+            
+                        <div class="Qr-code">
+                <div class="praise-box transition js-like-article center-box " data-type="like">
+                    <div class="praise-box-add"><i class="icon icon-article-zan-add"></i><span>+1</span></div>
+                    <i class="icon icon-article-zan"></i><span class="num">6</span>
+                </div>
+                            </div>
+
+                        <div class="tag-box ">
+                <ul class="transition">
+                                                                                    <a href="/tags/57.html" target="_blank"><li class="transition">腾讯</li></a>
+                                                                                    <a href="/tags/256.html" target="_blank"><li class="transition">游戏</li></a>
+                                                                                    <a href="/tags/3553.html" target="_blank"><li class="transition">玩家</li></a>
+                                                                                    <a href="/tags/10330.html" target="_blank"><li class="transition">英雄联盟</li></a>
+                                                                                    <a href="/tags/357.html" target="_blank"><li class="transition">投稿</li></a>
+                                    </ul>
+            </div>
+            
+                            <div class="feed-box-ad article-box-ad"><script src="https://dup.baidustatic.com/js/ds.js"></script>
+<script>
+(function() {
+    var s = "_" + Math.random().toString(36).slice(2);
+    document.write('<div id="' + s + '"></div>');
+    (window.slotbydup=window.slotbydup || []).push({
+        id: '1134728',
+        container: s,
+        size: '710,80',
+        display: 'inlay-fix'
+    });
+})();
+</script></div>
+            
+            <!--公共评论-->
+            <div class="pl-wrap" id="pl-wrap-article" name="pl-wrap-article">
+                <div class="pl-form-wrap">
+                    <span class="span-mark-author active">发表评论</span>
+                                        <div class="pl-form-box pl-article-wrap">
+                        <div class="no-login-box ">
+                            <a class="js-login">登录</a>后参与评论
+                        </div>
+                        <textarea class="form-control hide" id="saytext" name="saytext" placeholder="客官，8个字起评，不讲价哟"></textarea>
+                        <button class="btn btn-article js-login transition ">发表</button>
+                    </div>
+                </div>
+                                <div id="pl-wrap" name="pl-wrap"></div>
+                <div class="pl-list-wrap">
+                    <div class="pl-loading hide">
+                        <img src="/static_2015/img/pl-loading.gif">
+                      </div>
+                    <a href="javascript:void(0)" class="span-mark-author active js-default-new-pl" data-type="agree">默认评论</a>
+                    <i class="icon icon-line-pl"></i>
+                    <a href="javascript:void(0)" class="span-mark-author new js-default-new-pl" data-type="dateline">最新评论</a>
+                        <div class="pl-box-wrap  " data-pid="617584" id="g_pid617584">
+                <div class="pl-box-top">
+            <div class="dropdown pull-right">
+                <button class="btn btn-default dropdown-toggle" type="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true">
+                    <span class="caret"></span>
+                </button>
+                <ul class="dropdown-menu" aria-labelledby="dropdownMenu1">
+                                                                                                    <li class="pl-report js-report-pl" aid="180809" pid="617584">举报</li>
+                </ul>
+            </div>
+            <div class="author-info">
+                <div class="author-face"><img src="https://imgs.bipush.com/auth/data/avatar/001/57/89/96_1485047005.jpg!150x150?|imageMogr2/strip/interlace/1/quality/85/format/jpg"></div>
+                <span class="author-name">
+                    <a href="/member/1578996.html">Eternal_Spring</a>
+                    <a href="/vip" target="_blank"></a>
+                </span>
+                <span class="time">1天前</span>
+            </div>
+            <div class="pl-content">抄袭多俗啊，说是继承，人家可能就认了，哈哈\(^o^)/</div>
+                    </div>
+        <div class="pl-box-btm">
+            <div class="article-type pull-right">
+                <div class="icon-like-prompt">
+                    <i class="icon icon-like active"></i><span class="c1">+1</span>
+                </div>
+                <div class="icon-no-like-prompt">
+                    <i class="icon icon-no-like active"></i><span class="c1">+1</span>
+                </div>
+                <ul>
+                    <li class="js-icon-like" data-type="like"><i class="icon icon-like "></i><span class="like">9</span></li>
+                    <li class="js-no-icon-like" data-type="no-like"><i class="icon icon-no-like "></i><span class="like">0</span></li>
+                </ul>
+            </div>
+            <div class="btn-dp transition js-add-dp-box"><i class="icon icon-dp"></i>我要点评</div>
+            <div class="pl-form-box dp-article-box">
+                <textarea class="form-control" placeholder="客官，8个字起评，不讲价哟"></textarea>
+                <button class="btn btn-article js-article-dp">发表</button>
+            </div>
+        </div>
+    </div>
+    <div class="pl-box-wrap  " data-pid="617692" id="g_pid617692">
+                <div class="pl-box-top">
+            <div class="dropdown pull-right">
+                <button class="btn btn-default dropdown-toggle" type="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true">
+                    <span class="caret"></span>
+                </button>
+                <ul class="dropdown-menu" aria-labelledby="dropdownMenu1">
+                                                                                                    <li class="pl-report js-report-pl" aid="180809" pid="617692">举报</li>
+                </ul>
+            </div>
+            <div class="author-info">
+                <div class="author-face"><img src="https://imgs.bipush.com/auth/data/avatar/1.jpg!150x150?|imageMogr2/strip/interlace/1/quality/85/format/jpg"></div>
+                <span class="author-name">
+                    <a href="/member/1514254.html">AydaJean</a>
+                    <a href="/vip" target="_blank"></a>
+                </span>
+                <span class="time">11小时前</span>
+            </div>
+            <div class="pl-content">LOL金币买完全英雄所花的时间明显比王者荣耀不花钱买全英雄的时间短很多而且平衡性就比王者荣耀好</div>
+                            <div class="dp-box">
+                    <span class="span-mark-author">点评</span>
+
+                                                                                    <span class="span-mark-article-pl js-show-hide-dp-box" data-show="false">展开</span>
+                                                                            <div class="dl-user dl-user-list js-show-hide-dp-box " data-type="dl-user" style="display:block">
+                            <ul>
+                                                                    <li class="del-pl98795">
+                                        <a href="/member/1589027.html" target="_blank">
+                                            <img src="https://imgs.bipush.com/auth/data/avatar/001/58/90/27_1486975095.jpg!150x150?|imageMogr2/strip/interlace/1/quality/85/format/jpg">
+                                        </a>
+                                                                                    <span class="icon-s"></span>
+                                                                            </li>
+                                                                    <li class="del-pl98772">
+                                        <a href="/member/1586672.html" target="_blank">
+                                            <img src="https://imgs.bipush.com/auth/data/avatar/001/58/66/72_1486543104.jpg!150x150?|imageMogr2/strip/interlace/1/quality/85/format/jpg">
+                                        </a>
+                                                                                    <span class="icon-s"></span>
+                                                                            </li>
+                                                                    <li class="del-pl98723">
+                                        <a href="/member/1588799.html" target="_blank">
+                                            <img src="https://imgs.bipush.com/auth/data/avatar/001/58/87/99_1486953868.jpg!150x150?|imageMogr2/strip/interlace/1/quality/85/format/jpg">
+                                        </a>
+                                                                                    <span class="icon-s"></span>
+                                                                            </li>
+                                                            </ul>
+                                                    </div>
+                        <div class="dp-list-box" style="display:none">
+                                                            <div class="dl-user del-pl98795">
+                                    <ul>
+                                        <li><a href="/member/1589027.html" target="_blank"><img src="https://imgs.bipush.com/auth/data/avatar/001/58/90/27_1486975095.jpg!150x150?|imageMogr2/strip/interlace/1/quality/85/format/jpg"></a></li>
+                                    </ul>
+                                    <div class="one-pl-content">
+                                        <div class="pull-right time">4小时前</div>
+                                        <p class="content">
+                                            <span class="name">◇◆汐瑾 (￣▽￣)σ神〆</span>
+                                            <a href="/vip" target="_blank"></a>&nbsp;&nbsp;
+                                            :<span class="author-content">回复 <a href="https://www.huxiu.com/member/1588799.html" target="_blank">@cck</a> ：我不花RMB王者荣耀英雄也买的差不多了。。。</span>
+                                        </p>
+                                        <div class="js-hf-article-pl"><span>回复</span></div>
+                                                                                <div class="hu-pl-box">
+                                            <textarea class="form-control" placeholder="客官，8个字起评，不讲价哟"></textarea>
+                                            <button class="btn btn-article js-article-dp" data-type="hf">发表</button>
+                                        </div>
+                                    </div>
+                                </div>
+                                                            <div class="dl-user del-pl98772">
+                                    <ul>
+                                        <li><a href="/member/1586672.html" target="_blank"><img src="https://imgs.bipush.com/auth/data/avatar/001/58/66/72_1486543104.jpg!150x150?|imageMogr2/strip/interlace/1/quality/85/format/jpg"></a></li>
+                                    </ul>
+                                    <div class="one-pl-content">
+                                        <div class="pull-right time">6小时前</div>
+                                        <p class="content">
+                                            <span class="name">沧海一笑123</span>
+                                            <a href="/vip" target="_blank"></a>&nbsp;&nbsp;
+                                            :<span class="author-content">回复 <a href="https://www.huxiu.com/member/1588799.html" target="_blank">@cck</a> ：花人民币也不是想有就有的</span>
+                                        </p>
+                                        <div class="js-hf-article-pl"><span>回复</span></div>
+                                                                                <div class="hu-pl-box">
+                                            <textarea class="form-control" placeholder="客官，8个字起评，不讲价哟"></textarea>
+                                            <button class="btn btn-article js-article-dp" data-type="hf">发表</button>
+                                        </div>
+                                    </div>
+                                </div>
+                                                            <div class="dl-user del-pl98723">
+                                    <ul>
+                                        <li><a href="/member/1588799.html" target="_blank"><img src="https://imgs.bipush.com/auth/data/avatar/001/58/87/99_1486953868.jpg!150x150?|imageMogr2/strip/interlace/1/quality/85/format/jpg"></a></li>
+                                    </ul>
+                                    <div class="one-pl-content">
+                                        <div class="pull-right time">10小时前</div>
+                                        <p class="content">
+                                            <span class="name">cck</span>
+                                            <a href="/vip" target="_blank"></a>&nbsp;&nbsp;
+                                            :<span class="author-content">亡者农药不花RMB是买不全英雄的</span>
+                                        </p>
+                                        <div class="js-hf-article-pl"><span>回复</span></div>
+                                                                                <div class="hu-pl-box">
+                                            <textarea class="form-control" placeholder="客官，8个字起评，不讲价哟"></textarea>
+                                            <button class="btn btn-article js-article-dp" data-type="hf">发表</button>
+                                        </div>
+                                    </div>
+                                </div>
+                                                        <div class="close-dp-list-box js-show-hide-dp-box" data-buttom="true">收起</div>
+                        </div>
+
+                </div>
+                    </div>
+        <div class="pl-box-btm">
+            <div class="article-type pull-right">
+                <div class="icon-like-prompt">
+                    <i class="icon icon-like active"></i><span class="c1">+1</span>
+                </div>
+                <div class="icon-no-like-prompt">
+                    <i class="icon icon-no-like active"></i><span class="c1">+1</span>
+                </div>
+                <ul>
+                    <li class="js-icon-like" data-type="like"><i class="icon icon-like "></i><span class="like">0</span></li>
+                    <li class="js-no-icon-like" data-type="no-like"><i class="icon icon-no-like "></i><span class="like">0</span></li>
+                </ul>
+            </div>
+            <div class="btn-dp transition js-add-dp-box"><i class="icon icon-dp"></i>我要点评</div>
+            <div class="pl-form-box dp-article-box">
+                <textarea class="form-control" placeholder="客官，8个字起评，不讲价哟"></textarea>
+                <button class="btn btn-article js-article-dp">发表</button>
+            </div>
+        </div>
+    </div>
+    <div class="pl-box-wrap  " data-pid="617729" id="g_pid617729">
+                <div class="pl-box-top">
+            <div class="dropdown pull-right">
+                <button class="btn btn-default dropdown-toggle" type="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true">
+                    <span class="caret"></span>
+                </button>
+                <ul class="dropdown-menu" aria-labelledby="dropdownMenu1">
+                                                                                                    <li class="pl-report js-report-pl" aid="180809" pid="617729">举报</li>
+                </ul>
+            </div>
+            <div class="author-info">
+                <div class="author-face"><img src="https://imgs.bipush.com/auth/data/avatar/001/58/88/03_1486954288.jpg!150x150?|imageMogr2/strip/interlace/1/quality/85/format/jpg"></div>
+                <span class="author-name">
+                    <a href="/member/1588803.html">山有木兮木有枝゜??  ?</a>
+                    <a href="/vip" target="_blank"></a>
+                </span>
+                <span class="time">9小时前</span>
+            </div>
+            <div class="pl-content">操作这么简单，找个青铜玩家都随便吊打你们</div>
+                            <div class="dp-box">
+                    <span class="span-mark-author">点评</span>
+
+                                                                                    <span class="span-mark-article-pl js-show-hide-dp-box" data-show="false">展开</span>
+                                                                            <div class="dl-user dl-user-list js-show-hide-dp-box " data-type="dl-user" style="display:block">
+                            <ul>
+                                                                    <li class="del-pl98806">
+                                        <a href="/member/1589107.html" target="_blank">
+                                            <img src="https://imgs.bipush.com/auth/data/avatar/001/58/91/07_1486982903.jpg!150x150?|imageMogr2/strip/interlace/1/quality/85/format/jpg">
+                                        </a>
+                                                                                    <span class="icon-s"></span>
+                                                                            </li>
+                                                                    <li class="del-pl98760">
+                                        <a href="/member/1588900.html" target="_blank">
+                                            <img src="https://imgs.bipush.com/auth/data/avatar/001/58/89/00_1486963979.jpg!150x150?|imageMogr2/strip/interlace/1/quality/85/format/jpg">
+                                        </a>
+                                                                                    <span class="icon-s"></span>
+                                                                            </li>
+                                                            </ul>
+                                                    </div>
+                        <div class="dp-list-box" style="display:none">
+                                                            <div class="dl-user del-pl98806">
+                                    <ul>
+                                        <li><a href="/member/1589107.html" target="_blank"><img src="https://imgs.bipush.com/auth/data/avatar/001/58/91/07_1486982903.jpg!150x150?|imageMogr2/strip/interlace/1/quality/85/format/jpg"></a></li>
+                                    </ul>
+                                    <div class="one-pl-content">
+                                        <div class="pull-right time">2小时前</div>
+                                        <p class="content">
+                                            <span class="name">忘川丨沫</span>
+                                            <a href="/vip" target="_blank"></a>&nbsp;&nbsp;
+                                            :<span class="author-content">智障，知道看小地图知道支援就比王者荣耀玩家强，SOLO几把打赢了就以为自己上天了？团队意识的存在就能让LOL玩家5V5胜率明显高于你们这群垃圾。我表哥LOL黄金到王者去他上了最强王者。我这个LOL钻石真的就是瞧不起你们，垃圾，有问题？还不是吊打你们？</span>
+                                        </p>
+                                        <div class="js-hf-article-pl"><span>回复</span></div>
+                                                                                <div class="hu-pl-box">
+                                            <textarea class="form-control" placeholder="客官，8个字起评，不讲价哟"></textarea>
+                                            <button class="btn btn-article js-article-dp" data-type="hf">发表</button>
+                                        </div>
+                                    </div>
+                                </div>
+                                                            <div class="dl-user del-pl98760">
+                                    <ul>
+                                        <li><a href="/member/1588900.html" target="_blank"><img src="https://imgs.bipush.com/auth/data/avatar/001/58/89/00_1486963979.jpg!150x150?|imageMogr2/strip/interlace/1/quality/85/format/jpg"></a></li>
+                                    </ul>
+                                    <div class="one-pl-content">
+                                        <div class="pull-right time">7小时前</div>
+                                        <p class="content">
+                                            <span class="name">雪菡小宝贝</span>
+                                            <a href="/vip" target="_blank"></a>&nbsp;&nbsp;
+                                            :<span class="author-content">身为一个纯王者荣耀玩家，已经无数次打脸说出这句话的人。lol到王者荣耀里，除了他们知道看看小地图和支援的意识外，其他的都不一样</span>
+                                        </p>
+                                        <div class="js-hf-article-pl"><span>回复</span></div>
+                                                                                <div class="hu-pl-box">
+                                            <textarea class="form-control" placeholder="客官，8个字起评，不讲价哟"></textarea>
+                                            <button class="btn btn-article js-article-dp" data-type="hf">发表</button>
+                                        </div>
+                                    </div>
+                                </div>
+                                                        <div class="close-dp-list-box js-show-hide-dp-box" data-buttom="true">收起</div>
+                        </div>
+
+                </div>
+                    </div>
+        <div class="pl-box-btm">
+            <div class="article-type pull-right">
+                <div class="icon-like-prompt">
+                    <i class="icon icon-like active"></i><span class="c1">+1</span>
+                </div>
+                <div class="icon-no-like-prompt">
+                    <i class="icon icon-no-like active"></i><span class="c1">+1</span>
+                </div>
+                <ul>
+                    <li class="js-icon-like" data-type="like"><i class="icon icon-like "></i><span class="like">1</span></li>
+                    <li class="js-no-icon-like" data-type="no-like"><i class="icon icon-no-like "></i><span class="like">2</span></li>
+                </ul>
+            </div>
+            <div class="btn-dp transition js-add-dp-box"><i class="icon icon-dp"></i>我要点评</div>
+            <div class="pl-form-box dp-article-box">
+                <textarea class="form-control" placeholder="客官，8个字起评，不讲价哟"></textarea>
+                <button class="btn btn-article js-article-dp">发表</button>
+            </div>
+        </div>
+    </div>
+    <div class="pl-box-wrap  " data-pid="617746" id="g_pid617746">
+                <div class="pl-box-top">
+            <div class="dropdown pull-right">
+                <button class="btn btn-default dropdown-toggle" type="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true">
+                    <span class="caret"></span>
+                </button>
+                <ul class="dropdown-menu" aria-labelledby="dropdownMenu1">
+                                                                                                    <li class="pl-report js-report-pl" aid="180809" pid="617746">举报</li>
+                </ul>
+            </div>
+            <div class="author-info">
+                <div class="author-face"><img src="https://imgs.bipush.com/auth/data/avatar/001/58/88/34_1486956430.jpg!150x150?|imageMogr2/strip/interlace/1/quality/85/format/jpg"></div>
+                <span class="author-name">
+                    <a href="/member/1588834.html">姑涼我是妳的。</a>
+                    <a href="/vip" target="_blank"></a>
+                </span>
+                <span class="time">9小时前</span>
+            </div>
+            <div class="pl-content">马化腾尴尬一笑，不抄袭我们吃什么</div>
+                            <div class="dp-box">
+                    <span class="span-mark-author">点评</span>
+
+                                                                                    <span class="span-mark-article-pl js-show-hide-dp-box" data-show="false">展开</span>
+                                                                            <div class="dl-user dl-user-list js-show-hide-dp-box " data-type="dl-user" style="display:block">
+                            <ul>
+                                                                    <li class="del-pl98773">
+                                        <a href="/member/1588927.html" target="_blank">
+                                            <img src="https://imgs.bipush.com/auth/data/avatar/001/58/89/27_1486966735.jpg!150x150?|imageMogr2/strip/interlace/1/quality/85/format/jpg">
+                                        </a>
+                                                                                    <span class="icon-s"></span>
+                                                                            </li>
+                                                                    <li class="del-pl98739">
+                                        <a href="/member/1588846.html" target="_blank">
+                                            <img src="https://imgs.bipush.com/auth/data/avatar/001/58/88/46_1486957306.jpg!150x150?|imageMogr2/strip/interlace/1/quality/85/format/jpg">
+                                        </a>
+                                                                                    <span class="icon-s"></span>
+                                                                            </li>
+                                                            </ul>
+                                                    </div>
+                        <div class="dp-list-box" style="display:none">
+                                                            <div class="dl-user del-pl98773">
+                                    <ul>
+                                        <li><a href="/member/1588927.html" target="_blank"><img src="https://imgs.bipush.com/auth/data/avatar/001/58/89/27_1486966735.jpg!150x150?|imageMogr2/strip/interlace/1/quality/85/format/jpg"></a></li>
+                                    </ul>
+                                    <div class="one-pl-content">
+                                        <div class="pull-right time">6小时前</div>
+                                        <p class="content">
+                                            <span class="name">参星321321321</span>
+                                            <a href="/vip" target="_blank"></a>&nbsp;&nbsp;
+                                            :<span class="author-content">回复 <a href="https://www.huxiu.com/member/1588846.html" target="_blank">@☆足球小将☆</a> ：腾讯哪个不是抄的 我还没发现</span>
+                                        </p>
+                                        <div class="js-hf-article-pl"><span>回复</span></div>
+                                                                                <div class="hu-pl-box">
+                                            <textarea class="form-control" placeholder="客官，8个字起评，不讲价哟"></textarea>
+                                            <button class="btn btn-article js-article-dp" data-type="hf">发表</button>
+                                        </div>
+                                    </div>
+                                </div>
+                                                            <div class="dl-user del-pl98739">
+                                    <ul>
+                                        <li><a href="/member/1588846.html" target="_blank"><img src="https://imgs.bipush.com/auth/data/avatar/001/58/88/46_1486957306.jpg!150x150?|imageMogr2/strip/interlace/1/quality/85/format/jpg"></a></li>
+                                    </ul>
+                                    <div class="one-pl-content">
+                                        <div class="pull-right time">9小时前</div>
+                                        <p class="content">
+                                            <span class="name">☆足球小将☆</span>
+                                            <a href="/vip" target="_blank"></a>&nbsp;&nbsp;
+                                            :<span class="author-content">反正都是腾讯的，有什么抄袭</span>
+                                        </p>
+                                        <div class="js-hf-article-pl"><span>回复</span></div>
+                                                                                <div class="hu-pl-box">
+                                            <textarea class="form-control" placeholder="客官，8个字起评，不讲价哟"></textarea>
+                                            <button class="btn btn-article js-article-dp" data-type="hf">发表</button>
+                                        </div>
+                                    </div>
+                                </div>
+                                                        <div class="close-dp-list-box js-show-hide-dp-box" data-buttom="true">收起</div>
+                        </div>
+
+                </div>
+                    </div>
+        <div class="pl-box-btm">
+            <div class="article-type pull-right">
+                <div class="icon-like-prompt">
+                    <i class="icon icon-like active"></i><span class="c1">+1</span>
+                </div>
+                <div class="icon-no-like-prompt">
+                    <i class="icon icon-no-like active"></i><span class="c1">+1</span>
+                </div>
+                <ul>
+                    <li class="js-icon-like" data-type="like"><i class="icon icon-like "></i><span class="like">0</span></li>
+                    <li class="js-no-icon-like" data-type="no-like"><i class="icon icon-no-like "></i><span class="like">0</span></li>
+                </ul>
+            </div>
+            <div class="btn-dp transition js-add-dp-box"><i class="icon icon-dp"></i>我要点评</div>
+            <div class="pl-form-box dp-article-box">
+                <textarea class="form-control" placeholder="客官，8个字起评，不讲价哟"></textarea>
+                <button class="btn btn-article js-article-dp">发表</button>
+            </div>
+        </div>
+    </div>
+    <div class="pl-box-wrap  " data-pid="617684" id="g_pid617684">
+                <div class="pl-box-top">
+            <div class="dropdown pull-right">
+                <button class="btn btn-default dropdown-toggle" type="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true">
+                    <span class="caret"></span>
+                </button>
+                <ul class="dropdown-menu" aria-labelledby="dropdownMenu1">
+                                                                                                    <li class="pl-report js-report-pl" aid="180809" pid="617684">举报</li>
+                </ul>
+            </div>
+            <div class="author-info">
+                <div class="author-face"><img src="https://imgs.bipush.com/auth/data/avatar/001/58/87/46_1486948440.jpg!150x150?|imageMogr2/strip/interlace/1/quality/85/format/jpg"></div>
+                <span class="author-name">
+                    <a href="/member/1588746.html">Ｘ.MAN</a>
+                    <a href="/vip" target="_blank"></a>
+                </span>
+                <span class="time">11小时前</span>
+            </div>
+            <div class="pl-content">只玩虚荣的路过= =</div>
+                            <div class="dp-box">
+                    <span class="span-mark-author">点评</span>
+
+                                                <div class="dl-user dl-user-list  " data-type="dl-user" style="display:block">
+                            <ul>
+                                                                    <li class="del-pl98738">
+                                        <a href="/member/1587108.html" target="_blank">
+                                            <img src="https://imgs.bipush.com/auth/data/avatar/001/58/71/08_1486611520.jpg!150x150?|imageMogr2/strip/interlace/1/quality/85/format/jpg">
+                                        </a>
+                                                                            </li>
+                                                            </ul>
+                                                            <!--只有一条点评时显示-->
+                                <div class="one-pl-content one-pl-content-box">
+                                    <div class="pull-right time">9小时前</div>
+
+                                    <p class="content">
+                                        <span class="name">小透眀。?</span>
+                                        <a href="/vip" target="_blank"></a>&nbsp;&nbsp;
+                                        :<span class="author-content">虚荣就是败在了操作太复杂，画面、特效爆农药好几天街</span>
+                                    </p>
+                                    <div class="js-hf-article-pl"><span>回复</span></div>
+                                                                        <div class="hu-pl-box">
+                                        <textarea class="form-control" placeholder="客官，8个字起评，不讲价哟"></textarea>
+                                        <button class="btn btn-article js-article-dp" data-type="hf">发表</button>
+                                    </div>
+                                </div>
+                                                    </div>
+                        <div class="dp-list-box" style="display:none">
+                                                            <div class="dl-user del-pl98738">
+                                    <ul>
+                                        <li><a href="/member/1587108.html" target="_blank"><img src="https://imgs.bipush.com/auth/data/avatar/001/58/71/08_1486611520.jpg!150x150?|imageMogr2/strip/interlace/1/quality/85/format/jpg"></a></li>
+                                    </ul>
+                                    <div class="one-pl-content">
+                                        <div class="pull-right time">9小时前</div>
+                                        <p class="content">
+                                            <span class="name">小透眀。?</span>
+                                            <a href="/vip" target="_blank"></a>&nbsp;&nbsp;
+                                            :<span class="author-content">虚荣就是败在了操作太复杂，画面、特效爆农药好几天街</span>
+                                        </p>
+                                        <div class="js-hf-article-pl"><span>回复</span></div>
+                                                                                <div class="hu-pl-box">
+                                            <textarea class="form-control" placeholder="客官，8个字起评，不讲价哟"></textarea>
+                                            <button class="btn btn-article js-article-dp" data-type="hf">发表</button>
+                                        </div>
+                                    </div>
+                                </div>
+                                                        <div class="close-dp-list-box js-show-hide-dp-box" data-buttom="true">收起</div>
+                        </div>
+
+                </div>
+                    </div>
+        <div class="pl-box-btm">
+            <div class="article-type pull-right">
+                <div class="icon-like-prompt">
+                    <i class="icon icon-like active"></i><span class="c1">+1</span>
+                </div>
+                <div class="icon-no-like-prompt">
+                    <i class="icon icon-no-like active"></i><span class="c1">+1</span>
+                </div>
+                <ul>
+                    <li class="js-icon-like" data-type="like"><i class="icon icon-like "></i><span class="like">2</span></li>
+                    <li class="js-no-icon-like" data-type="no-like"><i class="icon icon-no-like "></i><span class="like">1</span></li>
+                </ul>
+            </div>
+            <div class="btn-dp transition js-add-dp-box"><i class="icon icon-dp"></i>我要点评</div>
+            <div class="pl-form-box dp-article-box">
+                <textarea class="form-control" placeholder="客官，8个字起评，不讲价哟"></textarea>
+                <button class="btn btn-article js-article-dp">发表</button>
+            </div>
+        </div>
+    </div>
+    <div class="pl-box-wrap  " data-pid="617686" id="g_pid617686">
+                <div class="pl-box-top">
+            <div class="dropdown pull-right">
+                <button class="btn btn-default dropdown-toggle" type="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true">
+                    <span class="caret"></span>
+                </button>
+                <ul class="dropdown-menu" aria-labelledby="dropdownMenu1">
+                                                                                                    <li class="pl-report js-report-pl" aid="180809" pid="617686">举报</li>
+                </ul>
+            </div>
+            <div class="author-info">
+                <div class="author-face"><img src="https://imgs.bipush.com/auth/data/avatar/001/58/87/45_1486948377.jpg!150x150?|imageMogr2/strip/interlace/1/quality/85/format/jpg"></div>
+                <span class="author-name">
+                    <a href="/member/1588745.html">单身狗</a>
+                    <a href="/vip" target="_blank"></a>
+                </span>
+                <span class="time">11小时前</span>
+            </div>
+            <div class="pl-content">百度看到这新闻，随便说说<br>作为游戏来说，本身还是有承载的一些功能，比如文化输出<br>LOL作为一款全世界流行的PC游戏，所有的英雄和背景都是架空，全靠Roit制作者自己去写<br>王者荣耀应该是TX大老爷偷懒，不想自己编，所以干脆利用一些历史人物或者传说人物的事迹来编辑技能和角色，但是背景基本都是照搬</div>
+                            <div class="dp-box">
+                    <span class="span-mark-author">点评</span>
+
+                                                <div class="dl-user dl-user-list  " data-type="dl-user" style="display:block">
+                            <ul>
+                                                                    <li class="del-pl98812">
+                                        <a href="/member/1589117.html" target="_blank">
+                                            <img src="https://imgs.bipush.com/auth/data/avatar/001/58/91/17_1486985283.jpg!150x150?|imageMogr2/strip/interlace/1/quality/85/format/jpg">
+                                        </a>
+                                                                            </li>
+                                                            </ul>
+                                                            <!--只有一条点评时显示-->
+                                <div class="one-pl-content one-pl-content-box">
+                                    <div class="pull-right time">1小时前</div>
+
+                                    <p class="content">
+                                        <span class="name">睡着的香蕉</span>
+                                        <a href="/vip" target="_blank"></a>&nbsp;&nbsp;
+                                        :<span class="author-content">做手游都是赶进度的，
+一个休闲游戏，周期三个月，
+一个ARPG，半年到一年时间，
+一款手游“巨制&quot;，也只是一年到两年，
+老板不会让你把时间花在那上面的。。。。</span>
+                                    </p>
+                                    <div class="js-hf-article-pl"><span>回复</span></div>
+                                                                        <div class="hu-pl-box">
+                                        <textarea class="form-control" placeholder="客官，8个字起评，不讲价哟"></textarea>
+                                        <button class="btn btn-article js-article-dp" data-type="hf">发表</button>
+                                    </div>
+                                </div>
+                                                    </div>
+                        <div class="dp-list-box" style="display:none">
+                                                            <div class="dl-user del-pl98812">
+                                    <ul>
+                                        <li><a href="/member/1589117.html" target="_blank"><img src="https://imgs.bipush.com/auth/data/avatar/001/58/91/17_1486985283.jpg!150x150?|imageMogr2/strip/interlace/1/quality/85/format/jpg"></a></li>
+                                    </ul>
+                                    <div class="one-pl-content">
+                                        <div class="pull-right time">1小时前</div>
+                                        <p class="content">
+                                            <span class="name">睡着的香蕉</span>
+                                            <a href="/vip" target="_blank"></a>&nbsp;&nbsp;
+                                            :<span class="author-content">做手游都是赶进度的，<br>一个休闲游戏，周期三个月，<br>一个ARPG，半年到一年时间，<br>一款手游“巨制"，也只是一年到两年，<br>老板不会让你把时间花在那上面的。。。。</span>
+                                        </p>
+                                        <div class="js-hf-article-pl"><span>回复</span></div>
+                                                                                <div class="hu-pl-box">
+                                            <textarea class="form-control" placeholder="客官，8个字起评，不讲价哟"></textarea>
+                                            <button class="btn btn-article js-article-dp" data-type="hf">发表</button>
+                                        </div>
+                                    </div>
+                                </div>
+                                                        <div class="close-dp-list-box js-show-hide-dp-box" data-buttom="true">收起</div>
+                        </div>
+
+                </div>
+                    </div>
+        <div class="pl-box-btm">
+            <div class="article-type pull-right">
+                <div class="icon-like-prompt">
+                    <i class="icon icon-like active"></i><span class="c1">+1</span>
+                </div>
+                <div class="icon-no-like-prompt">
+                    <i class="icon icon-no-like active"></i><span class="c1">+1</span>
+                </div>
+                <ul>
+                    <li class="js-icon-like" data-type="like"><i class="icon icon-like "></i><span class="like">0</span></li>
+                    <li class="js-no-icon-like" data-type="no-like"><i class="icon icon-no-like "></i><span class="like">0</span></li>
+                </ul>
+            </div>
+            <div class="btn-dp transition js-add-dp-box"><i class="icon icon-dp"></i>我要点评</div>
+            <div class="pl-form-box dp-article-box">
+                <textarea class="form-control" placeholder="客官，8个字起评，不讲价哟"></textarea>
+                <button class="btn btn-article js-article-dp">发表</button>
+            </div>
+        </div>
+    </div>
+    <div class="pl-box-wrap  " data-pid="617789" id="g_pid617789">
+                <div class="pl-box-top">
+            <div class="dropdown pull-right">
+                <button class="btn btn-default dropdown-toggle" type="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true">
+                    <span class="caret"></span>
+                </button>
+                <ul class="dropdown-menu" aria-labelledby="dropdownMenu1">
+                                                                                                    <li class="pl-report js-report-pl" aid="180809" pid="617789">举报</li>
+                </ul>
+            </div>
+            <div class="author-info">
+                <div class="author-face"><img src="https://imgs.bipush.com/auth/data/avatar/001/58/89/17_1486965673.jpg!150x150?|imageMogr2/strip/interlace/1/quality/85/format/jpg"></div>
+                <span class="author-name">
+                    <a href="/member/1588917.html">梦在艾泽拉斯</a>
+                    <a href="/vip" target="_blank"></a>
+                </span>
+                <span class="time">6小时前</span>
+            </div>
+            <div class="pl-content">拳头不已经是老马的公司了么，老外不知道么</div>
+                    </div>
+        <div class="pl-box-btm">
+            <div class="article-type pull-right">
+                <div class="icon-like-prompt">
+                    <i class="icon icon-like active"></i><span class="c1">+1</span>
+                </div>
+                <div class="icon-no-like-prompt">
+                    <i class="icon icon-no-like active"></i><span class="c1">+1</span>
+                </div>
+                <ul>
+                    <li class="js-icon-like" data-type="like"><i class="icon icon-like "></i><span class="like">1</span></li>
+                    <li class="js-no-icon-like" data-type="no-like"><i class="icon icon-no-like "></i><span class="like">0</span></li>
+                </ul>
+            </div>
+            <div class="btn-dp transition js-add-dp-box"><i class="icon icon-dp"></i>我要点评</div>
+            <div class="pl-form-box dp-article-box">
+                <textarea class="form-control" placeholder="客官，8个字起评，不讲价哟"></textarea>
+                <button class="btn btn-article js-article-dp">发表</button>
+            </div>
+        </div>
+    </div>
+    <div class="pl-box-wrap  " data-pid="617836" id="g_pid617836">
+                <div class="pl-box-top">
+            <div class="dropdown pull-right">
+                <button class="btn btn-default dropdown-toggle" type="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true">
+                    <span class="caret"></span>
+                </button>
+                <ul class="dropdown-menu" aria-labelledby="dropdownMenu1">
+                                                                                                    <li class="pl-report js-report-pl" aid="180809" pid="617836">举报</li>
+                </ul>
+            </div>
+            <div class="author-info">
+                <div class="author-face"><img src="https://imgs.bipush.com/auth/data/avatar/001/58/90/42_1486976155.jpg!150x150?|imageMogr2/strip/interlace/1/quality/85/format/jpg"></div>
+                <span class="author-name">
+                    <a href="/member/1589042.html">直走、卟洄頭</a>
+                    <a href="/vip" target="_blank"></a>
+                </span>
+                <span class="time">3小时前</span>
+            </div>
+            <div class="pl-content">王者荣耀特别火，玩的人很多，这就跟LOL一样，一出来就特别火，风靡网吧，原因我觉得讲道理真的就是突出一个简单，上手容易。我不太认同作者一个观点，尝试过才会说简单，没玩过就评价一个游戏是缺乏实践性-的，单纯游戏来讲，谁说LOL不是一款简单易上手的游戏，我觉得那是胡说八道，但是同样的，如果拿LOL和DOTA相比，谁敢说DOTA是一款简单易上手的游戏，我觉得那也是胡说八道。从玩法上来讲，LOL确实有类似于带BUFF的怪这样的亮点，但是不论是分路，英雄定位的灵活性，还是主动道具的使用上，LOL相比与DOTA都处在下风了，所以不太认同作者的观点，不是为了抬高自己游戏的身价，而是两款类似的MOBA类游戏必然会拿到一块进行比较，那么优缺点很明显，我觉得优越感谈不上，但是实打实的在综合性上占了上风，肯定有LOL玩家表示我说的太偏向DOTA了，不过谁让我就是一个DOTA玩家呢。</div>
+                    </div>
+        <div class="pl-box-btm">
+            <div class="article-type pull-right">
+                <div class="icon-like-prompt">
+                    <i class="icon icon-like active"></i><span class="c1">+1</span>
+                </div>
+                <div class="icon-no-like-prompt">
+                    <i class="icon icon-no-like active"></i><span class="c1">+1</span>
+                </div>
+                <ul>
+                    <li class="js-icon-like" data-type="like"><i class="icon icon-like "></i><span class="like">0</span></li>
+                    <li class="js-no-icon-like" data-type="no-like"><i class="icon icon-no-like "></i><span class="like">0</span></li>
+                </ul>
+            </div>
+            <div class="btn-dp transition js-add-dp-box"><i class="icon icon-dp"></i>我要点评</div>
+            <div class="pl-form-box dp-article-box">
+                <textarea class="form-control" placeholder="客官，8个字起评，不讲价哟"></textarea>
+                <button class="btn btn-article js-article-dp">发表</button>
+            </div>
+        </div>
+    </div>
+    <div class="pl-box-wrap  " data-pid="617829" id="g_pid617829">
+                <div class="pl-box-top">
+            <div class="dropdown pull-right">
+                <button class="btn btn-default dropdown-toggle" type="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true">
+                    <span class="caret"></span>
+                </button>
+                <ul class="dropdown-menu" aria-labelledby="dropdownMenu1">
+                                                                                                    <li class="pl-report js-report-pl" aid="180809" pid="617829">举报</li>
+                </ul>
+            </div>
+            <div class="author-info">
+                <div class="author-face"><img src="https://imgs.bipush.com/auth/data/avatar/001/58/90/53_1486977014.jpg!150x150?|imageMogr2/strip/interlace/1/quality/85/format/jpg"></div>
+                <span class="author-name">
+                    <a href="/member/1589053.html">Super喵</a>
+                    <a href="/vip" target="_blank"></a>
+                </span>
+                <span class="time">3小时前</span>
+            </div>
+            <div class="pl-content">讲真，我就是很不喜欢腾讯啊。。。。可是。。。。。。。。亡者农药它。。。。就是很特么。、、、、好玩啊、、、、、、、、、啊~~~~~~~~LOL我特么也玩可我、、、、没那多时间啊</div>
+                    </div>
+        <div class="pl-box-btm">
+            <div class="article-type pull-right">
+                <div class="icon-like-prompt">
+                    <i class="icon icon-like active"></i><span class="c1">+1</span>
+                </div>
+                <div class="icon-no-like-prompt">
+                    <i class="icon icon-no-like active"></i><span class="c1">+1</span>
+                </div>
+                <ul>
+                    <li class="js-icon-like" data-type="like"><i class="icon icon-like "></i><span class="like">0</span></li>
+                    <li class="js-no-icon-like" data-type="no-like"><i class="icon icon-no-like "></i><span class="like">0</span></li>
+                </ul>
+            </div>
+            <div class="btn-dp transition js-add-dp-box"><i class="icon icon-dp"></i>我要点评</div>
+            <div class="pl-form-box dp-article-box">
+                <textarea class="form-control" placeholder="客官，8个字起评，不讲价哟"></textarea>
+                <button class="btn btn-article js-article-dp">发表</button>
+            </div>
+        </div>
+    </div>
+    <div class="pl-box-wrap  " data-pid="617819" id="g_pid617819">
+                <div class="pl-box-top">
+            <div class="dropdown pull-right">
+                <button class="btn btn-default dropdown-toggle" type="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true">
+                    <span class="caret"></span>
+                </button>
+                <ul class="dropdown-menu" aria-labelledby="dropdownMenu1">
+                                                                                                    <li class="pl-report js-report-pl" aid="180809" pid="617819">举报</li>
+                </ul>
+            </div>
+            <div class="author-info">
+                <div class="author-face"><img src="https://imgs.bipush.com/auth/data/avatar/001/58/90/24_1486974566.jpg!150x150?|imageMogr2/strip/interlace/1/quality/85/format/jpg"></div>
+                <span class="author-name">
+                    <a href="/member/1589024.html">石没有</a>
+                    <a href="/vip" target="_blank"></a>
+                </span>
+                <span class="time">4小时前</span>
+            </div>
+            <div class="pl-content">单机游戏玩家表示无言以对。。</div>
+                    </div>
+        <div class="pl-box-btm">
+            <div class="article-type pull-right">
+                <div class="icon-like-prompt">
+                    <i class="icon icon-like active"></i><span class="c1">+1</span>
+                </div>
+                <div class="icon-no-like-prompt">
+                    <i class="icon icon-no-like active"></i><span class="c1">+1</span>
+                </div>
+                <ul>
+                    <li class="js-icon-like" data-type="like"><i class="icon icon-like "></i><span class="like">0</span></li>
+                    <li class="js-no-icon-like" data-type="no-like"><i class="icon icon-no-like "></i><span class="like">0</span></li>
+                </ul>
+            </div>
+            <div class="btn-dp transition js-add-dp-box"><i class="icon icon-dp"></i>我要点评</div>
+            <div class="pl-form-box dp-article-box">
+                <textarea class="form-control" placeholder="客官，8个字起评，不讲价哟"></textarea>
+                <button class="btn btn-article js-article-dp">发表</button>
+            </div>
+        </div>
+    </div>
+    <div class="pl-box-wrap  " data-pid="617787" id="g_pid617787">
+                <div class="pl-box-top">
+            <div class="dropdown pull-right">
+                <button class="btn btn-default dropdown-toggle" type="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true">
+                    <span class="caret"></span>
+                </button>
+                <ul class="dropdown-menu" aria-labelledby="dropdownMenu1">
+                                                                                                    <li class="pl-report js-report-pl" aid="180809" pid="617787">举报</li>
+                </ul>
+            </div>
+            <div class="author-info">
+                <div class="author-face"><img src="https://imgs.bipush.com/auth/data/avatar/001/57/46/99_1484125170.jpg!150x150?|imageMogr2/strip/interlace/1/quality/85/format/jpg"></div>
+                <span class="author-name">
+                    <a href="/member/1574699.html">东莞万集饰品（茂鑫）</a>
+                    <a href="/vip" target="_blank"></a>
+                </span>
+                <span class="time">6小时前</span>
+            </div>
+            <div class="pl-content">现在不是流行致敬么？读书人能叫抄袭么</div>
+                    </div>
+        <div class="pl-box-btm">
+            <div class="article-type pull-right">
+                <div class="icon-like-prompt">
+                    <i class="icon icon-like active"></i><span class="c1">+1</span>
+                </div>
+                <div class="icon-no-like-prompt">
+                    <i class="icon icon-no-like active"></i><span class="c1">+1</span>
+                </div>
+                <ul>
+                    <li class="js-icon-like" data-type="like"><i class="icon icon-like "></i><span class="like">0</span></li>
+                    <li class="js-no-icon-like" data-type="no-like"><i class="icon icon-no-like "></i><span class="like">0</span></li>
+                </ul>
+            </div>
+            <div class="btn-dp transition js-add-dp-box"><i class="icon icon-dp"></i>我要点评</div>
+            <div class="pl-form-box dp-article-box">
+                <textarea class="form-control" placeholder="客官，8个字起评，不讲价哟"></textarea>
+                <button class="btn btn-article js-article-dp">发表</button>
+            </div>
+        </div>
+    </div>
+    <div class="pl-box-wrap  " data-pid="617777" id="g_pid617777">
+                <div class="pl-box-top">
+            <div class="dropdown pull-right">
+                <button class="btn btn-default dropdown-toggle" type="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true">
+                    <span class="caret"></span>
+                </button>
+                <ul class="dropdown-menu" aria-labelledby="dropdownMenu1">
+                                                                                                    <li class="pl-report js-report-pl" aid="180809" pid="617777">举报</li>
+                </ul>
+            </div>
+            <div class="author-info">
+                <div class="author-face"><img src="https://imgs.bipush.com/auth/data/avatar/001/58/88/95_1486963684.jpg!150x150?|imageMogr2/strip/interlace/1/quality/85/format/jpg"></div>
+                <span class="author-name">
+                    <a href="/member/1588895.html">逍遥踏雪</a>
+                    <a href="/vip" target="_blank"></a>
+                </span>
+                <span class="time">7小时前</span>
+            </div>
+            <div class="pl-content">都是抄袭dota</div>
+                    </div>
+        <div class="pl-box-btm">
+            <div class="article-type pull-right">
+                <div class="icon-like-prompt">
+                    <i class="icon icon-like active"></i><span class="c1">+1</span>
+                </div>
+                <div class="icon-no-like-prompt">
+                    <i class="icon icon-no-like active"></i><span class="c1">+1</span>
+                </div>
+                <ul>
+                    <li class="js-icon-like" data-type="like"><i class="icon icon-like "></i><span class="like">0</span></li>
+                    <li class="js-no-icon-like" data-type="no-like"><i class="icon icon-no-like "></i><span class="like">0</span></li>
+                </ul>
+            </div>
+            <div class="btn-dp transition js-add-dp-box"><i class="icon icon-dp"></i>我要点评</div>
+            <div class="pl-form-box dp-article-box">
+                <textarea class="form-control" placeholder="客官，8个字起评，不讲价哟"></textarea>
+                <button class="btn btn-article js-article-dp">发表</button>
+            </div>
+        </div>
+    </div>
+    <div class="pl-box-wrap  " data-pid="617776" id="g_pid617776">
+                <div class="pl-box-top">
+            <div class="dropdown pull-right">
+                <button class="btn btn-default dropdown-toggle" type="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true">
+                    <span class="caret"></span>
+                </button>
+                <ul class="dropdown-menu" aria-labelledby="dropdownMenu1">
+                                                                                                    <li class="pl-report js-report-pl" aid="180809" pid="617776">举报</li>
+                </ul>
+            </div>
+            <div class="author-info">
+                <div class="author-face"><img src="https://imgs.bipush.com/auth/data/avatar/001/58/88/93_1486963201.jpg!150x150?|imageMogr2/strip/interlace/1/quality/85/format/jpg"></div>
+                <span class="author-name">
+                    <a href="/member/1588893.html">今年2000岁</a>
+                    <a href="/vip" target="_blank"></a>
+                </span>
+                <span class="time">7小时前</span>
+            </div>
+            <div class="pl-content">不光是农药！还有全民超神啊！你们把全民忘了？</div>
+                    </div>
+        <div class="pl-box-btm">
+            <div class="article-type pull-right">
+                <div class="icon-like-prompt">
+                    <i class="icon icon-like active"></i><span class="c1">+1</span>
+                </div>
+                <div class="icon-no-like-prompt">
+                    <i class="icon icon-no-like active"></i><span class="c1">+1</span>
+                </div>
+                <ul>
+                    <li class="js-icon-like" data-type="like"><i class="icon icon-like "></i><span class="like">0</span></li>
+                    <li class="js-no-icon-like" data-type="no-like"><i class="icon icon-no-like "></i><span class="like">1</span></li>
+                </ul>
+            </div>
+            <div class="btn-dp transition js-add-dp-box"><i class="icon icon-dp"></i>我要点评</div>
+            <div class="pl-form-box dp-article-box">
+                <textarea class="form-control" placeholder="客官，8个字起评，不讲价哟"></textarea>
+                <button class="btn btn-article js-article-dp">发表</button>
+            </div>
+        </div>
+    </div>
+    <div class="pl-box-wrap  " data-pid="617710" id="g_pid617710">
+                <div class="pl-box-top">
+            <div class="dropdown pull-right">
+                <button class="btn btn-default dropdown-toggle" type="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true">
+                    <span class="caret"></span>
+                </button>
+                <ul class="dropdown-menu" aria-labelledby="dropdownMenu1">
+                                                                                                    <li class="pl-report js-report-pl" aid="180809" pid="617710">举报</li>
+                </ul>
+            </div>
+            <div class="author-info">
+                <div class="author-face"><img src="https://imgs.bipush.com/auth/data/avatar/1.jpg!150x150?|imageMogr2/strip/interlace/1/quality/85/format/jpg"></div>
+                <span class="author-name">
+                    <a href="/member/42536.html">血色胡杨</a>
+                    <a href="/vip" target="_blank"></a>
+                </span>
+                <span class="time">10小时前</span>
+            </div>
+            <div class="pl-content">都是一家的不存在抄袭，但是估计lol团队的内心是奔溃的，马爸爸你亲儿子又模仿我了</div>
+                    </div>
+        <div class="pl-box-btm">
+            <div class="article-type pull-right">
+                <div class="icon-like-prompt">
+                    <i class="icon icon-like active"></i><span class="c1">+1</span>
+                </div>
+                <div class="icon-no-like-prompt">
+                    <i class="icon icon-no-like active"></i><span class="c1">+1</span>
+                </div>
+                <ul>
+                    <li class="js-icon-like" data-type="like"><i class="icon icon-like "></i><span class="like">0</span></li>
+                    <li class="js-no-icon-like" data-type="no-like"><i class="icon icon-no-like "></i><span class="like">0</span></li>
+                </ul>
+            </div>
+            <div class="btn-dp transition js-add-dp-box"><i class="icon icon-dp"></i>我要点评</div>
+            <div class="pl-form-box dp-article-box">
+                <textarea class="form-control" placeholder="客官，8个字起评，不讲价哟"></textarea>
+                <button class="btn btn-article js-article-dp">发表</button>
+            </div>
+        </div>
+    </div>
+    <div class="pl-box-wrap  " data-pid="617696" id="g_pid617696">
+                <div class="pl-box-top">
+            <div class="dropdown pull-right">
+                <button class="btn btn-default dropdown-toggle" type="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true">
+                    <span class="caret"></span>
+                </button>
+                <ul class="dropdown-menu" aria-labelledby="dropdownMenu1">
+                                                                                                    <li class="pl-report js-report-pl" aid="180809" pid="617696">举报</li>
+                </ul>
+            </div>
+            <div class="author-info">
+                <div class="author-face"><img src="https://imgs.bipush.com/auth/data/avatar/001/58/87/65_1486950294.jpg!150x150?|imageMogr2/strip/interlace/1/quality/85/format/jpg"></div>
+                <span class="author-name">
+                    <a href="/member/1588765.html">〆 兲箜安静</a>
+                    <a href="/vip" target="_blank"></a>
+                </span>
+                <span class="time">11小时前</span>
+            </div>
+            <div class="pl-content">文章别的没问题，但是LOL和DOTA2，真的不是纯粹的鄙视链的问题了……</div>
+                    </div>
+        <div class="pl-box-btm">
+            <div class="article-type pull-right">
+                <div class="icon-like-prompt">
+                    <i class="icon icon-like active"></i><span class="c1">+1</span>
+                </div>
+                <div class="icon-no-like-prompt">
+                    <i class="icon icon-no-like active"></i><span class="c1">+1</span>
+                </div>
+                <ul>
+                    <li class="js-icon-like" data-type="like"><i class="icon icon-like "></i><span class="like">0</span></li>
+                    <li class="js-no-icon-like" data-type="no-like"><i class="icon icon-no-like "></i><span class="like">0</span></li>
+                </ul>
+            </div>
+            <div class="btn-dp transition js-add-dp-box"><i class="icon icon-dp"></i>我要点评</div>
+            <div class="pl-form-box dp-article-box">
+                <textarea class="form-control" placeholder="客官，8个字起评，不讲价哟"></textarea>
+                <button class="btn btn-article js-article-dp">发表</button>
+            </div>
+        </div>
+    </div>
+    <div class="pl-box-wrap  " data-pid="617683" id="g_pid617683">
+                <div class="pl-box-top">
+            <div class="dropdown pull-right">
+                <button class="btn btn-default dropdown-toggle" type="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true">
+                    <span class="caret"></span>
+                </button>
+                <ul class="dropdown-menu" aria-labelledby="dropdownMenu1">
+                                                                                                    <li class="pl-report js-report-pl" aid="180809" pid="617683">举报</li>
+                </ul>
+            </div>
+            <div class="author-info">
+                <div class="author-face"><img src="https://imgs.bipush.com/auth/data/avatar/001/58/87/44_1486948351.jpg!150x150?|imageMogr2/strip/interlace/1/quality/85/format/jpg"></div>
+                <span class="author-name">
+                    <a href="/member/1588744.html">灰了个灰</a>
+                    <a href="/vip" target="_blank"></a>
+                </span>
+                <span class="time">11小时前</span>
+            </div>
+            <div class="pl-content">马化腾：你问拳头敢比比么？再比比下月不发工资</div>
+                    </div>
+        <div class="pl-box-btm">
+            <div class="article-type pull-right">
+                <div class="icon-like-prompt">
+                    <i class="icon icon-like active"></i><span class="c1">+1</span>
+                </div>
+                <div class="icon-no-like-prompt">
+                    <i class="icon icon-no-like active"></i><span class="c1">+1</span>
+                </div>
+                <ul>
+                    <li class="js-icon-like" data-type="like"><i class="icon icon-like "></i><span class="like">0</span></li>
+                    <li class="js-no-icon-like" data-type="no-like"><i class="icon icon-no-like "></i><span class="like">0</span></li>
+                </ul>
+            </div>
+            <div class="btn-dp transition js-add-dp-box"><i class="icon icon-dp"></i>我要点评</div>
+            <div class="pl-form-box dp-article-box">
+                <textarea class="form-control" placeholder="客官，8个字起评，不讲价哟"></textarea>
+                <button class="btn btn-article js-article-dp">发表</button>
+            </div>
+        </div>
+    </div>
+    <div class="pl-box-wrap  " data-pid="617625" id="g_pid617625">
+                <div class="pl-box-top">
+            <div class="dropdown pull-right">
+                <button class="btn btn-default dropdown-toggle" type="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true">
+                    <span class="caret"></span>
+                </button>
+                <ul class="dropdown-menu" aria-labelledby="dropdownMenu1">
+                                                                                                    <li class="pl-report js-report-pl" aid="180809" pid="617625">举报</li>
+                </ul>
+            </div>
+            <div class="author-info">
+                <div class="author-face"><img src="https://imgs.bipush.com/auth/data/avatar/001/41/13/51_1450269807.jpg!150x150?|imageMogr2/strip/interlace/1/quality/85/format/jpg"></div>
+                <span class="author-name">
+                    <a href="/member/1411351.html">真心为你</a>
+                    <a href="/vip" target="_blank"></a>
+                </span>
+                <span class="time">1天前</span>
+            </div>
+            <div class="pl-content">都是自己的公司抄就抄吧，能赚钱就行</div>
+                    </div>
+        <div class="pl-box-btm">
+            <div class="article-type pull-right">
+                <div class="icon-like-prompt">
+                    <i class="icon icon-like active"></i><span class="c1">+1</span>
+                </div>
+                <div class="icon-no-like-prompt">
+                    <i class="icon icon-no-like active"></i><span class="c1">+1</span>
+                </div>
+                <ul>
+                    <li class="js-icon-like" data-type="like"><i class="icon icon-like "></i><span class="like">0</span></li>
+                    <li class="js-no-icon-like" data-type="no-like"><i class="icon icon-no-like "></i><span class="like">0</span></li>
+                </ul>
+            </div>
+            <div class="btn-dp transition js-add-dp-box"><i class="icon icon-dp"></i>我要点评</div>
+            <div class="pl-form-box dp-article-box">
+                <textarea class="form-control" placeholder="客官，8个字起评，不讲价哟"></textarea>
+                <button class="btn btn-article js-article-dp">发表</button>
+            </div>
+        </div>
+    </div>
+    <div class="pl-box-wrap  " data-pid="617604" id="g_pid617604">
+                <div class="pl-box-top">
+            <div class="dropdown pull-right">
+                <button class="btn btn-default dropdown-toggle" type="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true">
+                    <span class="caret"></span>
+                </button>
+                <ul class="dropdown-menu" aria-labelledby="dropdownMenu1">
+                                                                                                    <li class="pl-report js-report-pl" aid="180809" pid="617604">举报</li>
+                </ul>
+            </div>
+            <div class="author-info">
+                <div class="author-face"><img src="https://imgs.bipush.com/auth/data/avatar/001/58/00/21_1485335489.jpg!150x150?|imageMogr2/strip/interlace/1/quality/85/format/jpg"></div>
+                <span class="author-name">
+                    <a href="/member/1580021.html">网总管杨腾飞</a>
+                    <a href="/vip" target="_blank"></a>
+                </span>
+                <span class="time">1天前</span>
+            </div>
+            <div class="pl-content">都是自家人，不说两家话～</div>
+                    </div>
+        <div class="pl-box-btm">
+            <div class="article-type pull-right">
+                <div class="icon-like-prompt">
+                    <i class="icon icon-like active"></i><span class="c1">+1</span>
+                </div>
+                <div class="icon-no-like-prompt">
+                    <i class="icon icon-no-like active"></i><span class="c1">+1</span>
+                </div>
+                <ul>
+                    <li class="js-icon-like" data-type="like"><i class="icon icon-like "></i><span class="like">0</span></li>
+                    <li class="js-no-icon-like" data-type="no-like"><i class="icon icon-no-like "></i><span class="like">0</span></li>
+                </ul>
+            </div>
+            <div class="btn-dp transition js-add-dp-box"><i class="icon icon-dp"></i>我要点评</div>
+            <div class="pl-form-box dp-article-box">
+                <textarea class="form-control" placeholder="客官，8个字起评，不讲价哟"></textarea>
+                <button class="btn btn-article js-article-dp">发表</button>
+            </div>
+        </div>
+    </div>
+                </div>
+                                
+                <div class="feed-box-ad article-pl-box-ad"><script src="https://dup.baidustatic.com/js/ds.js"></script>
+<script>
+(function() {
+    var s = "_" + Math.random().toString(36).slice(2);
+    document.write('<div id="' + s + '"></div>');
+    (window.slotbydup=window.slotbydup || []).push({
+        id: '1134729',
+        container: s,
+        size: '710,80',
+        display: 'inlay-fix'
+    });
+})();
+</script></div>
+            </div>
+
+                                </div>
+    </div>
+        <div class="wrap-right pull-right">
+        <div class="box-author-info">
+        <div class="author-face">
+        <a href="/member/256412.html" target="_blank">
+            <img src="https://imgs.bipush.com/auth/data/avatar/000/25/64/12_avatar_big.jpg!150x150?|imageMogr2/strip/interlace/1/quality/85/format/jpg">
+        </a>
+    </div>
+    <div class="author-name">
+        <a href="/member/256412.html" target="_blank">
+            游戏葡萄        </a>
+        <a href="/vip" target="_blank"></a>
+        <i class="i-icon icon-auth1" title="虎嗅认证作者"></i>    </div>
+    <div class="author-one">有判断，有前瞻的游戏行业媒体。...</div>
+    <div class="author-professional">编辑</div>
+    <div class="author-article-pl">
+        <ul>
+            <li><a href="/member/256412/article.html" target="_blank">77篇文章</a></li>
+            <i class="icon icon-line-face"></i>
+            <li><a href="/member/256412/post.html" target="_blank">0个评论</a></li>
+        </ul>
+    </div>
+    </div>
+
+
+    <div class="box-moder hot-tag">
+        <h3>热门标签</h3>
+        <span class="pull-right project-more"><a href="/tags.html" class="transition" target="_blank">全部</a></span>
+        <span class="span-mark"></span>
+        <div class="search-history search-hot">
+            <ul>
+                                    <li class="transition"><a href="/tags/36.html" target="_blank">阿里巴巴</a></li>
+                                    <li class="transition"><a href="/tags/357.html" target="_blank">投稿</a></li>
+                                    <li class="transition"><a href="/tags/29.html" target="_blank">创业</a></li>
+                                    <li class="transition"><a href="/tags/2263.html" target="_blank">头条</a></li>
+                                    <li class="transition"><a href="/tags/35.html" target="_blank">马云</a></li>
+                                    <li class="transition"><a href="/tags/374.html" target="_blank">大数据</a></li>
+                                    <li class="transition"><a href="/tags/79.html" target="_blank">移动互联网</a></li>
+                                    <li class="transition"><a href="/tags/73.html" target="_blank">电子商务</a></li>
+                                    <li class="transition"><a href="/tags/68.html" target="_blank">微信</a></li>
+                                    <li class="transition"><a href="/tags/37.html" target="_blank">Facebook</a></li>
+                            </ul>
+        </div>
+    </div>
+
+
+<div class="placeholder"></div>
+    <div class="box-moder hot-article">
+        <h3>热文</h3>
+        <span class="span-mark"></span>
+        <ul>
+                                                                            <li>
+                    <div class="hot-article-img">
+                        <a href="/article/180790.html" target="_blank">
+                            <img src="https://imgs.bipush.com/article/cover/201702/06/071928390599.jpg?imageView2/1/w/280/h/210/|imageMogr2/strip/interlace/1/quality/85/format/jpg">
+                        </a>
+                    </div>
+                    <a href="/article/180790.html" class="transition" target="_blank">脸盲的刘强东，豪言要把国美、苏宁赶出宿迁，“那是我们的耻辱”</a>
+                </li>
+                                                            <li>
+                    <div class="hot-article-img">
+                        <a href="/article/180799.html" target="_blank">
+                            <img src="https://imgs.bipush.com/article/cover/201702/12/123125053512.jpg?imageView2/1/w/280/h/210/|imageMogr2/strip/interlace/1/quality/85/format/jpg">
+                        </a>
+                    </div>
+                    <a href="/article/180799.html" class="transition" target="_blank">王林大师死了，但这届吃瓜群众真不行</a>
+                </li>
+                                                            <li>
+                    <div class="hot-article-img">
+                        <a href="/article/180828.html" target="_blank">
+                            <img src="https://imgs.bipush.com/article/cover/201702/12/190946282172.jpg?imageView2/1/w/280/h/210/|imageMogr2/strip/interlace/1/quality/85/format/jpg">
+                        </a>
+                    </div>
+                    <a href="/article/180828.html" class="transition" target="_blank">曾超越阿迪、仅次耐克的美国“老二”运动品牌，市值蒸发近30亿美元，跌落神坛的开始？</a>
+                </li>
+                                                            <li>
+                    <div class="hot-article-img">
+                        <a href="/article/180792.html" target="_blank">
+                            <img src="https://imgs.bipush.com/article/cover/201702/11/211755396712.jpg?imageView2/1/w/280/h/210/|imageMogr2/strip/interlace/1/quality/85/format/jpg">
+                        </a>
+                    </div>
+                    <a href="/article/180792.html" class="transition" target="_blank">没练出马甲线还花了好多钱，你究竟为什么要健身？</a>
+                </li>
+                                                            <li>
+                    <div class="hot-article-img">
+                        <a href="/article/180763.html" target="_blank">
+                            <img src="https://imgs.bipush.com/article/cover/201702/11/230427473445.jpg?imageView2/1/w/280/h/210/|imageMogr2/strip/interlace/1/quality/85/format/jpg">
+                        </a>
+                    </div>
+                    <a href="/article/180763.html" class="transition" target="_blank">雷军的七字诀在什么情况下失效了</a>
+                </li>
+                                                            <li>
+                    <div class="hot-article-img">
+                        <a href="/article/180813.html" target="_blank">
+                            <img src="https://imgs.bipush.com/article/cover/201702/12/180605159725.jpg?imageView2/1/w/280/h/210/|imageMogr2/strip/interlace/1/quality/85/format/jpg">
+                        </a>
+                    </div>
+                    <a href="/article/180813.html" class="transition" target="_blank">“苍老师”的谢幕，新AV商业时代的到来，与硬盘说再见</a>
+                </li>
+                    </ul>
+    </div>
+
+    </div>
+    </div>
+<footer class="footer">
+    <div class="modal-backdrop fade in js-modal-backdrop"></div>
+    <div class="feedback-box" onmouseover="is_feedback=false" onmouseout="is_feedback=true">
+
+        <div class="close-box pull-right js-feedback-close" data-show="true">
+            <i class="icon icon-close"></i>
+        </div>
+        <div class="will-choose">*</div>
+        <textarea id="content" class="form-control" placeholder="请输入反馈，我们将为您不断改进"></textarea>
+        <input class="form-control" id="contact" placeholder="请输入手机/邮箱">
+        <a class="btn btn-article pull-left js-feedback-submit transition">提交</a><span class="will-choose-error">请输入反馈信息</span>
+    </div>
+    <div class="go-top go-feedback transition">
+        <div class="js-show-feedback-box">
+            用户反馈
+        </div>
+    </div>
+    <div class="go-top go-feedback app-feedback js-app-feedback transition">
+        <div class="app-footer-guide " style="height: 150px">
+            <img src="https://imgs.bipush.com/article/content/201603/25/1450293529.png?|imageMogr2/strip/interlace/1/quality/85/format/jpg">
+            <span style="color: #333;line-height:2;">微信扫一扫</span>
+        </div>
+        <div class="">
+            <i class="icon icon-big-phone"></i>
+            客户端
+        </div>
+    </div>
+    <div class="go-top js-go-top transition" id="go-top-btn"><i class="icon icon-top"></i></div>
+
+    <div class="container copy-right">
+        <div class="footer-tag-list">
+            <a href="/about.html" target="_blank" class="transition">关于我们</a>
+            <a href="/joinus.html" target="_blank" class="transition">加入我们</a>
+            <a href="/links" target="_blank" class="transition">合作伙伴</a>
+            <a href="/contact.html" target="_blank" class="transition">广告及服务</a>
+            <a href="/help" target="_blank" class="transition">常见问题解答</a>
+            <a href="/tags/10340.html" target="_blank" class="transition">防网络诈骗专题</a>
+            <a href="javascript:" target="_blank" class="transition js-show-feedback-box min-feedback">用户反馈</a>
+        </div>
+        <span>Copyright ? <a href="https://www.huxiu.com">虎嗅网</a> <a href="http://www.miitbeian.gov.cn/" target="_blank">京ICP备12013432号-1</a>
+            &nbsp;<a href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11010102001402" target="_blank"><i class="i-wj"></i>京公网安备 11010102001402号</a>&nbsp;&nbsp;&nbsp;<em class="bull-right">本站由</em><i class="icon-aliyun" style="width: 70px;background-size: 100%;left: 7px;"></i><em class="bull-em">提供计算与安全服务</em>
+        </span>
+        <div class="footer-icon-list pull-right">
+            <ul>
+                <a><li class="Qr-code-footer">
+                    <div class="app-qrcode">
+                        <img src="https://statics.huxiu.com/w/mini/static_2015/img/weixin_erweima.png">
+                    </div>
+                    <i class="icon icon-footer icon-footer-wx"></i>
+                </li>
+                </a>
+                <a><li class="Qr-code-footer">
+                    <div class="app-qrcode">
+                        <img src="https://statics.huxiu.com/w/mini/static_2015/img/app_erweima.png">
+                    </div>
+                    <i class="icon icon-footer icon-footer-ios"></i>
+                </li>
+                </a>
+                <a><li class="Qr-code-footer">
+                    <div class="app-qrcode">
+                        <img src="https://statics.huxiu.com/w/mini/static_2015/img/app_erweima.png">
+                    </div>
+                    <i class="icon icon-footer icon-footer-android"></i>
+                </li>
+                </a>
+                <a href="http://en.huxiu.com" target="_blank" title="虎嗅英文版">
+                    <li><i class="icon icon-footer icon-footer-inter"></i></li>
+                </a>
+                <a href="http://www.huxiu.com/rss" target="_blank" title="虎嗅RSS订阅中心">
+                    <li><i class="icon icon-footer icon-footer-rss"></i></li>
+                </a>
+            </ul>
+        </div>
+    </div>
+</footer>
+
+
+<script type="text/javascript" src="https://statics.huxiu.com/w/mini/static_2015/js/jquery-1.11.1.min.js?v=201512181512"></script>
+<script type="text/javascript" src="https://statics.huxiu.com/w/mini/static_2015/js/jquery.detection.js?v=201602171455"></script><!--埋点统计-->
+<script type="text/javascript" src="https://statics.huxiu.com/w/mini/static_2015/js/sea.js?v=201601150944"></script>
+<script>
+    var base_static_url = $('meta[name="base-static-url"]').attr('content');
+    seajs.config({
+        base: (!!base_static_url) ? base_static_url + '/static_2015/js/' : '/static_2015/js/',
+        comboSyntax: ['??', ','],
+        alias: {
+            'jquery': 'jquery-1.11.1.min',
+            'bootstrap': 'bootstrap.min',
+            'sea_combo_flush': 'sea_combo_flush.js',
+            'cookie': 'jquery.cookie',
+            's_css': 'seajs_css'
+        },
+        'map': [
+            [/^(.*\.(?:css|js))(.*)$/i, '$1?201702091800']
+        ],
+        charset: 'utf-8'
+    });
+    seajs.use(['init']);
+</script>
+<script type="text/javascript" src="https://statics.huxiu.com/w/mini/static_2015/js/seajs_css.js?v=201602170953"></script>
+
+<script src="https://res.wx.qq.com/connect/zh_CN/htmledition/js/wxLogin.js"></script>
+
+<!--[if lt IE 10]>
+<script type="text/javascript">
+
+    if( !('placeholder' in document.createElement('input')) ){
+        $('input[placeholder],textarea[placeholder]').each(function(){
+            var that = $(this),
+                text= that.attr('placeholder');
+            if(that.val()===""){
+                that.val(text).addClass('placeholder');
+            }
+            that.focus(function(){
+                if(that.val()===text){
+                    that.val("").removeClass('placeholder');
+                }
+            })
+                .blur(function(){
+                    if(that.val()===""){
+                        that.val(text).addClass('placeholder');
+                    }
+                })
+                .closest('form').submit(function(){
+                    if(that.val() === text){
+                        that.val('');
+                    }
+                });
+        });
+    }
+
+    function hasClass(element, className) {
+        var reg = new RegExp('(\\s|^)'+className+'(\\s|$)');
+        return element.className.match(reg);
+    }
+    function addClass(element, className) {
+        if (!this.hasClass(element, className))
+        {
+            element.className += " "+className;
+        }
+    }
+    function removeClass(element, className) {
+        if (hasClass(element, className)) {
+            var reg = new RegExp('(\\s|^)'+className+'(\\s|$)');
+            element.className = element.className.replace(reg,' ');
+        }
+    }
+    var search = document.getElementById('search-box');
+    addClass(search, 'search-box-last');
+    addClass(search, 'hide');
+</script>
+<![endif]-->
+
+
+
+<script>
+    (function(){
+        var bp = document.createElement('script');
+        var curProtocol = window.location.protocol.split(':')[0];
+        if (curProtocol === 'https') {
+            bp.src = 'https://zz.bdstatic.com/linksubmit/push.js';
+        }
+        else {
+            bp.src = 'http://push.zhanzhang.baidu.com/push.js';
+        }
+        var s = document.getElementsByTagName("script")[0];
+        s.parentNode.insertBefore(bp, s);
+    })();
+
+</script>
+<script>
+    $(document).ready(function(){
+        var relatedArcWrap=$('#related-article-wrap');
+        var relatedArcWrapHide=$('#related-article-wrap-hide').val();
+        $.ajax({
+            url:'/relatedArticle/'+relatedArcWrapHide,
+            type:'get',
+            dataType: 'json',
+            async: true,
+            success:function(data){
+                if(data.success==true){
+                    relatedArcWrap.append(data.data.data);
+                }
+            }
+        });
+    });
+    $(document).on('click','.js-related-article',function(){
+        var aid = $(this).attr('data-id');
+        var relatedSourceType=$('#relatedSourceType').val();
+        window.open('/article/' + aid +'.html?rec='+relatedSourceType);
+        if(relatedSourceType=='manual'){
+            $.myDetection.htmDetection('文章,相关文章手动,点击');
+        }else if(relatedSourceType=='similar'){
+            $.myDetection.htmDetection('文章,相关文章机器自动,点击');
+        }
+
+    });
+</script>
+</body>
+</html>
