@@ -30,8 +30,10 @@ int main(void)
 			search_KeyWord(Root, buffer);
 			break;
 		case 3:
-			printf("所有文章的标题如下\n");
-			search_Title(Root);
+			printf("请输入要查找的标题关键词\n");
+			scanf("%s", buffer);
+			getchar();
+			search_Title(Root, buffer);
 			break;
 		case 0:
 			printf("退出系统\n");
@@ -178,14 +180,16 @@ status Creat_HTML_List(void)
                 }
                 if(!IS_ignore)
                     token_handle(buffer, strlen(buffer), sign);
-                /*char *p = NULL;
+                char *p = NULL;
                 char *href[100];
                 if ((p = strstr(token, "href")) != NULL){
                     sscanf(p, "%*[^\"]\"%[^\"]", href);
-                    if (strstr(href, "www") != NULL){
+                    if (strstr(href, "http") != NULL || strstr(href, "www") != NULL){
                         printf("%s: %s\n", buffer, href);
+                        sign = VALUE;
+                        token_handle(href, strlen(href), sign);
                     }
-                }*/
+                }
                 strcpy(buffer, "");
 				strcpy(token, "");
 				token_len = 0;
@@ -316,6 +320,16 @@ status Creat_HTML_Tree(Label_node **Root)
             top--;
         }else if (token_temp->type == INNERTEXT){
             stack[top]->info = token_temp->elem;
+        }else if (token_temp->type == VALUE && stack[top] != NULL){
+            Label_new = (Label_node *)malloc(sizeof(Label_node));
+            Label_new->classify = VALUE;
+            Label_new->info = token_temp->elem;
+            Label_new->Label_value = NULL;
+            Label_new->Para_label = NULL;
+            Label_new->Parent_label = stack[top];
+            Label_new->Sub_label = NULL;
+            strcpy(Label_new->label_name, "href");
+            stack[top]->Label_value = Label_new;
         }
         token_temp = token_temp->next;
     }
@@ -338,25 +352,31 @@ int search_KeyWord(Label_node *T, char *Key){
         return 0;
     if (T->info != NULL){
         if (strstr(T->info, Key) != NULL){
-            printf("  %s : %s\n", T->label_name, T->info);
-            return 1;
+            printf("  %s : %s", T->label_name, T->info);
+            if (T->Label_value != NULL){
+                printf(" %s", T->Label_value->info);
+            }
+            printf("\n\n");
         }
     }
     search_KeyWord(T->Para_label, Key);
     search_KeyWord(T->Sub_label, Key);
 }
 
-void search_Title(Label_node *T){
+void search_Title(Label_node *T, char *Key){
     if (T == NULL)
         return;
     if (strcmp(T->label_name, "h1") == 0 || strcmp(T->label_name, "h2") == 0 || strcmp(T->label_name, "h3") == 0 ||
         strcmp(T->label_name, "h4") == 0 || strcmp(T->label_name, "h5") == 0 || strcmp(T->label_name, "h6") == 0 ||
         strcmp(T->label_name, "title") == 0){
-            if (T->info != NULL){
-                printf("  %s : %s\n", T->label_name, T->info);
+            if (T->info != NULL && strstr(T->info, Key) != NULL){
+                printf("  %s : %s ", T->label_name, T->info);
+                if (T->Label_value != NULL){
+                    printf("%s", T->Label_value->info);
+                }
+                printf("\n");
             }
-            search_KeyWord(T->Sub_label, "");
         }
-    search_Title(T->Para_label);
-    search_Title(T->Sub_label);
+    search_Title(T->Para_label, Key);
+    search_Title(T->Sub_label, Key);
 }

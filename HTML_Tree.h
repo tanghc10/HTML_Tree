@@ -11,7 +11,7 @@
 #define MAX_LabelName_Length 50
 typedef int status;
 
-enum {START, END, NOEND, INNERTEXT};   //token的类型
+enum {START, END, NOEND, INNERTEXT, VALUE};   //token的类型
 
 /**
  *预处理链表结点
