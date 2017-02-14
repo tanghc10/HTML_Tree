@@ -425,7 +425,7 @@ int search_KeyWord(Label_node *T, char *Key, int *is_find){
             *is_find = 1;
             printf("%s", T->info);
             if (T->Label_value != NULL){
-                printf(" %s", T->Label_value->info);
+                printf(" Link:%s", T->Label_value->info);
             }
             printf("\n\n");
         }
@@ -444,7 +444,7 @@ void search_Title(Label_node *T, char *Key, int *is_find){
                 *is_find = 1;
                 printf("%s ", T->info);
                 if (T->Label_value != NULL){
-                    printf("%s", T->Label_value->info);
+                    printf(" Link:%s", T->Label_value->info);
                 }
                 printf("\n");
             }
@@ -462,7 +462,7 @@ void Traverse_Title(Label_node *T){
             if (T->info != NULL){
                 printf("%s ", T->info);
                 if (T->Label_value != NULL){
-                    printf("%s", T->Label_value->info);
+                    printf(" Link:%s", T->Label_value->info);
                 }
                 printf("\n");
             }
